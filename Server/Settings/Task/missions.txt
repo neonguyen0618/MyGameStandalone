@@ -1,0 +1,5 @@
+MISSION	SCRIPT
+1	\script\missions\宋金战场pk战\宋金战场pk大战.lua
+2	\script\missions\擂台赛\擂台赛.lua
+3	\script\missions\攻城战\攻城战.lua
+4	\script\missions\闯关\闯关.lua

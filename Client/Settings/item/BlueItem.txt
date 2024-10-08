@@ -1,0 +1,691 @@
+名称	ItemGenre	DetailType	ParticularType	动画文件名	对应物件索引	宽度	高度	说明文字	五行属性	价格	等级	是否叠放	基础属性1类型	基础属性1最小值	基础属性1最大值	基础属性2类型	基础属性2最小值	基础属性2最大值	基础属性3类型	基础属性3最小值	基础属性3最大值	基础属性4类型	基础属性4最小值	基础属性4最大值	基础属性5类型	基础属性5最小值	基础属性5最大值	基础属性6类型	基础属性6最小值	基础属性6最大值	基础属性7类型	基础属性7最小值	基础属性7最大值	需求属性1类型	需求属性1数值	需求属性2类型	需求属性2数值	需求属性3类型	需求属性3数值	需求属性4类型	需求属性4数值	需求属性5类型	需求属性5数值	需求属性6类型	需求属性6数值	魔法属性索引1	魔法属性索引2	魔法属性索引3	魔法属性索引4	魔法属性索引5	魔法属性索引6	所在套装
+Thiet Truy Thu	0	0	0	\spr\item\equip\closeweapon\obj-sword01.spr	9	1	3	Loai kiem nho bang sat, kha nang sat thuong kem. 		100	1	0	28	4	4	29	7	7	167	0	0	31	20	20										36	0	32	20	33	0						
+Cang Kiem	0	0	0	\spr\item\equip\closeweapon\obj-sword02.spr	9	1	3	Loai kiem duoc tinh luyen tu thep. 		1200	2	0	28	8	8	29	15	15	167	0	0	31	28	28										36	9	32	20	33	0						
+Thanh Phong Kiem	0	0	0	\spr\item\equip\closeweapon\obj-sword03.spr	9	1	3	Loai kiem mong, tinh luyen, sac nhon. 		2700	3	0	28	12	12	29	23	23	167	0	0	31	36	36										36	18	32	30	33	0						
+Long Tuyen Kiem	0	0	0	\spr\item\equip\closeweapon\obj-sword04.spr	9	1	3	Loai danh kiem thoi Duong, truyen thuyet ke loai kiem nay co Long Khi rat manh. 		4800	4	0	28	16	16	29	31	31	167	0	0	31	44	44										36	27	32	40	33	0						
+Tram Ma Kiem	0	0	0	\spr\item\equip\closeweapon\obj-sword05.spr	9	1	3	Kiem co thoi Duong, than dai va sac, chem ngua cung don gian nhu chat tay. 		7500	5	0	28	21	21	29	39	39	167	0	0	31	52	52										36	36	32	50	33	0						
+O Kim Kiem	0	0	0	\spr\item\equip\closeweapon\obj-sword06.spr	9	1	3	che tao tu loai O Kim quy hiem, co the chem dong chat sat. 		10800	6	0	28	25	25	29	46	46	167	0	0	31	60	60										36	45	32	60	33	0						
+Xi Khiep	0	0	0	\spr\item\equip\closeweapon\obj-sword23.spr	9	1	3	loai kiem co hinh rang cua, than dai rat kho huy dong. 		15000	7	0	28	29	29	29	54	54	167	0	0	31	68	68										36	54	32	70	33	0						
+That Xich Kiem	0	0	0	\spr\item\equip\closeweapon\obj-sword21.spr	9	1	3	Than kiem sieu dai, moc nhany yeu khong the su dung. 		20000	8	0	28	33	33	29	62	62	167	0	0	31	76	76										36	63	32	80	33	0						
+Thien Nhan Kiem	0	0	0	\spr\item\equip\closeweapon\obj-sword22.spr	9	1	3	Loai danh kiem co, dung xa tram dam co the nghe duoc tieng thanh guom keu. 		25000	9	0	28	37	37	29	70	70	167	0	0	31	84	84										36	72	32	90	33	0						
+Huyen Thiet Kiem	0	0	0	\spr\item\equip\closeweapon\obj-sword24.spr	9	1	3	Loai kiem duoc che tu loai huyen thiet van nam, nhon va dai, thich hop chien dau. 		30000	10	0	28	42	42	29	78	78	167	0	0	31	90	90										36	81	32	100	33	0						
+Yeu Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade01.spr	10	1	2	Loai dao nho thong thuong, cac hiep khach rat thich trang bi. 		100	1	0	28	3	3	29	11	11	167	-20	-20	31	22	22										36	0	32	20	33	0						
+Don Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade03.spr	10	1	2	Loai vu khi ma cac Luong Son Hao han thuong thich trang bi, rat de mua. 		1200	2	0	28	7	7	29	21	21	167	-20	-20	31	33	33										36	9	32	30	33	0						
+Quy Dau Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade12.spr	10	1	3	Sat thu rat thich dung, mem deo sac nhon. 		2700	3	0	28	10	10	29	30	30	167	-20	-20	31	44	44										36	18	32	40	33	0						
+Nhan Linh Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade12.spr	10	1	3	Tinh luyen tu thep lanh, khi lanh kinh nguoi. 		4800	4	0	28	14	14	29	42	42	167	-20	-20	31	55	55										36	27	32	50	33	0						
+Nguyet Nha Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade13.spr	10	1	3	Loai kiem co tinh luyen tu nhieu loai doc duoc. 		7500	5	0	28	18	18	29	51	51	167	-20	-20	31	66	66										36	36	32	60	33	0						
+Pha Phong Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade14.spr	10	1	3	Loai dao khi vung len phat ra tieng keu rat dang so, sac nhon vo dich. 		10800	6	0	28	21	21	29	63	63	167	-20	-20	31	77	77										36	45	32	70	33	0
+Con Chau Bao Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade21.spr	10	1	4	Mot loai dao lam nen nhieu truyen thuyet, sac den muc dat soi toc len cung dut. 		15000	7	0	28	25	25	29	72	72	167	-20	-20	31	88	88										36	54	32	80	33	0
+Yen Nguyet Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade22.spr	10	1	4	Dai dao vua day vua nang, Nguoi mang no rat co uy phong. 		20000	8	0	28	28	28	29	84	84	167	-20	-20	31	99	99										36	63	32	90	33	0
+Thanh Long Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade23.spr	10	1	4	Thanh dao ma Quan Van Truong da tung su dung, bao vat hiem thay. 		25000	9	0	28	32	32	29	93	93	167	-20	-20	31	110	110										36	72	32	100	33	0
+Dai Phong Dao	0	0	1	\spr\item\equip\closeweapon\obj-blade24.spr	10	1	4	Sac nhon kho bi, chem sat da cung giong nhu chem vao bun. 		30000	10	0	28	36	36	29	105	105	167	-20	-20	31	120	120										36	81	32	110	33	0
+Thieu Hoa Con	0	0	2	\spr\item\equip\closeweapon\obj-staff01.spr	11	2	3	Loai con hai dau bit thep ma hau nhu cac mon phai deu su dung. 		100	1	0	28	6	6	29	11	11	167	-10	-10	31	28	28										36	0	32	30	33	0
+Te Mi Con	0	0	2	\spr\item\equip\closeweapon\obj-staff02.spr	11	2	3	Loai con lam tu sap mat ong, mem deo vo dich. 		1500	2	0	28	12	12	29	23	23	167	-10	-10	31	41	41										36	9	32	45	33	0
+Ban Hoa Con	0	0	2	\spr\item\equip\closeweapon\obj-staff02.spr	11	2	3	Loai con co cham khac phu dieu rat dep.		3000	3	0	28	18	18	29	35	35	167	-10	-10	31	53	53										36	18	32	60	33	0
+Ho Vi Con	0	0	2	\spr\item\equip\closeweapon\obj-staff03.spr	11	2	3	Loai con lam tu thep, dai tam thuoc, co cham phu dieu. 		5000	4	0	28	25	25	29	46	46	167	-10	-10	31	65	65										36	27	32	75	33	0
+Tieu Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff04.spr	11	2	3	Loai con thuong nhung co trang bi them phong tieu. 		7500	5	0	28	31	31	29	58	58	167	-10	-10	31	77	77										36	36	32	90	33	0
+Can Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff11.spr	11	1	4	Loai con bong che tu sap ong, cuc ky mem deo. 		10000	6	0	28	37	37	29	70	70	167	-10	-10	31	89	89										36	45	32	105	33	0
+Lang Nha Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff12.spr	11	1	4	Loai binh khi nguoi Kim rat thich su dung, nguoi dung can phai co suc luc. 		15000	7	0	28	44	44	29	81	81	167	-10	-10	31	111	111										36	54	32	120	33	0
+Hon Thiet Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff12.spr	11	1	4	Loai con duoc lam tu nhieu thu kim loai, rat nang. 		21000	8	0	28	50	50	29	93	93	167	-10	-10	31	123	123										36	63	32	135	33	0
+Giac Hai Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff13.spr	11	1	4	Loai con den nay phuong thuc che tao van con bi truyen, co the lam long troi lo dat. 		28000	9	0	28	56	56	29	105	105	167	-10	-10	31	130	130										36	72	32	150	33	0
+Kim Co Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff13.spr	11	1	4	Loai thiet bong dau bit kim co, giong nhu cay Nhu y Bong cua Ton Ngo Khong da dung. 		36000	10	0	28	63	63	29	117	117	167	-10	-10	31	140	140										36	81	32	165	33	0
+Thiet Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear11.spr	12	1	3	La loai thuong lam tu go nhung tren dau co bit sat. 		100	1	0	28	1	1	29	14	14	167	30	30	31	18	18										36	0	32	25	33	20
+Truong Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear21.spr	12	2	4	Loai thuong thuong dung khi tap luyen, thuc te rat it khi dung de chien dau. 		1500	2	0	28	3	3	29	28	28	167	30	30	31	25	25										36	9	32	36	33	36
+Diem Cang Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear01.spr	12	1	4	Tren dau duoc boc thep, suc sat thuong hon han loai thuong lam tu go. 		3000	3	0	28	4	4	29	43	43	167	30	30	31	32	32										36	18	32	48	33	48
+Cau Liem Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear22.spr	12	2	4	Tu Ninh -hao han cua Luong Son Bac-rat thao dung, ve sau da dung no de pha Lien Hoan ma. 		5000	4	0	28	6	6	29	57	57	167	30	30	31	39	39										36	27	32	61	33	61
+Hoan Tu Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear02.spr	12	1	4	Thuong co boc nhung vien thep nho, khi huy dong no phat ra nhung tieng keu, rat la uy phong. 		7500	5	0	28	8	8	29	72	72	167	30	30	31	46	46										36	36	32	74	33	74
+Bao Vi Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear03.spr	12	1	4	Loai thuong toan bang Bac, dai khoang 4 thuoc, cac thi ve cua Hoang de thuong dung. 		10000	6	0	28	9	9	29	86	86	167	30	30	31	53	53										36	45	32	87	33	87
+Nhan Linh Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear13.spr	12	1	3	Thuong duoc lam tu thep lanh, rat hiem thay. 		15000	7	0	28	11	11	29	100	100	167	30	30	31	60	60										36	54	32	99	33	99
+Tu Cot Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear23.spr	12	2	4	Loai thuong vo cung nhe, co the dam xuyen xuong cot, mot thu binh khi cuc doc. 		21000	8	0	28	12	12	29	115	115	167	30	30	31	67	67										36	63	32	111	33	111
+Hoa Nhue Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear14.spr	12	1	3	Mot loai bao thuong trong truyen thuyet, hinh nhu co mot suc manh than bi. 		28000	9	0	28	14	14	29	129	129	167	30	30	31	74	74										36	72	32	124	33	124
+Pha Thien Kich	0	0	3	\spr\item\equip\closeweapon\obj-spear04.spr	12	1	4	Loai kich dau boc thep tinh luyen, co the dam thung moi thu. 		36000	10	0	28	16	16	29	144	144	167	30	30	31	81	81										36	81	32	138	33	138
+Toan Dau Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha01.spr	13	2	2	Duc tu Dong xanh, tuy hoi nang nhung thuong duoc dung de tap luyen. 		100	1	0	28	5	5	29	15	15	167	-30	-30	31	42	42										36	0	32	35	33	0
+Bat Lang Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha11.spr	13	2	3	Loai chuy rat nang, khong tien de chien dau. 		1200	2	0	28	10	10	29	30	30	167	-30	-30	31	61	61										36	9	32	55	33	0
+Ngu Tinh Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha03.spr	13	2	2	Hinh dang ky di, cach su dung cung khac biet. 		2700	3	0	28	15	15	29	45	45	167	-30	-30	31	80	80										36	18	32	80	33	0
+Tich Lich Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha03.spr	13	2	2	Khi vung len tieng vang nhu sam set, khien ke dich hon phi phach tan. 		4500	4	0	28	20	20	29	60	60	167	-30	-30	31	99	99										36	27	32	100	33	0
+Luong Ngan Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha02.spr	13	2	2	Duc tu Bach Ngan, nhe va suc cong pha khong hieu qua. 		7500	5	0	28	25	25	29	75	75	167	-30	-30	31	118	118										36	36	32	115	33	0
+Lang Nha Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha12.spr	13	2	3	Manh tuong Kim Don Tu cua Kim quoc thuong su dung, vo cung loi hai. 		9000	6	0	28	30	30	29	90	90	167	-30	-30	31	137	137										36	45	32	135	33	0
+Liet Tam Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha12.spr	13	2	3	Ha Nguyen Khanh-Dai tuong cua Nhac Phi - thuong su dung, uy phong lam liet. 		13500	7	0	28	35	35	29	105	105	167	-30	-30	31	156	156										36	54	32	155	33	0
+Kim Qua Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha13.spr	13	2	3	Nghiem Thanh Phuong - Dai tuong cua Nhac Phi - thuong su dung, uy phong lam liet. 		20000	8	0	28	40	40	29	120	120	167	-30	-30	31	173	173										36	63	32	170	33	0
+Nghiet Long Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha14.spr	13	2	3	La mot trong nhung loai than chuy trong truyen thuyet, chi co than tuong moi su dung. 		27000	9	0	28	45	45	29	135	135	167	-30	-30	31	187	187										36	72	32	185	33	0
+Pha Thien Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha04.spr	13	2	2	Ly Nguyen Ba - de nhat danh tuong doi Duong - da luu lai, Uy luc vo bien. 		32000	10	0	28	50	50	29	150	150	167	-30	-30	31	200	200										36	81	32	200	33	0
+Nga My Thich	0	0	5	\spr\item\equip\closeweapon\obj-adsd01.spr	14	2	2	Loai binh khi ma nhung co gai gay yeu htuong hay trang bi ho than. 		100	1	0	28	5	5	29	8	8	167	20	20	31	15	15										36	0	32	20	33	20
+Tan Thiet Song Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd11.spr	14	2	3	Loai dao duoc ren tu thep gia, cuc ky nang. 		1200	2	0	28	11	11	29	16	16	167	20	20	31	22	22										36	9	32	25	33	20
+Nguyet Nha Song Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd01.spr	14	2	2	Loai vu khi co the bao ve duoc cho ca canh tay, cong thu toan dien. 		2700	3	0	28	16	16	29	25	25	167	20	20	31	29	29										36	18	32	30	33	30
+Hac Bach Song Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd02.spr	14	2	2	mot thanh duoc tinh luyen tu thep, mot thanh duoc tinh luyen tu sat. 		4800	4	0	28	22	22	29	33	33	167	20	20	31	37	37										36	27	32	35	33	40
+Tuyet Hoa Luong Ngan Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd12.spr	14	2	3	Dai khoang 3 thuoc, trong truyen thuyet Vo Tong da tung dung de tru gian diet ac. 		7500	5	0	28	28	28	29	42	42	167	20	20	31	44	44										36	36	32	40	33	50
+Uyen Uong Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd02.spr	14	2	2	Mot loai dao hai ben co hai moc cau, rat kho su dung. 		10800	6	0	28	33	33	29	50	50	167	20	20	31	52	52										36	45	32	45	33	60
+Phu Dung Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd03.spr	14	2	2	Loai dao ren tu thep lanh, sat khi ngun ngut, rat dang so. 		15000	7	0	28	39	39	29	58	58	167	20	20	31	59	59										36	54	32	50	33	70
+Ho Diep Song Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd11.spr	14	2	3	Nhe nhang, kheo leo, giong nhu doi buom dang mua luon. 		20000	8	0	28	44	44	29	67	67	167	20	20	31	66	66										36	63	32	55	33	80
+Thu Vu Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd13.spr	14	2	3	Sat khi lanh gia kinh nguoi, sat khi du de giet chet ke dich. 		25000	9	0	28	50	50	29	75	75	167	20	20	31	73	73										36	72	32	60	33	90
+Thon Nhat Tram	0	0	5	\spr\item\equip\closeweapon\obj-adsd14.spr	14	2	3	Bao ca nhat nguyet tinh hoa, co the xem la thien ha de nhat dao. 		30000	10	0	28	56	56	29	84	84	167	20	20	31	80	80										36	81	32	65	33	100
+Thieu Hoa Con	0	0	2	\spr\item\equip\closeweapon\obj-staff01.spr	11	2	3	Loai con hai dau bit thep ma hau nhu cac mon phai deu su dung. 		100	241	0	31	99	99	29	11	11	167	-10	-10	31	28	28										36	0	32	30	33	0
+Te Mi Con	0	0	2	\spr\item\equip\closeweapon\obj-staff02.spr	11	2	3	Loai con lam tu sap mat ong, mem deo vo dich. 		1500	242	0	31	99	99	29	23	23	167	-10	-10	31	41	41										36	9	32	45	33	0
+Ban Hoa Con	0	0	2	\spr\item\equip\closeweapon\obj-staff02.spr	11	2	3	Loai con co cham khac phu dieu rat dep.		3000	243	0	31	99	99	29	35	35	167	-10	-10	31	53	53										36	18	32	60	33	0
+Ho Vi Con	0	0	2	\spr\item\equip\closeweapon\obj-staff03.spr	11	2	3	Loai con lam tu thep, dai tam thuoc, co cham phu dieu. 		5000	244	0	31	99	99	29	46	46	167	-10	-10	31	65	65										36	27	32	75	33	0
+Tieu Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff04.spr	11	2	3	Loai con thuong nhung co trang bi them phong tieu. 		7500	245	0	31	99	99	29	58	58	167	-10	-10	31	77	77										36	36	32	90	33	0
+Can Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff11.spr	11	1	4	Loai con bong che tu sap ong, cuc ky mem deo. 		10000	246	0	31	99	99	29	70	70	167	-10	-10	31	89	89										36	45	32	105	33	0
+Lang Nha Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff12.spr	11	1	4	Loai binh khi nguoi Kim rat thich su dung, nguoi dung can phai co suc luc. 		15000	247	0	31	99	99	29	81	81	167	-10	-10	31	111	111										36	54	32	120	33	0
+Hon Thiet Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff12.spr	11	1	4	Loai con duoc lam tu nhieu thu kim loai, rat nang. 		21000	248	0	31	99	99	29	93	93	167	-10	-10	31	123	123										36	63	32	135	33	0
+Giac Hai Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff13.spr	11	1	4	Loai con den nay phuong thuc che tao van con bi truyen, co the lam long troi lo dat. 		28000	249	0	31	99	99	29	105	105	167	-10	-10	31	130	130										36	72	32	150	33	0
+Kim Co Bong	0	0	2	\spr\item\equip\closeweapon\obj-staff13.spr	11	1	4	Loai thiet bong dau bit kim co, giong nhu cay Nhu y Bong cua Ton Ngo Khong da dung. 		36000	250	0	31	99	99	29	117	117	167	-10	-10	31	140	140										36	81	32	165	33	0
+Thiet Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear11.spr	12	1	3	La loai thuong lam tu go nhung tren dau co bit sat. 		100	241	0	31	99	99	29	14	14	167	30	30	31	18	18										36	0	32	25	33	20
+Truong Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear21.spr	12	2	4	Loai thuong thuong dung khi tap luyen, thuc te rat it khi dung de chien dau. 		1500	242	0	31	99	99	29	28	28	167	30	30	31	25	25										36	9	32	36	33	36
+Diem Cang Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear01.spr	12	1	4	Tren dau duoc boc thep, suc sat thuong hon han loai thuong lam tu go. 		3000	243	0	31	99	99	29	43	43	167	30	30	31	32	32										36	18	32	48	33	48
+Cau Liem Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear22.spr	12	2	4	Tu Ninh -hao han cua Luong Son Bac-rat thao dung, ve sau da dung no de pha Lien Hoan ma. 		5000	244	0	31	99	99	29	57	57	167	30	30	31	39	39										36	27	32	61	33	61
+Hoan Tu Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear02.spr	12	1	4	Thuong co boc nhung vien thep nho, khi huy dong no phat ra nhung tieng keu, rat la uy phong. 		7500	245	0	31	99	99	29	72	72	167	30	30	31	46	46										36	36	32	74	33	74
+Bao Vi Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear03.spr	12	1	4	Loai thuong toan bang Bac, dai khoang 4 thuoc, cac thi ve cua Hoang de thuong dung. 		10000	246	0	31	99	99	29	86	86	167	30	30	31	53	53										36	45	32	87	33	87
+Nhan Linh Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear13.spr	12	1	3	Thuong duoc lam tu thep lanh, rat hiem thay. 		15000	247	0	31	99	99	29	100	100	167	30	30	31	60	60										36	54	32	99	33	99
+Tu Cot Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear23.spr	12	2	4	Loai thuong vo cung nhe, co the dam xuyen xuong cot, mot thu binh khi cuc doc. 		21000	248	0	31	99	99	29	115	115	167	30	30	31	67	67										36	63	32	111	33	111
+Hoa Nhue Thuong	0	0	3	\spr\item\equip\closeweapon\obj-spear14.spr	12	1	3	Mot loai bao thuong trong truyen thuyet, hinh nhu co mot suc manh than bi. 		28000	249	0	31	99	99	29	129	129	167	30	30	31	74	74										36	72	32	124	33	124
+Pha Thien Kich	0	0	3	\spr\item\equip\closeweapon\obj-spear04.spr	12	1	4	Loai kich dau boc thep tinh luyen, co the dam thung moi thu. 		36000	250	0	31	99	99	29	144	144	167	30	30	31	81	81										36	81	32	138	33	138
+Toan Dau Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha01.spr	13	2	2	Duc tu Dong xanh, tuy hoi nang nhung thuong duoc dung de tap luyen. 		100	241	0	31	99	99	29	15	15	167	-30	-30	31	42	42										36	0	32	35	33	0
+Bat Lang Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha11.spr	13	2	3	Loai chuy rat nang, khong tien de chien dau. 		1200	242	0	31	99	99	29	30	30	167	-30	-30	31	61	61										36	9	32	55	33	0
+Ngu Tinh Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha03.spr	13	2	2	Hinh dang ky di, cach su dung cung khac biet. 		2700	243	0	31	99	99	29	45	45	167	-30	-30	31	80	80										36	18	32	80	33	0
+Tich Lich Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha03.spr	13	2	2	Khi vung len tieng vang nhu sam set, khien ke dich hon phi phach tan. 		4500	244	0	31	99	99	29	60	60	167	-30	-30	31	99	99										36	27	32	100	33	0
+Luong Ngan Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha02.spr	13	2	2	Duc tu Bach Ngan, nhe va suc cong pha khong hieu qua. 		7500	245	0	31	99	99	29	75	75	167	-30	-30	31	118	118										36	36	32	115	33	0
+Lang Nha Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha12.spr	13	2	3	Manh tuong Kim Don Tu cua Kim quoc thuong su dung, vo cung loi hai. 		9000	246	0	31	99	99	29	90	90	167	-30	-30	31	137	137										36	45	32	135	33	0
+Liet Tam Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha12.spr	13	2	3	Ha Nguyen Khanh-Dai tuong cua Nhac Phi - thuong su dung, uy phong lam liet. 		13500	247	0	31	99	99	29	105	105	167	-30	-30	31	156	156										36	54	32	155	33	0
+Kim Qua Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha13.spr	13	2	3	Nghiem Thanh Phuong - Dai tuong cua Nhac Phi - thuong su dung, uy phong lam liet. 		20000	248	0	31	99	99	29	120	120	167	-30	-30	31	173	173										36	63	32	170	33	0
+Nghiet Long Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha14.spr	13	2	3	La mot trong nhung loai than chuy trong truyen thuyet, chi co than tuong moi su dung. 		27000	249	0	31	99	99	29	135	135	167	-30	-30	31	187	187										36	72	32	185	33	0
+Pha Thien Chuy	0	0	4	\spr\item\equip\closeweapon\obj-adha04.spr	13	2	2	Ly Nguyen Ba - de nhat danh tuong doi Duong - da luu lai, Uy luc vo bien. 		32000	250	0	31	99	99	29	150	150	167	-30	-30	31	200	200										36	81	32	200	33	0
+Nga My Thich	0	0	5	\spr\item\equip\closeweapon\obj-adsd01.spr	14	2	2	Loai binh khi ma nhung co gai gay yeu htuong hay trang bi ho than. 		100	241	0	31	99	99	29	8	8	167	20	20	31	15	15										36	0	32	20	33	20
+Tan Thiet Song Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd11.spr	14	2	3	Loai dao duoc ren tu thep gia, cuc ky nang. 		1200	242	0	31	99	99	29	16	16	167	20	20	31	22	22										36	9	32	25	33	20
+Nguyet Nha Song Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd01.spr	14	2	2	Loai vu khi co the bao ve duoc cho ca canh tay, cong thu toan dien. 		2700	243	0	31	99	99	29	25	25	167	20	20	31	29	29										36	18	32	30	33	30
+Hac Bach Song Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd02.spr	14	2	2	mot thanh duoc tinh luyen tu thep, mot thanh duoc tinh luyen tu sat. 		4800	244	0	31	99	99	29	33	33	167	20	20	31	37	37										36	27	32	35	33	40
+Tuyet Hoa Luong Ngan Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd12.spr	14	2	3	Dai khoang 3 thuoc, trong truyen thuyet Vo Tong da tung dung de tru gian diet ac. 		7500	245	0	31	99	99	29	42	42	167	20	20	31	44	44										36	36	32	40	33	50
+Uyen Uong Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd02.spr	14	2	2	Mot loai dao hai ben co hai moc cau, rat kho su dung. 		10800	246	0	31	99	99	29	50	50	167	20	20	31	52	52										36	45	32	45	33	60
+Phu Dung Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd03.spr	14	2	2	Loai dao ren tu thep lanh, sat khi ngun ngut, rat dang so. 		15000	247	0	31	99	99	29	58	58	167	20	20	31	59	59										36	54	32	50	33	70
+Ho Diep Song Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd11.spr	14	2	3	Nhe nhang, kheo leo, giong nhu doi buom dang mua luon. 		20000	248	0	31	99	99	29	67	67	167	20	20	31	66	66										36	63	32	55	33	80
+Thu Vu Dao	0	0	5	\spr\item\equip\closeweapon\obj-adsd13.spr	14	2	3	Sat khi lanh gia kinh nguoi, sat khi du de giet chet ke dich. 		25000	249	0	31	99	99	29	75	75	167	20	20	31	73	73										36	72	32	60	33	90
+Thon Nhat Tram	0	0	5	\spr\item\equip\closeweapon\obj-adsd14.spr	14	2	3	Bao ca nhat nguyet tinh hoa, co the xem la thien ha de nhat dao. 		30000	250	0	31	99	99	29	84	84	167	20	20	31	80	80										36	81	32	65	33	100
+Kim Tien Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart01.spr	15	1	1	Loai phi tieu bang dong thong thuong. 		20	1	1	28	4	4	29	9	9	167	0	0	31	50	50										36	0	32	0	33	30						
+Thieu Lam Tao Nhan Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart01.spr	15	1	1	am khi bang dong, nho nhu hat tao. 		30	2	1	28	7	7	29	18	18	167	0	0	31	50	50										36	9	32	10	33	45						
+Yen Tu Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart01.spr	15	1	1	Loai phi tieu nhu duoi chim yen, bay khong nghe tieng keu, ha thu chinh xac. 		40	3	1	28	12	12	29	28	28	167	0	0	31	50	50										36	18	32	15	33	60						
+Thap Tu Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart02.spr	15	1	1	Loai phi tieu cac nhan gia Nhat Ban thuong thich su dung, nhung tieng keu rat to. 		60	4	1	28	15	15	29	36	36	167	0	0	31	50	50										36	27	32	20	33	75						
+Lieu Diep Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart02.spr	15	1	1	Mong nhu la lieu, ky thuat phai that dieu luyen moi co the phong trung. 		80	5	1	28	19	19	29	44	44	167	0	0	31	50	50										36	36	32	30	33	90						
+Phi Hoang Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart02.spr	15	1	1	Than co hai canh, sau duoi co mot moc cau, la loai am khi rat loi hai. 		100	6	1	28	23	23	29	54	54	167	0	0	31	50	50										36	45	32	40	33	105						
+Thieu Lam Luong Ngan Phi Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart03.spr	15	1	1	Nguoi xuat gia lay tu bi lam dau, am khi chi sat thuong nhe. 		140	7	1	28	27	27	29	63	63	167	0	0	31	50	50										36	54	32	50	33	120						
+Ho Diep Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart03.spr	15	1	1	Hinh nhu buom buom, co the bay luon trong khong trung. 		180	8	1	28	31	31	29	72	72	167	0	0	31	50	50										36	63	32	60	33	135						
+Kim Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart03.spr	15	1	1	Loai phi tieu bang sat dau bit vang, nhon va rat nang, phai co suc manh moi co the su dung. 		250	9	1	28	34	34	29	81	81	167	0	0	31	50	50										36	72	32	70	33	150						
+Ba Vuong Tieu	0	1	0	\spr\item\equip\rangeweapon\obj-adart04.spr	15	1	1	Loai phi tieu nay dung ra phai goi la mminh khi, hinh dang to lon khong the goi la am khi. 		330	10	1	28	38	38	29	89	89	167	0	0	31	50	50										36	81	32	80	33	155						
+Phi Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart11.spr	15	1	1	Loai phi tieu nay tru phi la cac cao thu su dung, neu khong se khong co cong hieu. 		20	1	1	28	6	6	29	11	11	167	-20	-20	31	50	50										36	0	32	20	33	30						
+Cang Phi Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart11.spr	15	1	1	Loai phi dao duoc lam tu thep tinh che. 		30	2	1	28	9	9	29	20	20	167	-20	-20	31	50	50										36	9	32	28	33	40						
+Lieu Diep Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart11.spr	15	1	1	Loai dao cuc mong, toc do rat nhanh. 		40	3	1	28	14	14	29	30	30	167	-20	-20	31	50	50										36	18	32	39	33	50						
+Nhan Vi Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart11.spr	15	1	1	Than nho va dai, rat kho su dung, can phai co trinh do nhat dinh moi co the dung. 		60	4	1	28	17	17	29	38	38	167	-20	-20	31	50	50										36	27	32	49	33	60						
+Dai Y Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart11.spr	15	1	1	Che tao tu hop kim, su dung don gian, suc sat thuong lon. 		80	5	1	28	21	21	29	46	46	167	-20	-20	31	50	50										36	36	32	59	33	70						
+Dao Hoa Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart12.spr	15	1	1	Loai phi dao nho va mong. 		100	6	1	28	25	25	29	56	56	167	-20	-20	31	50	50										36	45	32	69	33	80
+Quang Can Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart12.spr	15	1	1	Loai phi dao khong co chuoi, chi dung chuong luc de phong di, rat kho su dung. 		140	7	1	28	29	29	29	65	65	167	-20	-20	31	50	50										36	54	32	79	33	90
+Tam Y Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart12.spr	15	1	1	Tuy y ma phong, bach phat bach trung, la loai am khi rat huu dung		180	8	1	28	33	33	29	74	74	167	-20	-20	31	50	50										36	63	32	89	33	100
+Doc Co Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart12.spr	15	1	1	Loai phi dao thong thuong nhung co tam thuoc doc. 		300	9	1	28	36	36	29	83	83	167	-20	-20	31	50	50										36	72	32	99	33	110
+Toai Nguyet Dao	0	1	1	\spr\item\equip\rangeweapon\obj-adart12.spr	15	1	1	Loai phi dao nho va mong, phong ra giong nhu vo hinh. 		330	10	1	28	40	40	29	91	91	167	-20	-20	31	50	50										36	81	32	109	33	120
+Tu Tien	0	1	2	\spr\item\equip\rangeweapon\obj-adart21.spr	17	1	3	Giau trong ong sao, khi thoi vao se phong ra, nhung kha nang sat thuong thap. 		150	1	0	28	8	8	29	13	13	167	0	0	31	28	28										36	0	32	15	33	35
+Tuc De Cham	0	1	2	\spr\item\equip\rangeweapon\obj-adart24.spr	17	2	2	Giau duoi long ban chan, khi nhac chan len se phong, rat kho de phong. 		400	2	0	28	11	11	29	22	22	167	0	0	31	46	46										36	9	32	20	33	50
+Tinh Trang Tu Tien	0	1	2	\spr\item\equip\rangeweapon\obj-adart21.spr	17	1	3	La loai Tu tien nhung suc phong di rat manh. 		1000	3	0	28	16	16	29	32	32	167	0	0	31	42	42										36	18	32	25	33	70
+Thanh Phong Dinh	0	1	2	\spr\item\equip\rangeweapon\obj-adart24.spr	17	2	2	Loai kim giau trong ong dong, khi thoi vao se phong di, rat kho phong bi. 		1600	4	0	28	19	19	29	40	40	167	0	0	31	65	65										36	27	32	30	33	90
+Boi Trang No	0	1	2	\spr\item\equip\rangeweapon\obj-adart22.spr	16	2	2	Loai am khi nguy hiem giau tren lung, khi cui dau se phong ra, rat kho phong bi. 		3000	5	0	28	23	23	29	48	48	167	0	0	31	88	88										36	36	32	35	33	110
+Ham Sa Xa Anh	0	1	2	\spr\item\equip\rangeweapon\obj-adart25.spr	17	2	2	Giau phia truoc nguc, phong ra rat kho de phong, la loai am khi rat loi hai. 		3500	6	0	28	27	27	29	58	58	167	0	0	31	84	84										36	45	32	40	33	130
+Pha Giap No	0	1	2	\spr\item\equip\rangeweapon\obj-adart22.spr	16	2	2	Loai no co suc cong pha kinh nguoi, co the ban xuyen giap sat. 		6500	7	0	28	31	31	29	67	67	167	0	0	31	118	118										36	54	32	45	33	150
+Bao Vu Le Hoa Cham	0	1	2	\spr\item\equip\rangeweapon\obj-adart25.spr	17	2	2	Doc mon am khi cua Duong mon, so luong nhieu, suc cong pha manh, da tung xung hung mot thoi. 		7500	8	0	28	35	35	29	76	76	167	0	0	31	103	103										36	63	32	50	33	170
+Gia Cat No	0	1	2	\spr\item\equip\rangeweapon\obj-adart23.spr	16	2	2	Cai bien lai tu dang no thoi Vu Hau, cuong luc rat manh. 		10000	9	0	28	38	38	29	85	85	167	0	0	31	148	148										36	72	32	55	33	190
+Khong Tuoc Linh	0	1	2	\spr\item\equip\rangeweapon\obj-adart26.spr	17	2	2	Loai am khi than bi, nguoi trung phai chet khong the cuu. 		15000	10	0	28	42	42	29	93	93	167	0	0	31	121	121										36	81	32	60	33	210
+Sa Di Phuc	0	2	0	\spr\item\equip\armor\obj-ma-cloth01-1.spr	22	2	3	Tang y danh cho cac tieu Sa Di vua nhap mon		50	1	0	30	50	50	31	15	15																36	1	32	30					38	0									
+Tang Y	0	2	0	\spr\item\equip\armor\obj-ma-cloth01-1.spr	22	2	3	Y phuc tang nhan thuong mac		200	2	0	30	100	100	31	20	20																36	7	32	50					38	0									
+Bach Nap Y	0	2	0	\spr\item\equip\armor\obj-ma-cloth01-2.spr	22	2	3	Thuong phuc chu yeu cua cac Tang nhan Han trieu		400	3	0	30	150	150	31	25	25																36	13	32	70					38	0									
+An Da Hoi	0	2	0	\spr\item\equip\armor\obj-ma-cloth01-3.spr	22	2	3	Con goi la Ngu Dieu y, ao cua cac tang nhan mac trong nhung luc thong thuong		500	4	0	30	200	200	31	30	30																36	19	32	90					38	0									
+Uat Da La Tang	0	2	0	\spr\item\equip\armor\obj-ma-cloth02-1.spr	22	2	3	Con goi la That Dieu y, ao cua cac tang nhan mac trong nhung luc trang nghiem		1000	5	0	30	250	250	31	35	35																36	26	32	110					38	0									
+Tang Hai	0	2	0	\spr\item\equip\armor\obj-ma-cloth02-2.spr	22	2	3	Le phuc cua Tang nhan, mac trong nhung luc trang nghiem		1500	6	0	30	300	300	31	40	40																36	33	32	130					38	0									
+Nguyen Bach Ca Sa	0	2	0	\spr\item\equip\armor\obj-ma-cloth02-3.spr	22	2	3	Con goi la That Dieu y, y phuc cua cac tang nhan chuc vi cao		2000	7	0	30	250	250	31	45	45																36	40	32	150					38	0									
+Minh Tinh Ca Sa	0	2	0	\spr\item\equip\armor\obj-ma-cloth03-1.spr	22	2	3	Y phuc thuong ngay cua cac vi cao tang		2500	8	0	30	400	400	31	50	50																36	46	32	170					38	0									
+Kim Lo Ca Sa	0	2	0	\spr\item\equip\armor\obj-ma-cloth03-2.spr	22	2	3	bao vat cua Phat mon		3750	9	0	30	450	450	31	55	55																36	53	32	190					38	0									
+That Bao Ca Sa	0	2	0	\spr\item\equip\armor\obj-ma-cloth03-3.spr	22	2	3	La Phat mon chi bao, do Phat To tang cho Duong Tam Tang khi di thinh kinh		5000	10	0	30	500	500	31	60	60																36	60	32	210					38	0									
+Dao Si Vo Bao 	0	2	1	\spr\item\equip\armor\obj-ma-cloth04-1.spr	24	2	3	La y phuc cua cac dao si thuong mac khi luyen vo 		50	1	0	30	30	30	31	15	15																36	1	32	20					38	0	37	4							
+Dao Si Truong Bao	0	2	1	\spr\item\equip\armor\obj-ma-cloth04-1.spr	24	2	3	Y phuc thuong ngay cua Dao si 		150	2	0	30	60	60	31	20	20																36	7	32	30					38	0	37	4							
+Tinh Y	0	2	1	\spr\item\equip\armor\obj-ma-cloth04-2.spr	24	2	3	Le phuc cua cac Dao si thuong mac khi lam phep		300	3	0	30	90	90	31	25	25																36	13	32	40					38	0	37	4							
+Thanh Tung Phap Bao	0	2	1	\spr\item\equip\armor\obj-ma-cloth04-3.spr	24	2	3	Y phuc cua nhung dao si moi nhap mon		450	4	0	30	120	120	31	30	30																36	19	32	50					38	0	37	4							
+Thien Su Dao Bao	0	2	1	\spr\item\equip\armor\obj-ma-cloth05-1.spr	24	2	3	Y phuc chi danh cho nhung nguoi dao hanh tham sau, duoc ton danh Thien Su 		800	5	0	30	150	150	31	35	35																36	26	32	60					38	0	37	4							
+Huyen Vo Phap Y	0	2	1	\spr\item\equip\armor\obj-ma-cloth05-2.spr	24	2	3	Tap hop linh khi Huyen Vo, Huyen mon chi bao		1250	6	0	30	180	180	31	40	40																36	33	32	70					38	0	37	4
+That Bao Ha Y	0	2	1	\spr\item\equip\armor\obj-ma-cloth05-3.spr	24	2	3	Trong ben ngoai co ve tam thuong, nhung thuc chat la mot bao y		1750	7	0	30	210	210	31	45	45																36	40	32	80					38	0	37	4
+Tam Thanh Bao	0	2	1	\spr\item\equip\armor\obj-ma-cloth06-1.spr	24	2	3	Phan ta quy chanh, nguoi mac no luon co long thien tam. 		2250	8	0	30	240	240	31	50	50																36	46	32	90					38	0	37	4
+Thien Nien Hac Suong	0	2	1	\spr\item\equip\armor\obj-ma-cloth06-2.spr	24	2	3	Dung long Hac de diem xuyen xung quanh, day chinh la su tuong trung cho tri hue. 		3000	9	0	30	270	270	31	55	55																36	53	32	100					38	0	37	4
+Chan Vu Thanh Y	0	2	1	\spr\item\equip\armor\obj-ma-cloth06-3.spr	24	2	3	Mac vao se giup ta tang nhanh than luc		4000	10	0	30	300	300	31	60	60																36	60	32	110					38	0	37	4
+Con Y	0	2	2	\spr\item\equip\armor\obj-ma-cloth07-1.spr	22	2	3	ao danh cho cac sat thu cap thap nhat an giau than phan		50	1	0	30	80	80	31	20	20																36	1	32	30	33	20			38	0		
+Te Truc Con Y	0	2	2	\spr\item\equip\armor\obj-ma-cloth07-1.spr	22	2	3	Con y duoc dac che 		250	2	0	30	135	135	31	25	25																36	7	32	50	33	30			38	0		
+Thich Khach Y	0	2	2	\spr\item\equip\armor\obj-ma-cloth07-2.spr	22	2	3	Cung giong nhu Con y nhung co nhieu tui de chua am khi. 		500	3	0	30	190	190	31	30	30																36	13	32	70	33	40			38	0		
+Mong Mi Y	0	2	2	\spr\item\equip\armor\obj-ma-cloth07-3.spr	22	2	3	Dung cac vat lieu dac biet ma che thanh, su dung linh hoat. 		1250	4	0	30	245	245	31	35	35																36	19	32	90	33	50			38	0		
+Vo Sac Y	0	2	2	\spr\item\equip\armor\obj-ma-cloth08-1.spr	22	2	3	Co the tang hinh di vao nhieu noi, thich hop cho sat thu 		3000	5	0	30	300	300	31	40	40																36	26	32	110	33	60			38	0		
+Ngu Nhan Y	0	2	2	\spr\item\equip\armor\obj-ma-cloth08-2.spr	22	2	3	Trang bi cho cac sat thu cap cao. 		5000	6	0	30	355	355	31	45	45																36	33	32	130	33	70			38	0		
+Lien Van Y	0	2	2	\spr\item\equip\armor\obj-ma-cloth08-3.spr	22	2	3	Y phuc hiem co, tinh linh hoat va tinh phong ngu cuc cao		7500	7	0	30	410	410	31	50	50																36	40	32	150	33	80			38	0		
+Thien Mong Y	0	2	2	\spr\item\equip\armor\obj-ma-cloth09-1.spr	22	2	3	Nguoi mac vao hinh bong giong nhu trong mo, khong the bat duoc		10000	8	0	30	465	465	31	55	55																36	46	32	170	33	90			38	0		
+Vo Dung Kinh Y	0	2	2	\spr\item\equip\armor\obj-ma-cloth09-2.spr	22	2	3	La thu ao ma cac thich khach deu thich trang bi, co the giau duoc nhieu am khi. 		12500	9	0	30	520	520	31	60	60																36	53	32	190	33	100			38	0		
+Thien Nhan Mat Trang	0	2	2	\spr\item\equip\armor\obj-ma-cloth09-3.spr	22	2	3	Tap trung sat khi vo bien, gap than giet than, gap Phat giet Phat. 		15000	10	0	30	575	575	31	65	65																36	60	32	210	33	110			38	0		
+Tho Bo Truong Bao	0	2	3	\spr\item\equip\armor\obj-ma-cloth10-1.spr	22	2	3	Do cac loai vai tho det thanh		50	1	0	30	50	50	31	20	20																36	1	32	30	33	30			38	0		
+Khinh Cat Sam	0	2	3	\spr\item\equip\armor\obj-ma-cloth10-1.spr	22	2	3	To Cat det thanh, chac chan kho xuyen. 		200	2	0	30	100	100	31	26	26																36	7	32	45	33	45			38	0
+Doan Bao	0	2	3	\spr\item\equip\armor\obj-ma-cloth10-2.spr	22	2	3	Cam doan det thanh, mem mai thoai mai. 		400	3	0	30	150	150	31	32	32																36	13	32	60	33	60			38	0
+Dat Hiep Y	0	2	3	\spr\item\equip\armor\obj-ma-cloth10-3.spr	22	2	3	Thich hop voi cac hiep khach, nhe nhang linh hoat. 		1000	4	0	30	200	200	31	38	38																36	19	32	75	33	75			38	0
+Nhiem Hiep Phuc	0	2	3	\spr\item\equip\armor\obj-ma-cloth11-1.spr	22	2	3	La loai y phuc ma cac hiep khach o Ngu Lang thuong mac. 		2500	5	0	30	250	250	31	44	44																36	26	32	90	33	90			38	0
+Luu Thai Phuc	0	2	3	\spr\item\equip\armor\obj-ma-cloth11-2.spr	22	2	3	Dang ve nho nha, mem mai ma nghiem trang. 		3500	6	0	30	300	300	31	50	50																36	33	32	105	33	105			38	0
+Ngan To Bao	0	2	3	\spr\item\equip\armor\obj-ma-cloth11-3.spr	22	2	3	Dung Tam to phoi hop voi Ngan to che thanh, co kha nang phong ngu cuc tot. 		4500	7	0	30	350	350	31	56	56																36	40	32	120	33	120			38	0
+Tu Kim Bao	0	2	3	\spr\item\equip\armor\obj-ma-cloth12-1.spr	22	2	3	Dung Tam to phoi hop voi Kim to che thanh, vua danh quy vua co the ho than. 		6000	8	0	30	400	400	31	62	62																36	46	32	135	33	135			38	0
+Han Suong Bao	0	2	3	\spr\item\equip\armor\obj-ma-cloth12-2.spr	22	2	3	Dung Tam to phoi hop voi Bach Kim to che thanh, danh quy vo cung. 		8000	9	0	30	450	450	31	68	68																36	53	32	150	33	150			38	0
+Giang Sa Bao	0	2	3	\spr\item\equip\armor\obj-ma-cloth12-3.spr	22	2	3	Dung Giang Sa che thanh, dung cho cac bac de vuong, cao quy kho ta. 		10000	10	0	30	500	500	31	74	74																36	60	32	165	33	165			38	0
+Toa Tu Giap	0	2	4	\spr\item\equip\armor\obj-ma-cloth13-1.spr	23	2	3	Trang bi cho nhung si tot trong quan doi, suc phong ngu kem. 		200	1	0	30	90	90	31	30	30																36	1	32	35					38	0
+Luong Dang Khai	0	2	4	\spr\item\equip\armor\obj-ma-cloth13-1.spr	23	2	3	Do hai manh truoc sau hop thanh, thoi Pho Duong thuong thay. 		500	2	0	30	150	150	31	37	37																36	7	32	60					38	0
+Minh Quang Khai	0	2	4	\spr\item\equip\armor\obj-ma-cloth13-2.spr	23	2	3	Loai ao giap thuong trang bi cho binh si thoi Duong. 		1250	3	0	30	210	210	31	44	44																36	13	32	85					38	0
+Te Lan Giap	0	2	4	\spr\item\equip\armor\obj-ma-cloth13-3.spr	23	2	3	Do nhieu mieng thep mong ghep thanh, gon nhe linh hoat. 		2500	4	0	30	270	270	31	51	51																36	19	32	110					38	0
+O Chuy Giap	0	2	4	\spr\item\equip\armor\obj-ma-cloth14-1.spr	23	2	3	ao giap nhu hinh dang qua, gon nhe linh hoat. 		5000	5	0	30	330	330	31	58	58																36	26	32	135					38	0
+Son Van Tu Giap	0	2	4	\spr\item\equip\armor\obj-ma-cloth14-2.spr	23	2	3	La mot manh ao giap. giua loi, hai ben lom, cong dung chong ten. 		8000	6	0	30	390	390	31	65	65																36	33	32	160					38	0
+Giai Trai Giap	0	2	4	\spr\item\equip\armor\obj-ma-cloth14-3.spr	23	2	3	Dung toan da cua quai thu va da Giai Trai ket thanh, kien co vo cung. 		12500	7	0	30	450	450	31	72	72																36	40	32	185					38	0
+Toan Nghe Giap	0	2	4	\spr\item\equip\armor\obj-ma-cloth15-1.spr	23	2	3	La loai ao giap cua cac danh tuong, dao ten khong the xuyen thung. 		16000	8	0	30	510	510	31	79	79																36	46	32	210					38	0
+Toa Tu Hoang Kim Giap	0	2	4	\spr\item\equip\armor\obj-ma-cloth15-2.spr	23	2	3	Thien ha vang danh, dao ten khong the pham vao da		20000	9	0	30	570	570	31	86	86																36	53	32	235					38	0
+Duong Nghe Giap	0	2	4	\spr\item\equip\armor\obj-ma-cloth15-3.spr	23	2	3	truyen thiet day la ho than bao giap cua La On Hau, la ho phap cuc pham		25000	10	0	30	630	630	31	93	93																36	60	32	260					38	0
+Lan Bo Y	0	2	5	\spr\item\equip\armor\obj-ma-cloth16-1.spr	22	2	3	la thu vai bang vo cay, chi mac nhung luc binh thuong		50	1	0	30	20	20	31	12	12																36	1	32	0					38	0
+Pho Thong Cai Y	0	2	5	\spr\item\equip\armor\obj-ma-cloth16-1.spr	22	2	3	La y phuc cua nhung nguoi an may binh thuong, giong nhu Bo y, co rat nhieu tui		125	2	0	30	90	90	31	16	16																36	7	32	45			39	6	38	0
+Ao An May	0	2	5	\spr\item\equip\armor\obj-ma-cloth16-2.spr	22	2	3	La y phuc cua nhung nguoi an may binh thuong, danh cho nguoi cap thap nhat		250	3	0	30	140	140	31	20	20																36	13	32	60			39	6	38	0
+Tho Ma Cai Y	0	2	5	\spr\item\equip\armor\obj-ma-cloth16-3.spr	22	2	3	La y phuc cua nhung nguoi an may binh thuonglam bang vo cay		400	4	0	30	185	185	31	24	24																36	19	32	75			39	6	38	0
+Tam Ma Cai Y	0	2	5	\spr\item\equip\armor\obj-ma-cloth17-1.spr	22	2	3	Thuong phuc cua Cai Bang truong lao, tinh che tu nhung cay Tam Ma. 		600	5	0	30	230	230	31	28	28																36	26	32	90			39	6	38	0
+Hoa Ma Cai Y	0	2	5	\spr\item\equip\armor\obj-ma-cloth17-2.spr	22	2	3	Thuong phuc cua Cai Bang truong lao, dung vo cay Hoa Ma che thanh, Tuong doi kien co. 		900	6	0	30	270	270	31	32	32																36	33	32	105			39	6	38	0
+Thap Phuong Cai Y	0	2	5	\spr\item\equip\armor\obj-ma-cloth17-3.spr	22	2	3	Thuong phuc cua Cai Bang truong lao, rong ma khong du, thich hop chien dau		1250	7	0	30	315	315	31	36	36																36	40	32	120			39	6	38	0
+Bach Ket Cai Y	0	2	5	\spr\item\equip\armor\obj-ma-cloth18-1.spr	22	2	3	Thuong phuc cua cac truong lao 9 tui, chi co bang chu va truong lao 9 tui moi duoc dung		1600	8	0	30	360	360	31	40	40																36	46	32	135			39	6	38	0
+Trien To Thien Ket Phuc	0	2	5	\spr\item\equip\armor\obj-ma-cloth18-2.spr	22	2	3	Do vo van soi to ket thanh, nguoi mac vao se co thien tinh		2000	9	0	30	405	405	31	44	44																36	53	32	150			39	6	38	0
+Van Luu Quy Tong Y	0	2	5	\spr\item\equip\armor\obj-ma-cloth18-3.spr	22	2	3	Y phuc danh cho bang chu Cai Bang va cac vi truong lao 10 tui, tuong trung cho vo cong va dia vi. 		2500	10	0	30	450	450	31	48	48																36	60	32	165			39	6	38	0
+Ao Vai Tho	0	2	6	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	ao vai tho so, khong co ten goi		50	1	0	30	30	30	31	15	15																36	1	32	0					38	0
+Ao Vai Tho	0	2	6	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	ao vai tho so, khong co ten goi		50	2	0	30	30	30	31	20	20																36	1	32	0					38	0
+Ao Vai Tho	0	2	6	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	ao vai tho so, khong co ten goi		50	3	0	30	30	30	31	25	25																36	1	32	0					38	0
+Ao Vai Tho	0	2	6	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	ao vai tho so, khong co ten goi		50	4	0	30	30	30	31	30	30																36	1	32	0					38	0
+Hoang Cam Doan Y	0	2	6	\spr\item\equip\armor\obj-ma-cloth20-1.spr	22	2	3	Cam y tinh che, gon nhe linh hoat. 		3000	5	0	30	150	150	31	35	35																36	26	32	0					38	0
+Chuc Giap Doan Sam	0	2	6	\spr\item\equip\armor\obj-ma-cloth20-2.spr	22	2	3	Ben trong co kham giap, co kha nang phong ngu. 		5000	6	0	30	180	180	31	40	40																36	33	32	0					38	0
+Huyen Hoang Doan Giap	0	2	6	\spr\item\equip\armor\obj-ma-cloth20-3.spr	22	2	3	Ben ngoai la ao, ben trong thuc chat la mot ao giap, suc phong ngu cu han. 		7500	7	0	30	210	210	31	45	45																36	40	32	0					38	0
+Bich Hoa Bao	0	2	6	\spr\item\equip\armor\obj-ma-cloth21-1.spr	22	2	3	Det tu to Bich Tam, mem mai 		10000	8	0	30	240	240	31	50	50																36	46	32	0					38	0
+Tuong Nhu Bao	0	2	6	\spr\item\equip\armor\obj-ma-cloth21-2.spr	22	2	3	ao nay se lam cho nguoi mac no co mot khi phach bat pham		12500	9	0	30	270	270	31	55	55																36	53	32	0					38	0
+Tuyen Long Bao	0	2	6	\spr\item\equip\armor\obj-ma-cloth21-3.spr	22	2	3	Phai hao suc cua 100 nguoi tho ren lam trong muoi nam		15000	10	0	30	300	300	31	60	60																36	60	32	0					38	0
+Sa Di Phuc	0	2	7	\spr\item\equip\armor\obj-fm-cloth01-1.spr	22	2	3	Tang y danh cho cac tieu Sa Di vua nhap mon		50	1	0	30	50	50	31	15	15																36	1	32	15					38	1
+Tang Y	0	2	7	\spr\item\equip\armor\obj-fm-cloth01-1.spr	22	2	3	Y phuc tang nhan thuong mac		200	2	0	30	100	100	31	20	20																36	7	32	30					38	1
+Bach Nap Y	0	2	7	\spr\item\equip\armor\obj-fm-cloth01-2.spr	22	2	3	Thuong phuc chu yeu cua cac Tang nhan Han trieu		400	3	0	30	150	150	31	25	25																36	13	32	45					38	1
+An Da Hoi	0	2	7	\spr\item\equip\armor\obj-fm-cloth01-3.spr	22	2	3	Con goi la Ngu Dieu y, ao cua cac tang nhan mac trong nhung luc thong thuong		500	4	0	30	200	200	31	30	30																36	19	32	60					38	1
+Uat Da La Tang	0	2	7	\spr\item\equip\armor\obj-fm-cloth02-1.spr	22	2	3	Con goi la That Dieu y, ao cua cac tang nhan mac trong nhung luc trang nghiem		1000	5	0	30	250	250	31	35	35																36	26	32	75					38	1
+Tang Hai	0	2	7	\spr\item\equip\armor\obj-fm-cloth02-2.spr	22	2	3	Le phuc cua Tang nhan, mac trong nhung luc trang nghiem		1500	6	0	30	300	300	31	40	40																36	33	32	90					38	1
+Nguyen Bach Ca Sa	0	2	7	\spr\item\equip\armor\obj-fm-cloth02-3.spr	22	2	3	Con goi la That Dieu y, y phuc cua cac tang nhan chuc vi cao		2000	7	0	30	350	350	31	45	45																36	40	32	105					38	1
+Minh Tinh Ca Sa	0	2	7	\spr\item\equip\armor\obj-fm-cloth03-1.spr	22	2	3	Y phuc thuong ngay cua cac vi cao tang		2500	8	0	30	400	400	31	50	50																36	46	32	120					38	1
+Kim Lo Ca Sa	0	2	7	\spr\item\equip\armor\obj-fm-cloth03-2.spr	22	2	3	bao vat cua Phat mon		3750	9	0	30	450	450	31	55	55																36	53	32	135					38	1
+That Bao Ca Sa	0	2	7	\spr\item\equip\armor\obj-fm-cloth03-3.spr	22	2	3	La Phat mon chi bao, do Phat To tang cho Duong Tam Tang khi di thinh kinh		5000	10	0	30	500	500	31	60	60																36	60	32	150					38	1		
+Nu Thuc Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth04-1.spr	24	2	3	Y phuc thuong nhat cua cac nu dao si. 		50	1	0	30	30	30	31	15	15																36	1	32	20					38	1	37	4
+Tu Chan Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth04-1.spr	24	2	3	Y phuc lam viec cua cac nu dao si ngheo		150	2	0	30	60	60	31	20	20																36	7	32	30					38	1	37	4
+Hoa Hoan Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth04-2.spr	24	2	3	Dao y cao cap duoc lam tu vai Hoa Hoan		300	3	0	30	90	90	31	25	25																36	13	32	40					38	1	37	4
+Bich Ha Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth04-3.spr	24	2	3	Mau sac thanh thoat, tuy la dao y nhung cung khong kem phan linh dong		450	4	0	30	120	120	31	30	30																36	19	32	50					38	1	37	4
+Bat Quai Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth05-1.spr	24	2	3	Y phuc cua nhung dao si moi nhap mon		800	5	0	30	150	150	31	35	35																36	26	32	60					38	1	37	4
+Han Mai Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth05-2.spr	24	2	3	Tuyet pham dao y cua cac nu dao si, tuy nghiem trang ma thanh thoat		1250	6	0	30	180	180	31	40	40																36	33	32	70					38	1	37	4
+Vo Cuc Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth05-3.spr	24	2	3	Dai thanh vo dung, dai dao vo cuc. 		1750	7	0	30	210	210	31	45	45																36	40	32	80					38	1	37	4
+Dia Duyen Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth06-1.spr	24	2	3	La mot bao y co chua Am Linh khi. 		2250	8	0	30	240	240	31	50	50																36	46	32	90					38	1	37	4
+Bang Tam Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth06-2.spr	24	2	3	To cua Bang Tam ket thanh, nguoi mac vao cot cach nhu than tien		3000	9	0	30	270	270	31	55	55																36	53	32	100					38	1	37	4
+Long Tieu Dao Y	0	2	8	\spr\item\equip\armor\obj-fm-cloth06-3.spr	24	2	3	Dao y duoc ket bang nhieu thu lua quy, cot cach phi thuong, co the xem la bao boi. 		4000	10	0	30	300	300	31	60	60																36	60	32	110					38	1	37	4
+Thuc Cam Y	0	2	9	\spr\item\equip\armor\obj-fm-cloth07-1.spr	24	2	3	Ket bang thu to dieu cua vung ty Xuyen, chac chan kho xuyen		50	1	0	30	80	80	31	20	20																36	1	32	30	33	20			38	1		
+Lang To Y	0	2	9	\spr\item\equip\armor\obj-fm-cloth07-1.spr	24	2	3	La nu y cao cap det bang to thuong hang. 		250	2	0	30	135	135	31	26	26																36	7	32	50	33	25			38	1		
+Cam Trong Y	0	2	9	\spr\item\equip\armor\obj-fm-cloth07-2.spr	24	2	3	La nu y cao cap det bang to thuong hang. 		500	3	0	30	190	190	31	32	32																36	13	32	70	33	30			38	1		
+Linh Xa Y	0	2	9	\spr\item\equip\armor\obj-fm-cloth07-3.spr	24	2	3	Giong nhu khoat tren nguoi mot tam da ran, cu dong cuc ky linh hoat		1250	4	0	30	245	245	31	38	38																36	19	32	90	33	35			38	1		
+Huyen Ly Y	0	2	9	\spr\item\equip\armor\obj-fm-cloth08-1.spr	24	2	3	Nu phuc, duoc may bang da rai ca. 		3000	5	0	30	300	300	31	44	44																36	26	32	110	33	40			38	1		
+Hac Bao Y	0	2	9	\spr\item\equip\armor\obj-fm-cloth08-2.spr	24	2	3	ao duoc may tu da Hac Bao, mem mai ma phu quy cac danh gia vong toc. 		5000	6	0	30	355	355	31	50	50																36	33	32	130	33	45			38	1
+Ho Bi Y	0	2	9	\spr\item\equip\armor\obj-fm-cloth08-3.spr	24	2	3	May bang da ho, mac vao khi luc tang len, cuc ky hiem thay. 		7500	7	0	30	410	410	31	56	56																36	40	32	150	33	50			38	1
+Van Nghe Thuong	0	2	9	\spr\item\equip\armor\obj-fm-cloth09-1.spr	24	2	3	Mem deo la luot, de dong long nguoi		10000	8	0	30	465	465	31	62	62																36	46	32	170	33	55			38	1
+Me Hon Thuong	0	2	9	\spr\item\equip\armor\obj-fm-cloth09-2.spr	24	2	3	Khien cho nguoi khac phai hon phi phach lac khi nhin thay, tiem an ma luc		12500	9	0	30	520	520	31	68	68																36	53	32	190	33	60			38	1
+Cuu Vi Bach Ho Trang	0	2	9	\spr\item\equip\armor\obj-fm-cloth09-3.spr	24	2	3	Duoc may tu duoi cua 9 con Ho Ly tinh, mac vao nang luc vo song		15000	10	0	30	575	575	31	74	74																36	60	32	210	33	65			38	1
+Cam Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth10-1.spr	24	2	3	Y phuc duoc che tu nhung loai vai thong thuong. 		50	1	0	30	50	50	31	20	20																36	1	32	30	33	30			38	1
+Khoi Ly Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth10-1.spr	24	2	3	Y phuc dep nhu hoa tuoi cua nu dao si. 		200	2	0	30	100	100	31	26	26																36	7	32	45	33	45			38	1
+Hoa Sa Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth10-2.spr	24	2	3	Y phuc duoc ket tu nhieu soi to cua hoa. 		400	3	0	30	150	150	31	32	32																36	13	32	60	33	60			38	1
+Thuc Cam Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth10-3.spr	24	2	3	La loai y phuc duoc che thanh tu nhieu loai thao dia. 		1000	4	0	30	200	200	31	38	38																36	19	32	75	33	75			38	1
+Tong Cam Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth11-1.spr	24	2	3	La loai y phuc duoc che thanh tu nhieu loai thao dia noi tieng o To Chau. 		2500	5	0	30	250	250	31	44	44																36	26	32	90	33	90			38	1
+Van Cam Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth11-2.spr	24	2	3	La loai y phuc duoc che thanh tu nhieu loai thao dia noi tieng o Kim Lang		3500	6	0	30	300	300	31	50	50																36	33	32	105	33	105			38	1
+Thanh La Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth11-3.spr	24	2	3	Ben ngoai la ao nhung ben trong la giap, kha nang phong ngu rat tot		4500	7	0	30	250	250	31	56	56																36	40	32	120	33	120			38	1
+Tat Sa Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth12-1.spr	24	2	3	Dung toan la nhung thao duoc quy che thanh, Co kha nang phong ngu rat tot. 		6000	8	0	30	400	400	31	62	62																36	46	32	135	33	135			38	1
+Lang La Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth12-2.spr	24	2	3	Dung toan la nhung thao duoc quy che thanh, dep de la ky. 		8000	9	0	30	450	450	31	68	68																36	53	32	150	33	150			38	1
+Tram Huong Sam	0	2	10	\spr\item\equip\armor\obj-fm-cloth12-3.spr	24	2	3	Trong ao luon phang phat mui tram huong, nhu tien nu giang tran. 		10000	10	0	30	500	500	31	74	74																36	60	32	165	33	165			38	1
+Kham Thiet Nu Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth13-1.spr	25	2	3	ao giap thong thuong cua nu gioi. 		200	1	0	30	90	90	31	30	30																36	1	32	35					38	1
+Thanh Dong Nu Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth13-1.spr	25	2	3	La ao giap cua nu, duoc ket bang nghung mieng dong xanh, co kha nang phong ngu cuc tot. 		500	2	0	30	150	150	31	37	37																36	7	32	60					38	1
+Bach Nhi Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth13-2.spr	25	2	3	La loai ao giap thuong thay cua cac nu tuong. 		1250	3	0	30	210	210	31	44	44																36	13	32	85					38	1
+Lam Yen Cang Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth13-3.spr	25	2	3	La ao giap duoc ket bang nhung mieng thep cu mong, kho ma tim thay		2500	4	0	30	270	270	31	51	51																36	19	32	110					38	1
+Hong Nhi Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth14-1.spr	25	2	3	La loai ao giap cao cap cua cac nu tuong. 		5000	5	0	30	330	330	31	58	58																36	26	32	135					38	1
+Xich Nhan Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth14-2.spr	25	2	3	ao giap duoc ket bang long Nhan do, nu tinh thuong hay dung. 		8000	6	0	30	390	390	31	65	65																36	33	32	160					38	1
+Huyet Dong Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth14-3.spr	25	2	3	Che tao bi truyen, mau do huyen bi. 		12500	7	0	30	450	450	31	72	72																36	40	32	185					38	1
+Lan Ngan Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth15-1.spr	25	2	3	Lan Ngan tao thanh, nhe ma chac chan. 		16000	8	0	30	510	510	31	79	79																36	46	32	210					38	1
+Huyen Thiet Tuyet Ngan Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth15-2.spr	25	2	3	La loai giap ket hop Thiet va Bac, cac nu tuong thuong rat thich dung. 		20000	9	0	30	570	570	31	86	86																36	53	32	235					38	1
+Tich Lich Kim Phung Giap	0	2	11	\spr\item\equip\armor\obj-fm-cloth15-3.spr	25	2	3	Ho giap cua Muc Que Anh, theo truyen thuyet la do Thanh Mau ban tang. 		25000	10	0	30	630	630	31	93	93																36	60	32	260					38	1
+Pha Ma Y	0	2	12	\spr\item\equip\armor\obj-fm-cloth16-1.spr	24	2	3	La loai ao duoc lam tu vo cay Ma thu. 		50	1	0	30	20	20	31	12	12																36	1	32	0					38	1
+Pha Mien Y	0	2	12	\spr\item\equip\armor\obj-fm-cloth16-1.spr	24	2	3	La loai ao duoc ket bang bong. 		125	2	0	30	90	90	31	16	16																36	7	32	45			39	6	38	1
+Pha Con Y	0	2	12	\spr\item\equip\armor\obj-fm-cloth16-2.spr	24	2	3	La loai Con y nhung ben ngoai hoi giong Pha Mien y. 		250	3	0	30	140	140	31	20	20																36	13	32	60			39	6	38	1
+Bach Bo Y	0	2	12	\spr\item\equip\armor\obj-fm-cloth16-3.spr	24	2	3	Loai ao duoc ket lai tu nhung ao cu rach khac. 		400	4	0	30	185	185	31	24	24																36	19	32	75			39	6	38	1
+Thien bo Y	0	2	12	\spr\item\equip\armor\obj-fm-cloth17-1.spr	24	2	3	Loai ao duoc may tu vo so ao cu rach khac, day va am. 		600	5	0	30	230	230	31	28	28																36	26	32	90			39	6	38	1
+Duong Bi Giap	0	2	12	\spr\item\equip\armor\obj-fm-cloth17-2.spr	24	2	3	Dung da de va Ma Bo hop thanh, tinh phong ngu rat cao. 		900	6	0	30	270	270	31	32	32																36	33	32	105			39	6	38	1
+Nguu Bi Giap	0	2	12	\spr\item\equip\armor\obj-fm-cloth17-3.spr	24	2	3	Dung da trau va Ma Bo hop thanh, tinh phong ngu rat cao. 		1250	7	0	30	315	315	31	36	36																36	40	32	120			39	6	38	1
+Tu Thu Y	0	2	12	\spr\item\equip\armor\obj-fm-cloth18-1.spr	24	2	3	Dung da mau tim cua loai chuot ky di, tinh phong ngu rat cao. 		1600	8	0	30	360	360	31	40	40																36	46	32	135			39	6	38	1
+Khoi Dieu Y	0	2	12	\spr\item\equip\armor\obj-fm-cloth18-2.spr	24	2	3	Ket tu duoi cua da Dieu, trong co ve cu ky nhung suc phong ngu phi thuong. 		2000	9	0	30	405	405	31	44	44																36	53	32	150			39	6	38	1
+Van Chung Te Tam Y	0	2	12	\spr\item\equip\armor\obj-fm-cloth18-3.spr	24	2	3	The hien tinh than doan ket cua Cai bang, tren duoi dong long, viec gi cung xong. 		2500	10	0	30	450	450	31	48	48																36	60	32	165			39	6	38	1
+Bach Diep Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	La loai thuong phuc cua nu gioi. 		50	1	0	30	40	40	31	20	20																36	1	32	0	33	20			38	1
+Thanh La Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	Loai quan ao duoc det bang nhung loai to thuong. 		50	2	0	30	80	80	31	25	25																36	7	32	0	33	30			38	1
+Chuc Cam Thach Luu Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	Det bang cam Tu Hoa, gia tri phi pham. 		50	3	0	30	120	120	31	30	30																36	13	32	0	33	40			38	1
+Song Diep Tu La Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	Det bang cam Tu Hoa, cot cach quy phai. 		50	4	0	30	160	160	31	35	35																36	19	32	0	33	50			38	1
+Bach O Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth20-1.spr	24	2	3	Det bang long cua 100 con qua, cuc ky hiem thay. 		3000	5	0	30	200	200	31	40	40																36	26	32	0	33	60			38	1
+Nguyet Hoa Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth20-2.spr	24	2	3	Loai quan phat ra anh sang ky ao nhu anh sang trang. 		5000	6	0	30	240	240	31	45	45																36	33	32	0	33	70			38	1
+Phong Vi Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth20-3.spr	24	2	3	Det bang long Dong Tuoc, vua cao quy vua co tinh nang bao ve. 		7500	7	0	30	280	280	31	50	50																36	40	32	0	33	80			38	1
+Kinh Bao Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth21-1.spr	24	2	3	Loai y phuc duoc kham bang nhieu loai nu trang quy. 		10000	8	0	30	320	320	31	55	55																36	46	32	0	33	90			38	1
+Bach Phong Trieu Duong Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth21-2.spr	24	2	3	anh sang huyen dieu nhu buoi chieu ta. 		12500	9	0	30	360	360	31	60	60																36	53	32	0	33	100			38	1
+Luu Tien Quan	0	2	13	\spr\item\equip\armor\obj-fm-cloth21-3.spr	24	2	3	Truyen thuyet noi rang day la do Trieu Phi Yen thoi Han tu tay lam ra, mac vao nhu dang du tien. 		15000	10	0	30	400	400	31	65	65																36	60	32	0	33	110			38	1
+Sa Di Phuc	0	2	14	\spr\item\equip\armor\obj-ma-cloth01-1.spr	22	2	3	Tang y danh cho cac tieu Sa Di vua nhap mon		50	1	0	30	50	50	31	15	15																36	1	32	30					38	0
+Tang Y	0	2	14	\spr\item\equip\armor\obj-ma-cloth01-1.spr	22	2	3	Y phuc tang nhan thuong mac		200	2	0	30	100	100	31	20	20																36	7	32	50					38	0
+Bach Nap Y	0	2	14	\spr\item\equip\armor\obj-ma-cloth01-2.spr	22	2	3	Thuong phuc chu yeu cua cac Tang nhan Han trieu		400	3	0	30	150	150	31	25	25																36	13	32	70					38	0
+An Da Hoi	0	2	14	\spr\item\equip\armor\obj-ma-cloth01-3.spr	22	2	3	Con goi la Ngu Dieu y, ao cua cac tang nhan mac trong nhung luc thong thuong		500	4	0	30	200	200	31	30	30																36	19	32	90					38	0		
+Uat Da La Tang	0	2	14	\spr\item\equip\armor\obj-ma-cloth02-1.spr	22	2	3	Con goi la That Dieu y, ao cua cac tang nhan mac trong nhung luc trang nghiem		1000	5	0	30	250	250	31	35	35																36	26	32	110					38	0		
+Tang Hai	0	2	14	\spr\item\equip\armor\obj-ma-cloth02-2.spr	22	2	3	Le phuc cua Tang nhan, mac trong nhung luc trang nghiem		1500	6	0	30	300	300	31	40	40																36	33	32	130					38	0		
+Nguyen Bach Ca Sa	0	2	14	\spr\item\equip\armor\obj-ma-cloth02-3.spr	22	2	3	Con goi la That Dieu y, y phuc cua cac tang nhan chuc vi cao		2000	7	0	30	250	250	31	45	45																36	40	32	150					38	0		
+Minh Tinh Ca Sa	0	2	14	\spr\item\equip\armor\obj-ma-cloth03-1.spr	22	2	3	Y phuc thuong ngay cua cac vi cao tang		2500	8	0	30	400	400	31	50	50																36	46	32	170					38	0		
+Kim Lo Ca Sa	0	2	14	\spr\item\equip\armor\obj-ma-cloth03-2.spr	22	2	3	bao vat cua Phat mon		3750	9	0	30	450	450	31	55	55																36	53	32	190					38	0		
+That Bao Ca Sa	0	2	14	\spr\item\equip\armor\obj-ma-cloth03-3.spr	22	2	3	La Phat mon chi bao, do Phat To tang cho Duong Tam Tang khi di thinh kinh		5000	10	0	30	500	500	31	60	60																36	60	32	210					38	0		
+Dao Si Vo Bao 	0	2	15	\spr\item\equip\armor\obj-ma-cloth04-1.spr	24	2	3	La y phuc cua cac dao si thuong mac khi luyen vo 		50	1	0	30	30	30	31	15	15																36	1	32	20					38	0	37	4
+Dao Si Truong Bao	0	2	15	\spr\item\equip\armor\obj-ma-cloth04-1.spr	24	2	3	Y phuc thuong ngay cua Dao si 		150	2	0	30	60	60	31	20	20																36	7	32	30					38	0	37	4
+Tinh Y	0	2	15	\spr\item\equip\armor\obj-ma-cloth04-2.spr	24	2	3	Le phuc cua cac Dao si thuong mac khi lam phep		300	3	0	30	90	90	31	25	25																36	13	32	40					38	0	37	4
+Thanh Tung Phap Bao	0	2	15	\spr\item\equip\armor\obj-ma-cloth04-3.spr	24	2	3	Y phuc cua nhung dao si moi nhap mon		450	4	0	30	120	120	31	30	30																36	19	32	50					38	0	37	4
+Thien Su Dao Bao	0	2	15	\spr\item\equip\armor\obj-ma-cloth05-1.spr	24	2	3	Y phuc chi danh cho nhung nguoi dao hanh tham sau, duoc ton danh Thien Su 		800	5	0	30	150	150	31	35	35																36	26	32	60					38	0	37	4
+Huyen Vo Phap Y	0	2	15	\spr\item\equip\armor\obj-ma-cloth05-2.spr	24	2	3	Tap hop linh khi Huyen Vo, Huyen mon chi bao		1250	6	0	30	180	180	31	40	40																36	33	32	70					38	0	37	4
+That Bao Ha Y	0	2	15	\spr\item\equip\armor\obj-ma-cloth05-3.spr	24	2	3	Trong ben ngoai co ve tam thuong, nhung thuc chat la mot bao y		1750	7	0	30	210	210	31	45	45																36	40	32	80					38	0	37	4
+Tam Thanh Bao	0	2	15	\spr\item\equip\armor\obj-ma-cloth06-1.spr	24	2	3	Phan ta quy chanh, nguoi mac no luon co long thien tam. 		2250	8	0	30	240	240	31	50	50																36	46	32	90					38	0	37	4
+Thien Nien Hac Suong	0	2	15	\spr\item\equip\armor\obj-ma-cloth06-2.spr	24	2	3	Dung long Hac de diem xuyen xung quanh, day chinh la su tuong trung cho tri hue. 		3000	9	0	30	270	270	31	55	55																36	53	32	100					38	0	37	4
+Chan Vu Thanh Y	0	2	15	\spr\item\equip\armor\obj-ma-cloth06-3.spr	24	2	3	Mac vao se giup ta tang nhanh than luc		4000	10	0	30	300	300	31	60	60																36	60	32	110					38	0	37	4
+Con Y	0	2	16	\spr\item\equip\armor\obj-ma-cloth07-1.spr	22	2	3	ao danh cho cac sat thu cap thap nhat an giau than phan		50	1	0	30	80	80	31	20	20																36	1	32	30	33	20			38	0		
+Te Truc Con Y	0	2	16	\spr\item\equip\armor\obj-ma-cloth07-1.spr	22	2	3	Con y duoc dac che 		250	2	0	30	135	135	31	25	25																36	7	32	50	33	30			38	0		
+Thich Khach Y	0	2	16	\spr\item\equip\armor\obj-ma-cloth07-2.spr	22	2	3	Cung giong nhu Con y nhung co nhieu tui de chua am khi. 		500	3	0	30	190	190	31	30	30																36	13	32	70	33	40			38	0		
+Mong Mi Y	0	2	16	\spr\item\equip\armor\obj-ma-cloth07-3.spr	22	2	3	Dung cac vat lieu dac biet ma che thanh, su dung linh hoat. 		1250	4	0	30	245	245	31	35	35																36	19	32	90	33	50			38	0		
+Vo Sac Y	0	2	16	\spr\item\equip\armor\obj-ma-cloth08-1.spr	22	2	3	Co the tang hinh di vao nhieu noi, thich hop cho sat thu 		3000	5	0	30	300	300	31	40	40																36	26	32	110	33	60			38	0		
+Ngu Nhan Y	0	2	16	\spr\item\equip\armor\obj-ma-cloth08-2.spr	22	2	3	Trang bi cho cac sat thu cap cao. 		5000	6	0	30	355	355	31	45	45																36	33	32	130	33	70			38	0		
+Lien Van Y	0	2	16	\spr\item\equip\armor\obj-ma-cloth08-3.spr	22	2	3	Y phuc hiem co, tinh linh hoat va tinh phong ngu cuc cao		7500	7	0	30	410	410	31	50	50																36	40	32	150	33	80			38	0		
+Thien Mong Y	0	2	16	\spr\item\equip\armor\obj-ma-cloth09-1.spr	22	2	3	Nguoi mac vao hinh bong giong nhu trong mo, khong the bat duoc		10000	8	0	30	465	465	31	55	55																36	46	32	170	33	90			38	0		
+Vo Dung Kinh Y	0	2	16	\spr\item\equip\armor\obj-ma-cloth09-2.spr	22	2	3	La thu ao ma cac thich khach deu thich trang bi, co the giau duoc nhieu am khi. 		12500	9	0	30	520	520	31	60	60																36	53	32	190	33	100			38	0		
+Thien Nhan Mat Trang	0	2	16	\spr\item\equip\armor\obj-ma-cloth09-3.spr	22	2	3	Tap trung sat khi vo bien, gap than giet than, gap Phat giet Phat. 		15000	10	0	30	575	575	31	65	65																36	60	32	210	33	110			38	0		
+Tho Bo Truong Bao	0	2	17	\spr\item\equip\armor\obj-ma-cloth10-1.spr	22	2	3	Do cac loai vai tho det thanh		50	1	0	30	50	50	31	20	20																36	1	32	30	33	30			38	0		
+Khinh Cat Sam	0	2	17	\spr\item\equip\armor\obj-ma-cloth10-1.spr	22	2	3	To Cat det thanh, chac chan kho xuyen. 		200	2	0	30	100	100	31	26	26																36	7	32	45	33	45			38	0		
+Doan Bao	0	2	17	\spr\item\equip\armor\obj-ma-cloth10-2.spr	22	2	3	Cam doan det thanh, mem mai thoai mai. 		400	3	0	30	150	150	31	32	32																36	13	32	60	33	60			38	0		
+Dat Hiep Y	0	2	17	\spr\item\equip\armor\obj-ma-cloth10-3.spr	22	2	3	Thich hop voi cac hiep khach, nhe nhang linh hoat. 		1000	4	0	30	200	200	31	38	38																36	19	32	75	33	75			38	0		
+Nhiem Hiep Phuc	0	2	17	\spr\item\equip\armor\obj-ma-cloth11-1.spr	22	2	3	La loai y phuc ma cac hiep khach o Ngu Lang thuong mac. 		2500	5	0	30	250	250	31	44	44																36	26	32	90	33	90			38	0		
+Luu Thai Phuc	0	2	17	\spr\item\equip\armor\obj-ma-cloth11-2.spr	22	2	3	Dang ve nho nha, mem mai ma nghiem trang. 		3500	6	0	30	300	300	31	50	50																36	33	32	105	33	105			38	0
+Ngan To Bao	0	2	17	\spr\item\equip\armor\obj-ma-cloth11-3.spr	22	2	3	Dung Tam to phoi hop voi Ngan to che thanh, co kha nang phong ngu cuc tot. 		4500	7	0	30	350	350	31	56	56																36	40	32	120	33	120			38	0
+Tu Kim Bao	0	2	17	\spr\item\equip\armor\obj-ma-cloth12-1.spr	22	2	3	Dung Tam to phoi hop voi Kim to che thanh, vua danh quy vua co the ho than. 		6000	8	0	30	400	400	31	62	62																36	46	32	135	33	135			38	0
+Han Suong Bao	0	2	17	\spr\item\equip\armor\obj-ma-cloth12-2.spr	22	2	3	Dung Tam to phoi hop voi Bach Kim to che thanh, danh quy vo cung. 		8000	9	0	30	450	450	31	68	68																36	53	32	150	33	150			38	0
+Giang Sa Bao	0	2	17	\spr\item\equip\armor\obj-ma-cloth12-3.spr	22	2	3	Dung Giang Sa che thanh, dung cho cac bac de vuong, cao quy kho ta. 		10000	10	0	30	500	500	31	74	74																36	60	32	165	33	165			38	0
+Toa Tu Giap	0	2	18	\spr\item\equip\armor\obj-ma-cloth13-1.spr	23	2	3	Trang bi cho nhung si tot trong quan doi, suc phong ngu kem. 		200	1	0	30	90	90	31	30	30																36	1	32	35					38	0
+Luong Dang Khai	0	2	18	\spr\item\equip\armor\obj-ma-cloth13-1.spr	23	2	3	Do hai manh truoc sau hop thanh, thoi Pho Duong thuong thay. 		500	2	0	30	150	150	31	37	37																36	7	32	60					38	0
+Minh Quang Khai	0	2	18	\spr\item\equip\armor\obj-ma-cloth13-2.spr	23	2	3	Loai ao giap thuong trang bi cho binh si thoi Duong. 		1250	3	0	30	210	210	31	44	44																36	13	32	85					38	0
+Te Lan Giap	0	2	18	\spr\item\equip\armor\obj-ma-cloth13-3.spr	23	2	3	Do nhieu mieng thep mong ghep thanh, gon nhe linh hoat. 		2500	4	0	30	270	270	31	51	51																36	19	32	110					38	0
+O Chuy Giap	0	2	18	\spr\item\equip\armor\obj-ma-cloth14-1.spr	23	2	3	ao giap nhu hinh dang qua, gon nhe linh hoat. 		5000	5	0	30	330	330	31	58	58																36	26	32	135					38	0
+Son Van Tu Giap	0	2	18	\spr\item\equip\armor\obj-ma-cloth14-2.spr	23	2	3	La mot manh ao giap. giua loi, hai ben lom, cong dung chong ten. 		8000	6	0	30	390	390	31	65	65																36	33	32	160					38	0
+Giai Trai Giap	0	2	18	\spr\item\equip\armor\obj-ma-cloth14-3.spr	23	2	3	Dung toan da cua quai thu va da Giai Trai ket thanh, kien co vo cung. 		12500	7	0	30	450	450	31	72	72																36	40	32	185					38	0
+Toan Nghe Giap	0	2	18	\spr\item\equip\armor\obj-ma-cloth15-1.spr	23	2	3	La loai ao giap cua cac danh tuong, dao ten khong the xuyen thung. 		16000	8	0	30	510	510	31	79	79																36	46	32	210					38	0
+Toa Tu Hoang Kim Giap	0	2	18	\spr\item\equip\armor\obj-ma-cloth15-2.spr	23	2	3	Thien ha vang danh, dao ten khong the pham vao da		20000	9	0	30	570	570	31	86	86																36	53	32	235					38	0
+Duong Nghe Giap	0	2	18	\spr\item\equip\armor\obj-ma-cloth15-3.spr	23	2	3	truyen thiet day la ho than bao giap cua La On Hau, la ho phap cuc pham		25000	10	0	30	630	630	31	93	93																36	60	32	260					38	0
+Lan Bo Y	0	2	19	\spr\item\equip\armor\obj-ma-cloth16-1.spr	22	2	3	la thu vai bang vo cay, chi mac nhung luc binh thuong		50	1	0	30	20	20	31	12	12																36	1	32	0					38	0
+Pho Thong Cai Y	0	2	19	\spr\item\equip\armor\obj-ma-cloth16-1.spr	22	2	3	La y phuc cua nhung nguoi an may binh thuong, giong nhu Bo y, co rat nhieu tui		125	2	0	30	90	90	31	16	16																36	7	32	45			39	6	38	0
+Ao An May	0	2	19	\spr\item\equip\armor\obj-ma-cloth16-2.spr	22	2	3	La y phuc cua nhung nguoi an may binh thuong, danh cho nguoi cap thap nhat		250	3	0	30	140	140	31	20	20																36	13	32	60			39	6	38	0
+Tho Ma Cai Y	0	2	19	\spr\item\equip\armor\obj-ma-cloth16-3.spr	22	2	3	La y phuc cua nhung nguoi an may binh thuonglam bang vo cay		400	4	0	30	185	185	31	24	24																36	19	32	75			39	6	38	0
+Tam Ma Cai Y	0	2	19	\spr\item\equip\armor\obj-ma-cloth17-1.spr	22	2	3	Thuong phuc cua Cai Bang truong lao, tinh che tu nhung cay Tam Ma. 		600	5	0	30	230	230	31	28	28																36	26	32	90			39	6	38	0
+Hoa Ma Cai Y	0	2	19	\spr\item\equip\armor\obj-ma-cloth17-2.spr	22	2	3	Thuong phuc cua Cai Bang truong lao, dung vo cay Hoa Ma che thanh, Tuong doi kien co. 		900	6	0	30	270	270	31	32	32																36	33	32	105			39	6	38	0
+Thap Phuong Cai Y	0	2	19	\spr\item\equip\armor\obj-ma-cloth17-3.spr	22	2	3	Thuong phuc cua Cai Bang truong lao, rong ma khong du, thich hop chien dau		1250	7	0	30	315	315	31	36	36																36	40	32	120			39	6	38	0
+Bach Ket Cai Y	0	2	19	\spr\item\equip\armor\obj-ma-cloth18-1.spr	22	2	3	Thuong phuc cua cac truong lao 9 tui, chi co bang chu va truong lao 9 tui moi duoc dung		1600	8	0	30	360	360	31	40	40																36	46	32	135			39	6	38	0
+Trien To Thien Ket Phuc	0	2	19	\spr\item\equip\armor\obj-ma-cloth18-2.spr	22	2	3	Do vo van soi to ket thanh, nguoi mac vao se co thien tinh		2000	9	0	30	405	405	31	44	44																36	53	32	150			39	6	38	0
+Van Luu Quy Tong Y	0	2	19	\spr\item\equip\armor\obj-ma-cloth18-3.spr	22	2	3	Y phuc danh cho bang chu Cai Bang va cac vi truong lao 10 tui, tuong trung cho vo cong va dia vi. 		2500	10	0	30	450	450	31	48	48																36	60	32	165			39	6	38	0
+Ao Vai Tho	0	2	20	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	ao vai tho so, khong co ten goi		50	1	0	30	30	30	31	15	15																36	1	32	0					38	0
+Ao Vai Tho	0	2	20	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	ao vai tho so, khong co ten goi		50	2	0	30	30	30	31	20	20																36	1	32	0					38	0
+Ao Vai Tho	0	2	20	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	ao vai tho so, khong co ten goi		50	3	0	30	30	30	31	25	25																36	1	32	0					38	0
+Ao Vai Tho	0	2	20	\spr\item\equip\armor\obj-ma-cloth19-1.spr	22	2	3	ao vai tho so, khong co ten goi		50	4	0	30	30	30	31	30	30																36	1	32	0					38	0
+Hoang Cam Doan Y	0	2	20	\spr\item\equip\armor\obj-ma-cloth20-1.spr	22	2	3	Cam y tinh che, gon nhe linh hoat. 		3000	5	0	30	150	150	31	35	35																36	26	32	0					38	0
+Chuc Giap Doan Sam	0	2	20	\spr\item\equip\armor\obj-ma-cloth20-2.spr	22	2	3	Ben trong co kham giap, co kha nang phong ngu. 		5000	6	0	30	180	180	31	40	40																36	33	32	0					38	0
+Huyen Hoang Doan Giap	0	2	20	\spr\item\equip\armor\obj-ma-cloth20-3.spr	22	2	3	Ben ngoai la ao, ben trong thuc chat la mot ao giap, suc phong ngu cu han. 		7500	7	0	30	210	210	31	45	45																36	40	32	0					38	0
+Bich Hoa Bao	0	2	20	\spr\item\equip\armor\obj-ma-cloth21-1.spr	22	2	3	Det tu to Bich Tam, mem mai 		10000	8	0	30	240	240	31	50	50																36	46	32	0					38	0		
+Tuong Nhu Bao	0	2	20	\spr\item\equip\armor\obj-ma-cloth21-2.spr	22	2	3	ao nay se lam cho nguoi mac no co mot khi phach bat pham		12500	9	0	30	270	270	31	55	55																36	53	32	0					38	0		
+Tuyen Long Bao	0	2	20	\spr\item\equip\armor\obj-ma-cloth21-3.spr	22	2	3	Phai hao suc cua 100 nguoi tho ren lam trong muoi nam		15000	10	0	30	300	300	31	60	60																36	60	32	0					38	0		
+Sa Di Phuc	0	2	21	\spr\item\equip\armor\obj-fm-cloth01-1.spr	22	2	3	Tang y danh cho cac tieu Sa Di vua nhap mon		50	1	0	30	50	50	31	15	15																36	1	32	15					38	1		
+Tang Y	0	2	21	\spr\item\equip\armor\obj-fm-cloth01-1.spr	22	2	3	Y phuc tang nhan thuong mac		200	2	0	30	100	100	31	20	20																36	7	32	30					38	1		
+Bach Nap Y	0	2	21	\spr\item\equip\armor\obj-fm-cloth01-2.spr	22	2	3	Thuong phuc chu yeu cua cac Tang nhan Han trieu		400	3	0	30	150	150	31	25	25																36	13	32	45					38	1		
+An Da Hoi	0	2	21	\spr\item\equip\armor\obj-fm-cloth01-3.spr	22	2	3	Con goi la Ngu Dieu y, ao cua cac tang nhan mac trong nhung luc thong thuong		500	4	0	30	200	200	31	30	30																36	19	32	60					38	1		
+Uat Da La Tang	0	2	21	\spr\item\equip\armor\obj-fm-cloth02-1.spr	22	2	3	Con goi la That Dieu y, ao cua cac tang nhan mac trong nhung luc trang nghiem		1000	5	0	30	250	250	31	35	35																36	26	32	75					38	1		
+Tang Hai	0	2	21	\spr\item\equip\armor\obj-fm-cloth02-2.spr	22	2	3	Le phuc cua Tang nhan, mac trong nhung luc trang nghiem		1500	6	0	30	300	300	31	40	40																36	33	32	90					38	1		
+Nguyen Bach Ca Sa	0	2	21	\spr\item\equip\armor\obj-fm-cloth02-3.spr	22	2	3	Con goi la That Dieu y, y phuc cua cac tang nhan chuc vi cao		2000	7	0	30	350	350	31	45	45																36	40	32	105					38	1		
+Minh Tinh Ca Sa	0	2	21	\spr\item\equip\armor\obj-fm-cloth03-1.spr	22	2	3	Y phuc thuong ngay cua cac vi cao tang		2500	8	0	30	400	400	31	50	50																36	46	32	120					38	1		
+Kim Lo Ca Sa	0	2	21	\spr\item\equip\armor\obj-fm-cloth03-2.spr	22	2	3	bao vat cua Phat mon		3750	9	0	30	450	450	31	55	55																36	53	32	135					38	1		
+That Bao Ca Sa	0	2	21	\spr\item\equip\armor\obj-fm-cloth03-3.spr	22	2	3	La Phat mon chi bao, do Phat To tang cho Duong Tam Tang khi di thinh kinh		5000	10	0	30	500	500	31	60	60																36	60	32	150					38	1		
+Nu Thuc Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth04-1.spr	24	2	3	Y phuc thuong nhat cua cac nu dao si. 		50	1	0	30	30	30	31	15	15																36	1	32	20					38	1	37	4
+Tu Chan Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth04-1.spr	24	2	3	Y phuc lam viec cua cac nu dao si ngheo		150	2	0	30	60	60	31	20	20																36	7	32	30					38	1	37	4
+Hoa Hoan Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth04-2.spr	24	2	3	Dao y cao cap duoc lam tu vai Hoa Hoan		300	3	0	30	90	90	31	25	25																36	13	32	40					38	1	37	4
+Bich Ha Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth04-3.spr	24	2	3	Mau sac thanh thoat, tuy la dao y nhung cung khong kem phan linh dong		450	4	0	30	120	120	31	30	30																36	19	32	50					38	1	37	4
+Bat Quai Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth05-1.spr	24	2	3	Y phuc cua nhung dao si moi nhap mon		800	5	0	30	150	150	31	35	35																36	26	32	60					38	1	37	4
+Han Mai Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth05-2.spr	24	2	3	Tuyet pham dao y cua cac nu dao si, tuy nghiem trang ma thanh thoat		1250	6	0	30	180	180	31	40	40																36	33	32	70					38	1	37	4
+Vo Cuc Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth05-3.spr	24	2	3	Dai thanh vo dung, dai dao vo cuc. 		1750	7	0	30	210	210	31	45	45																36	40	32	80					38	1	37	4
+Dia Duyen Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth06-1.spr	24	2	3	La mot bao y co chua Am Linh khi. 		2250	8	0	30	240	240	31	50	50																36	46	32	90					38	1	37	4
+Bang Tam Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth06-2.spr	24	2	3	To cua Bang Tam ket thanh, nguoi mac vao cot cach nhu than tien		3000	9	0	30	270	270	31	55	55																36	53	32	100					38	1	37	4
+Long Tieu Dao Y	0	2	22	\spr\item\equip\armor\obj-fm-cloth06-3.spr	24	2	3	Dao y duoc ket bang nhieu thu lua quy, cot cach phi thuong, co the xem la bao boi. 		4000	10	0	30	300	300	31	60	60																36	60	32	110					38	1	37	4
+Thuc Cam Y	0	2	23	\spr\item\equip\armor\obj-fm-cloth07-1.spr	24	2	3	Ket bang thu to dieu cua vung ty Xuyen, chac chan kho xuyen		50	1	0	30	80	80	31	20	20																36	1	32	30	33	20			38	1		
+Lang To Y	0	2	23	\spr\item\equip\armor\obj-fm-cloth07-1.spr	24	2	3	La nu y cao cap det bang to thuong hang. 		250	2	0	30	135	135	31	26	26																36	7	32	50	33	25			38	1		
+Cam Trong Y	0	2	23	\spr\item\equip\armor\obj-fm-cloth07-2.spr	24	2	3	La nu y cao cap det bang to thuong hang. 		500	3	0	30	190	190	31	32	32																36	13	32	70	33	30			38	1		
+Linh Xa Y	0	2	23	\spr\item\equip\armor\obj-fm-cloth07-3.spr	24	2	3	Giong nhu khoat tren nguoi mot tam da ran, cu dong cuc ky linh hoat		1250	4	0	30	245	245	31	38	38																36	19	32	90	33	35			38	1		
+Huyen Ly Y	0	2	23	\spr\item\equip\armor\obj-fm-cloth08-1.spr	24	2	3	Nu phuc, duoc may bang da rai ca. 		3000	5	0	30	300	300	31	44	44																36	26	32	110	33	40			38	1		
+Hac Bao Y	0	2	23	\spr\item\equip\armor\obj-fm-cloth08-2.spr	24	2	3	ao duoc may tu da Hac Bao, mem mai ma phu quy cac danh gia vong toc. 		5000	6	0	30	355	355	31	50	50																36	33	32	130	33	45			38	1		
+Ho Bi Y	0	2	23	\spr\item\equip\armor\obj-fm-cloth08-3.spr	24	2	3	May bang da ho, mac vao khi luc tang len, cuc ky hiem thay. 		7500	7	0	30	410	410	31	56	56																36	40	32	150	33	50			38	1		
+Van Nghe Thuong	0	2	23	\spr\item\equip\armor\obj-fm-cloth09-1.spr	24	2	3	Mem deo la luot, de dong long nguoi		10000	8	0	30	465	465	31	62	62																36	46	32	170	33	55			38	1		
+Me Hon Thuong	0	2	23	\spr\item\equip\armor\obj-fm-cloth09-2.spr	24	2	3	Khien cho nguoi khac phai hon phi phach lac khi nhin thay, tiem an ma luc		12500	9	0	30	520	520	31	68	68																36	53	32	190	33	60			38	1		
+Cuu Vi Bach Ho Trang	0	2	23	\spr\item\equip\armor\obj-fm-cloth09-3.spr	24	2	3	Duoc may tu duoi cua 9 con Ho Ly tinh, mac vao nang luc vo song		15000	10	0	30	575	575	31	74	74																36	60	32	210	33	65			38	1
+Cam Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth10-1.spr	24	2	3	Y phuc duoc che tu nhung loai vai thong thuong. 		50	1	0	30	50	50	31	20	20																36	1	32	30	33	30			38	1
+Khoi Ly Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth10-1.spr	24	2	3	Y phuc dep nhu hoa tuoi cua nu dao si. 		200	2	0	30	100	100	31	26	26																36	7	32	45	33	45			38	1
+Hoa Sa Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth10-2.spr	24	2	3	Y phuc duoc ket tu nhieu soi to cua hoa. 		400	3	0	30	150	150	31	32	32																36	13	32	60	33	60			38	1
+Thuc Cam Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth10-3.spr	24	2	3	La loai y phuc duoc che thanh tu nhieu loai thao dia. 		1000	4	0	30	200	200	31	38	38																36	19	32	75	33	75			38	1
+Tong Cam Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth11-1.spr	24	2	3	La loai y phuc duoc che thanh tu nhieu loai thao dia noi tieng o To Chau. 		2500	5	0	30	250	250	31	44	44																36	26	32	90	33	90			38	1
+Van Cam Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth11-2.spr	24	2	3	La loai y phuc duoc che thanh tu nhieu loai thao dia noi tieng o Kim Lang		3500	6	0	30	300	300	31	50	50																36	33	32	105	33	105			38	1
+Thanh La Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth11-3.spr	24	2	3	Ben ngoai la ao nhung ben trong la giap, kha nang phong ngu rat tot		4500	7	0	30	250	250	31	56	56																36	40	32	120	33	120			38	1
+Tat Sa Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth12-1.spr	24	2	3	Dung toan la nhung thao duoc quy che thanh, Co kha nang phong ngu rat tot. 		6000	8	0	30	400	400	31	62	62																36	46	32	135	33	135			38	1
+Lang La Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth12-2.spr	24	2	3	Dung toan la nhung thao duoc quy che thanh, dep de la ky. 		8000	9	0	30	450	450	31	68	68																36	53	32	150	33	150			38	1
+Tram Huong Sam	0	2	24	\spr\item\equip\armor\obj-fm-cloth12-3.spr	24	2	3	Trong ao luon phang phat mui tram huong, nhu tien nu giang tran. 		10000	10	0	30	500	500	31	74	74																36	60	32	165	33	165			38	1
+Kham Thiet Nu Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth13-1.spr	25	2	3	ao giap thong thuong cua nu gioi. 		200	1	0	30	90	90	31	30	30																36	1	32	35					38	1
+Thanh Dong Nu Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth13-1.spr	25	2	3	La ao giap cua nu, duoc ket bang nghung mieng dong xanh, co kha nang phong ngu cuc tot. 		500	2	0	30	150	150	31	37	37																36	7	32	60					38	1
+Bach Nhi Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth13-2.spr	25	2	3	La loai ao giap thuong thay cua cac nu tuong. 		1250	3	0	30	210	210	31	44	44																36	13	32	85					38	1
+Lam Yen Cang Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth13-3.spr	25	2	3	La ao giap duoc ket bang nhung mieng thep cu mong, kho ma tim thay		2500	4	0	30	270	270	31	51	51																36	19	32	110					38	1
+Hong Nhi Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth14-1.spr	25	2	3	La loai ao giap cao cap cua cac nu tuong. 		5000	5	0	30	330	330	31	58	58																36	26	32	135					38	1
+Xich Nhan Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth14-2.spr	25	2	3	ao giap duoc ket bang long Nhan do, nu tinh thuong hay dung. 		8000	6	0	30	390	390	31	65	65																36	33	32	160					38	1
+Huyet Dong Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth14-3.spr	25	2	3	Che tao bi truyen, mau do huyen bi. 		12500	7	0	30	450	450	31	72	72																36	40	32	185					38	1
+Lan Ngan Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth15-1.spr	25	2	3	Lan Ngan tao thanh, nhe ma chac chan. 		16000	8	0	30	510	510	31	79	79																36	46	32	210					38	1
+Huyen Thiet Tuyet Ngan Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth15-2.spr	25	2	3	La loai giap ket hop Thiet va Bac, cac nu tuong thuong rat thich dung. 		20000	9	0	30	570	570	31	86	86																36	53	32	235					38	1
+Tich Lich Kim Phung Giap	0	2	25	\spr\item\equip\armor\obj-fm-cloth15-3.spr	25	2	3	Ho giap cua Muc Que Anh, theo truyen thuyet la do Thanh Mau ban tang. 		25000	10	0	30	630	630	31	93	93																36	60	32	260					38	1
+Pha Ma Y	0	2	26	\spr\item\equip\armor\obj-fm-cloth16-1.spr	24	2	3	La loai ao duoc lam tu vo cay Ma thu. 		50	1	0	30	20	20	31	12	12																36	1	32	0					38	1
+Pha Mien Y	0	2	26	\spr\item\equip\armor\obj-fm-cloth16-1.spr	24	2	3	La loai ao duoc ket bang bong. 		125	2	0	30	90	90	31	16	16																36	7	32	45			39	6	38	1
+Pha Con Y	0	2	26	\spr\item\equip\armor\obj-fm-cloth16-2.spr	24	2	3	La loai Con y nhung ben ngoai hoi giong Pha Mien y. 		250	3	0	30	140	140	31	20	20																36	13	32	60			39	6	38	1
+Bach Bo Y	0	2	26	\spr\item\equip\armor\obj-fm-cloth16-3.spr	24	2	3	Loai ao duoc ket lai tu nhung ao cu rach khac. 		400	4	0	30	185	185	31	24	24																36	19	32	75			39	6	38	1
+Thien bo Y	0	2	26	\spr\item\equip\armor\obj-fm-cloth17-1.spr	24	2	3	Loai ao duoc may tu vo so ao cu rach khac, day va am. 		600	5	0	30	230	230	31	28	28																36	26	32	90			39	6	38	1
+Duong Bi Giap	0	2	26	\spr\item\equip\armor\obj-fm-cloth17-2.spr	24	2	3	Dung da de va Ma Bo hop thanh, tinh phong ngu rat cao. 		900	6	0	30	270	270	31	32	32																36	33	32	105			39	6	38	1
+Nguu Bi Giap	0	2	26	\spr\item\equip\armor\obj-fm-cloth17-3.spr	24	2	3	Dung da trau va Ma Bo hop thanh, tinh phong ngu rat cao. 		1250	7	0	30	315	315	31	36	36																36	40	32	120			39	6	38	1
+Tu Thu Y	0	2	26	\spr\item\equip\armor\obj-fm-cloth18-1.spr	24	2	3	Dung da mau tim cua loai chuot ky di, tinh phong ngu rat cao. 		1600	8	0	30	360	360	31	40	40																36	46	32	135			39	6	38	1
+Khoi Dieu Y	0	2	26	\spr\item\equip\armor\obj-fm-cloth18-2.spr	24	2	3	Ket tu duoi cua da Dieu, trong co ve cu ky nhung suc phong ngu phi thuong. 		2000	9	0	30	405	405	31	44	44																36	53	32	150			39	6	38	1
+Van Chung Te Tam Y	0	2	26	\spr\item\equip\armor\obj-fm-cloth18-3.spr	24	2	3	The hien tinh than doan ket cua Cai bang, tren duoi dong long, viec gi cung xong. 		2500	10	0	30	450	450	31	48	48																36	60	32	165			39	6	38	1
+Bach Diep Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	La loai thuong phuc cua nu gioi. 		50	1	0	30	40	40	31	20	20																36	1	32	0	33	20			38	1
+Thanh La Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	Loai quan ao duoc det bang nhung loai to thuong. 		50	2	0	30	80	80	31	25	25																36	7	32	0	33	30			38	1
+Chuc Cam Thach Luu Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	Det bang cam Tu Hoa, gia tri phi pham. 		50	3	0	30	120	120	31	30	30																36	13	32	0	33	40			38	1
+Song Diep Tu La Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth19-1.spr	24	2	3	Det bang cam Tu Hoa, cot cach quy phai. 		50	4	0	30	160	160	31	35	35																36	19	32	0	33	50			38	1
+Bach O Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth20-1.spr	24	2	3	Det bang long cua 100 con qua, cuc ky hiem thay. 		3000	5	0	30	200	200	31	40	40																36	26	32	0	33	60			38	1
+Nguyet Hoa Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth20-2.spr	24	2	3	Loai quan phat ra anh sang ky ao nhu anh sang trang. 		5000	6	0	30	240	240	31	45	45																36	33	32	0	33	70			38	1
+Phong Vi Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth20-3.spr	24	2	3	Det bang long Dong Tuoc, vua cao quy vua co tinh nang bao ve. 		7500	7	0	30	280	280	31	50	50																36	40	32	0	33	80			38	1
+Kinh Bao Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth21-1.spr	24	2	3	Loai y phuc duoc kham bang nhieu loai nu trang quy. 		10000	8	0	30	320	320	31	55	55																36	46	32	0	33	90			38	1
+Bach Phong Trieu Duong Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth21-2.spr	24	2	3	anh sang huyen dieu nhu buoi chieu ta. 		12500	9	0	30	360	360	31	60	60																36	53	32	0	33	100			38	1
+Luu Tien Quan	0	2	27	\spr\item\equip\armor\obj-fm-cloth21-3.spr	24	2	3	Truyen thuyet noi rang day la do Trieu Phi Yen thoi Han tu tay lam ra, mac vao nhu dang du tien. 		15000	10	0	30	400	400	31	65	65																36	60	32	0	33	110			38	1
+Phong Trang	0	2	28	\spr\item\equip\armor\obj_ma_lf_000.spr	41	2	3	Le phuc cua tan nuong mac trong hon le 		25000	1	0																														38	0
+Kinh Thien Giap	0	2	28	\spr\item\equip\armor\obj_ma_lf_001.spr	41	2	3	ao giap det bang vang, sac thai uy phong, bao vat hiem thay, Vua nhin da thay the hien duocSuc manh. 		25000	2	0																														38	0
+Thanh Tuyet Y	0	2	28	\spr\item\equip\armor\obj_ma_lf_002.spr	41	2	3	La loai ao dai thuong thay, sac thai uy phong, tuong trung cho su cao quy 		25000	3	0																														38	0
+Phung Quan	0	2	28	\spr\item\equip\armor\obj_fm_lf_000.spr	41	2	3	Le phuc cua tan nuong mac trong hon le 		25000	4	0																														38	1
+Khap Dia Quan	0	2	28	\spr\item\equip\armor\obj_fm_lf_001.spr	41	2	3	La loai ao dai thuong thay, sac thai uy phong, tuong trung cho su cao quy. 		25000	5	0																														38	1
+Bang Tinh Quan	0	2	28	\spr\item\equip\armor\obj_fm_lf_002.spr	41	2	3	Loai ao dai nu tuong thich mac, the hien ve dep nhu mi hoan my cua nu tinh. 		25000	6	0																														38	1
+Nhan Ao Moi	0	2	28	\spr\item\equip\armor\obj_ma_lf_003.spr	41	2	3	Loai truong y may tu Kim to, mac vao nhung dip nam moi		25000	7	0																														38	0
+Ao Mung Tuoi	0	2	28	\spr\item\equip\armor\obj_fm_lf_003.spr	41	2	3	Loai quan ao duoc may tu nhung loai lua quy, mac trong nhung dip le tiet. 		25000	8	0																														38	1
+Bang Tinh Quan	0	2	28	\spr\item\equip\armor\obj_fm_lf_002.spr	41	2	3	Loai ao dai nu tuong thich mac, the hien ve dep nhu mi hoan my cua nu tinh. 		25000	9	0																														38	1
+Bang Tinh Quan	0	2	28	\spr\item\equip\armor\obj_fm_lf_002.spr	41	2	3	Loai ao dai nu tuong thich mac, the hien ve dep nhu mi hoan my cua nu tinh. 		25000	10	0																														38	1
+Hoang Ngoc Gioi Chi	0	3	0	\spr\item\equip\ring\obj-ring01.spr	37	1	1	Loai nhan deo bang Hoang Ngoc thuong thay, khong dang gia. 		300	1	0																						36	1																	
+Nhan Qua Tram	0	3	0	\spr\item\equip\ring\obj-ring02.spr	37	1	1	Loai nhan deo bang qua tram thuong thay, khong dang gia. 		1200	2	0																						36	7																	
+Phu Dung Thach Gioi Chi	0	3	0	\spr\item\equip\ring\obj-ring03.spr	37	1	1	Loai nhan duoc kham vao nhung hat Ma Nao nho, khong quy lam. 		2700	3	0																						36	14																	
+Phi Thuy Gioi Chi	0	3	0	\spr\item\equip\ring\obj-ring04.spr	37	1	1	Loai nhan deo rat hiem nhin thay duoc, gia tri cuc quy. 		4800	4	0																						36	20																	
+Thuy Luu Thach Gioi Chi	0	3	0	\spr\item\equip\ring\obj-ring05.spr	37	1	1	Loai nhan bang Thuy Luu quy hiem, chi nhung nguoi co thanh danh moi duoc deo. 		7500	5	0																						36	27																	
+To Mau Luc Gioi Chi	0	3	0	\spr\item\equip\ring\obj-ring06.spr	37	1	1	Loai nhan duoc kham To Mau Luc do Mien Dien tien cong, cuc ky cao quy. 		10800	6	0																						36	34																	
+Hai Lam Bao Thach Gioi Chi	0	3	0	\spr\item\equip\ring\obj-ring07.spr	37	1	1	Loai nhan kham Hai Lam Bao Thach do cac thuong nhan nuoc ngoai mang vao, vat pham cuc hiem. 		14700	7	0																						36	40																	
+Hong Bao Thach Gioi Chi	0	3	0	\spr\item\equip\ring\obj-ring08.spr	37	1	1	Loai nhan kham Hong Bao Thach xuat xu tu nuoc Tich Lan nhung rat duoc luu dung trong nuoc. 		19200	8	0																						36	47																	
+Lam Bao Thach Gioi Chi	0	3	0	\spr\item\equip\ring\obj-ring09.spr	37	1	1	Loai nhan kham Lam Bao Thach do cac cao tang mang tu Thien Truc ve, cuc ky cao quy. 		24300	9	0																						36	54																	
+Toan Thach Gioi Chi	0	3	0	\spr\item\equip\ring\obj-ring10.spr	37	1	1	Loai nhan kham Toan Thach mang tu hai ngoai ve, nghe noi co tiem an mot suc manh than bi. 		30000	10	0																						36	60																	
+Dong Hang Lien	0	4	0	\spr\item\equip\nick\obj_neck01.spr	36	2	1	Day chuyen bang Dong, do vat gat tre con		150	1	0																						36	1	38	1															
+Ngan Hang Lien	0	4	0	\spr\item\equip\nick\obj_neck02.spr	36	2	1	Day chuyen Bac, doi voi nguoi ngheo cung la thu quy gia 		600	2	0																						36	7	38	1															
+Kim Hang Lien	0	4	0	\spr\item\equip\nick\obj_neck03.spr	36	2	1	Day chuyen Vang, phu gia quy tu thuong hay mang		1350	3	0																						36	14	38	1															
+Bach Kim Hang Lien	0	4	0	\spr\item\equip\nick\obj_neck04.spr	36	2	1	Bach kim che tac, tren pho hiem ma thay duoc		2400	4	0																						36	20	38	1															
+Ngoc Chau Hang Lien	0	4	0	\spr\item\equip\nick\obj_neck05.spr	36	2	1	Do ngoc thach mai che ma thanh, gia tri cuc quy. 		3750	5	0																						36	27	38	1															
+Luc Tung Thach Hang Lien	0	4	0	\spr\item\equip\nick\obj_neck06.spr	36	2	1	Do Luc Tung Thanh xau lai ma thanh, tinh tam dinh than		5400	6	0																						36	34	38	1															
+Thuy Tinh Hang Lien	0	4	0	\spr\item\equip\nick\obj-neck07.spr	36	2	1	Vat quy vo cung, nghin vang kho mua 		7350	7	0																						36	40	38	1															
+Khong Tuoc Thach Hang Lien	0	4	0	\spr\item\equip\nick\obj-neck08.spr	36	2	1	Dong tuoc thach xuyen thanh, anh sang lap lanh, Muoi phan quy gia. 		9600	8	0																						36	47	38	1															
+Tran Chau Hang Lien	0	4	0	\spr\item\equip\nick\obj-neck09.spr	36	2	1	Do nhieu vien tran chau ket lai thanh, gia tri khoi phai noi		12150	9	0																						36	54	38	1															
+Toan Thach Hang Lien	0	4	0	\spr\item\equip\nick\obj-neck10.spr	36	2	1	Day chuyen khoang thach, tu nuoc ngoai mang ve 		15000	10	0																						36	60	38	1															
+Luc Tung Thach Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck11.spr	36	2	1	Chi la nhung vien Luc Tung thach xau thanh ho than phu, gia tri khong dang noi. 		150	1	0																						36	1	38	0															
+San Ho Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck12.spr	36	2	1	Loai San hocung de tim, che thanh ho than phu cung tam thuong thoi. 		600	2	0																						36	7	38	0															
+Mieu Nhan Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck13.spr	36	2	1	Ho Tinh Moc, Co mot chut gia tri 		1350	3	0																						36	14	38	0															
+Ho Tinh Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck14.spr	36	2	1	Nhan Tinh Moc kho ma tim thay. 		2400	4	0																						36	20	38	0															
+Thuy Tinh Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck15.spr	36	2	1	Thuy Tinh chat dia, gia tri cuc cao. 		3750	5	0																						36	27	38	0															
+Ho Phach Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck16.spr	36	2	1	Ho Phach che thanh, Co gia tri cuc cao. 		5400	6	0																						36	34	38	0
+Bach Phi Thuy Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck17.spr	36	2	1	Che tac tu Bach Phi Thuy quy hiem. 		7350	7	0																						36	40	38	0
+Hong Phi Thuy Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck18.spr	36	2	1	Che tac tu Hong Phi Thuy quy hiem		9600	8	0																						36	47	38	0
+Tu Phi Thuy Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck19.spr	36	2	1	Che tac tu Tu Phi Thuy quy hiem		12150	9	0																						36	54	38	0
+Luc Phi Thuy Ho Than phu	0	4	1	\spr\item\equip\nick\obj-neck20.spr	36	2	1	Che tac tu Luc Phi Thuy quy hiem, chi Phat quoc Quoc su moi co no 		15000	10	0																						36	60	38	0
+Thao Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes01.spr	26	2	2	Loai giay bang co thuong, che tac tho so. 		35	1	0	30	7	7	31	20	20																36	1	32	20	33	0			38	0									
+Bo Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes01.spr	26	2	2	Loai giay bang vai thuong trong nhan gian thuong dung. 		130	2	0	30	12	12	31	20	20																36	8	32	29	33	0			38	0									
+Thien Tang Bo Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes02.spr	26	2	2	Loai giay vai day, mau xam tro. 		325	3	0	30	18	18	31	20	20																36	14	32	39	33	0			38	0									
+Cat Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes02.spr	26	2	2	Loai giay duoc tinh che tu co Cat dang. 		500	4	0	30	24	24	31	20	20																36	20	32	49	33	0			38	0									
+Thuong Cat Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes03.spr	26	2	2	Dung loai Cat Dang lau nam, tinh deo cuc cao. 		800	5	0	30	30	30	31	20	20																36	27	32	59	33	0			38	0									
+Bach Nien Thuong Cat Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes03.spr	26	2	2	Loai giay co duoc dung nhieu o vung Van Nam. 		1250	6	0	30	36	36	31	20	20																36	33	32	69	33	0			38	0									
+Tri Vi Tong Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes04.spr	26	2	2	Loai giay cuc pham da co danh tieng hon tram nam. 		1650	7	0	30	42	42	31	20	20																36	40	32	79	33	0			38	0									
+Giao Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes04.spr	26	2	2	Loai giay duoc lam tu long chim tri. 		1925	8	0	30	48	48	31	20	20																36	47	32	89	33	0			38	0									
+Phong Vi Tong Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes05.spr	26	2	2	Loai giay duoc lam tu to lua cuc hiem, chi co o phuong Nam. 		2500	9	0	30	54	54	31	20	20																36	54	32	99	33	0			38	0									
+Cuu Tiet Xuong Vi Ngoa	0	5	0	\spr\item\equip\boots\obj-shoes05.spr	26	2	2	Dung loai co Xuong Bo o co huong cua Khuat Nguyen ket thanh, nhe ma chac chan		3200	10	0	30	60	60	31	20	20																36	60	32	109	33	0			38	0									
+Nguu Bi Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes06.spr	26	2	2	Loai giay lam bang da bo thong thuong. 		75	1	0	30	17	17	31	20	20																36	3	32	30	33	0			38	0									
+Tat Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes06.spr	26	2	2	Loai giay lam tu loai co dac biet. 		300	2	0	30	28	28	31	20	20																36	10	32	44	33	0			38	0									
+O Bi Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes07.spr	26	2	2	Loai giay da bo nhung da qua tinh che. 		700	3	0	30	42	42	31	20	20																36	16	32	59	33	0			38	0									
+Dang Mong Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes07.spr	26	2	2	Loai giay thuong dang tinh che tu co Dang Mong. 		1200	4	0	30	56	56	31	20	20																36	22	32	74	33	0			38	0									
+Phi La Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes08.spr	26	2	2	Loai giay thuong dang tinh che tu co Dang Mong va to dieu. 		1800	5	0	30	70	70	31	20	20																36	29	32	89	33	0			38	0									
+Luc Thuy Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes08.spr	26	2	2	Giay lam tu to truc. 		2500	6	0	30	84	84	31	20	20																36	35	32	104	33	0			38	0
+Ho Bi Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes09.spr	26	2	2	Loai giay may tu da ho trang hiem thay. 		3250	7	0	30	98	98	31	20	20																36	42	32	119	33	0			38	0
+Te Bi Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes09.spr	26	2	2	Loai giay thuong dang, tinh che tu lua va da te giac. 		4500	8	0	30	112	112	31	20	20																36	49	32	134	33	0			38	0
+Long Lan Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes10.spr	26	2	2	Tuy goi la Long Lan Ngoa, thuc te duoc lam tu da ca sau.		6000	9	0	30	126	126	31	20	20																36	56	32	149	33	0			38	0
+Thien Tam Ngoa	0	5	1	\spr\item\equip\boots\obj-shoes10.spr	26	2	2	Dung Loai to Thien Tam thuong dang may thanh, tinh deo cuc cao		7250	10	0	30	140	140	31	20	20																36	62	32	164	33	0			38	0
+Tu Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes11.spr	27	2	2	La loai hai thong thuong, o dau cung thay. 		35	1	0	30	7	7	31	20	20																36	1	32	20	33	0			38	1
+Lang To Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes11.spr	27	2	2	La loai giay dung Loai to thuong dang may thanh. 		130	2	0	30	12	12	31	20	20																36	8	32	29	33	0			38	1
+Gam Hai	0	5	2	\spr\item\equip\boots\obj-shoes12.spr	27	2	2	Loai giay cua nu gioi, duoc may tu gam thuong hang. 		325	3	0	30	18	18	31	20	20																36	14	32	39	33	0			38	1
+Uyen Uong Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes12.spr	27	2	2	Loai giay co theu hinh hoa buom. 		500	4	0	30	24	24	31	20	20																36	20	32	49	33	0			38	1
+Toan Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes13.spr	27	2	2	Dung loai to danh tieng che thanh, do deo cuc cao. 		800	5	0	30	30	30	31	20	20																36	27	32	59	33	0			38	1
+Lam Ngoc Hai	0	5	2	\spr\item\equip\boots\obj-shoes13.spr	27	2	2	Loai giay tu to thuong dang, mau sac trang xanh rat dep mat. 		1250	6	0	30	36	36	31	20	20																36	33	32	69	33	0			38	1
+Lien Phong Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes14.spr	27	2	2	Loai giay tu to thuong dang, danh cho nu gioi. 		1650	7	0	30	42	42	31	20	20																36	40	32	79	33	0			38	1
+Pham Hong Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes14.spr	27	2	2	La loai giay thuong dung trong nha Phat. 		1925	8	0	30	48	48	31	20	20																36	47	32	89	33	0			38	1
+Bach Chu Ngoa	0	5	2	\spr\item\equip\boots\obj-shoes15.spr	27	2	2	Loai giay duoc may tu lua dieu va to Thien Tam. 		2500	9	0	30	54	54	31	20	20																36	54	32	99	33	0			38	1
+Kim Lu hai	0	5	2	\spr\item\equip\boots\obj-shoes15.spr	27	2	2	Dung to Thien Tam va cac soi vang mong may thanh. 		3200	10	0	30	60	60	31	20	20																36	60	32	109	33	0			38	1
+Loc Bi Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes16.spr	27	2	2	Loai giay duoc may tuda Nai trang. 		75	1	0	30	17	17	31	20	20																36	3	32	30	33	0			38	1
+Ky Hai	0	5	3	\spr\item\equip\boots\obj-shoes16.spr	27	2	2	Dung nhung loai thuc vat thuong dang may thanh. 		300	2	0	30	28	28	31	20	20																36	10	32	44	33	0			38	1
+Ngan Doan Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes17.spr	27	2	2	Loai giay may tu cac thu lua thong thuong. 		700	3	0	30	42	42	31	20	20																36	16	32	59	33	0			38	1
+Phu Dung Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes17.spr	27	2	2	Dung nhung loai lua thuong dang may thanh. 		1200	4	0	30	56	56	31	20	20																36	22	32	74	33	0			38	1
+Hoa Tuong Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes18.spr	27	2	2	Loai giay may tu gam do. 		1800	5	0	30	70	70	31	20	20																36	29	32	89	33	0			38	1
+Muc Van Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes18.spr	27	2	2	May tu vo cay va cac loai to thuong dang. 		2500	6	0	30	84	84	31	20	20																36	35	32	104	33	0			38	1
+Xuong Hoan Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes19.spr	27	2	2	Loai giay bi truyen duoc lam tu lua to hoan. 		3250	7	0	30	98	98	31	20	20																36	42	32	119	33	0			38	1
+Tuyet Doanh Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes19.spr	27	2	2	Duoc lam tu to Thien Tam va to Bach Ngan. 		4500	8	0	30	112	112	31	20	20																36	49	32	134	33	0			38	1
+Sinh Sa Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes20.spr	27	2	2	Dung cac loai to cuc nhe che thanh, do deo rat cao. 		6000	9	0	30	126	126	31	20	20																36	56	32	149	33	0			38	1
+Phi Phung Ngoa	0	5	3	\spr\item\equip\boots\obj-shoes20.spr	27	2	2	Theo truyen thuyet, loai giay nay duoc may tu long chim Phung Hoang, co the coi may, di tren mat nuoc. 		7250	10	0	30	140	140	31	20	20																36	62	32	164	33	0			38	1
+Nguu Bi Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash01.spr	32	2	1	Loai day lung bang da trau thong thuong. 		25	1	0	30	7	7	31	15	15																36	1	32	20	33	0													
+Lang Bi Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash02.spr	32	2	1	Lam bang da soi, mem deo linh hoat. 		150	2	0	30	12	12	31	15	15																36	8	32	29	33	0													
+O Dang Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash03.spr	32	2	1	Ket tu loai day may 100 nam, ran chac vo cung. 		400	3	0	30	18	18	31	15	15																36	14	32	39	33	0													
+Mang Bi Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash04.spr	32	2	1	Lam tu da Mang xa, dep va chac vo cung. 		900	4	0	30	24	24	31	15	15																36	20	32	49	33	0													
+Ngac Bi Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash05.spr	32	2	1	Lam tu da ca sau, dep va chac vo cung, co the dung lam binh khi. 		1500	5	0	30	30	30	31	15	15																36	27	32	59	33	0													
+Tuong Bi Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash06.spr	32	2	1	Lam tu da voi, day va chac vo cung. 		2250	6	0	30	36	36	31	15	15																36	33	32	69	33	0													
+Sa Bi Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash07.spr	32	2	1	Lam tu da ca map, dao ten kho ma xuyen thung. 		2700	7	0	30	42	42	31	15	15																36	40	32	79	33	0													
+Te Giac Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash08.spr	32	2	1	Lam tu da Te Giac, dao kiem thuong kho ma xuyen thung. 		3500	8	0	30	48	48	31	15	15																36	47	32	89	33	0													
+Long Lan Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash09.spr	32	2	1	Lam tu da Ky Lan, kha nang phong thu cuc tot. 		4750	9	0	30	54	54	31	15	15																36	54	32	99	33	0													
+Thien Tam Yeu Dai	0	6	0	\spr\item\equip\sash\obj-sash10.spr	32	2	1	Ket bang to Thien Tam, dao thuong bat nhap, khong so lua. 		6000	10	0	30	60	60	31	15	15																36	60	32	109	33	0													
+Tinh Dong Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash11.spr	33	2	1	Day lung nang va chac chan		165	1	0	30	17	17	31	15	15																36	1	32	30	33	0													
+Tich Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash12.spr	33	2	1	Day lung bang thiec, nhe nhung chac chan		450	2	0	30	28	28	31	15	15																36	8	32	44	33	0													
+Hoang Dong Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash13.spr	33	2	1	Day lung bang Dong do, nhe nhung chac chan. 		1200	3	0	30	42	42	31	15	15																36	14	32	59	33	0													
+Thiet Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash14.spr	33	2	1	Day lung bang sat, ben vung vo song. 		1850	4	0	30	56	56	31	15	15																36	20	32	74	33	0													
+Tinh Dong Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash15.spr	33	2	1	Day lung bang Dong, tuy chac chan nhung lai khong dep. 		2700	5	0	30	70	70	31	15	15																36	27	32	89	33	0													
+Ngan Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash16.spr	33	2	1	Day lung bang Bach Ngan, vua deo vua chac. 		3700	6	0	30	84	84	31	15	15																36	33	32	104	33	0
+Mat Ngan Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash17.spr	33	2	1	Ket hop giua Bach ngan va Bach Kim, kha nang phong ngu rat tot. 		4900	7	0	30	98	98	31	15	15																36	40	32	119	33	0
+Kim Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash18.spr	33	2	1	Hoang Kim Yeu Dai, khong chi dep ma con co kha nang phong ngu. 		7000	8	0	30	112	112	31	15	15																36	47	32	134	33	0
+O Ngan Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash19.spr	33	2	1	Duoc lam tu long Kim O, cuc ky hiem, tinh deo sieu viet. 		8500	9	0	30	126	126	31	15	15																36	54	32	149	33	0
+Bach Kim Yeu Dai	0	6	1	\spr\item\equip\sash\obj-sash20.spr	33	2	1	Lam tu loai Bach Kim cuc ky quy hiem, kha nang phong ngu hon han cac loai hop kim khac. 		10000	10	0	30	140	140	31	15	15																36	60	32	164	33	0
+Sa Di Gioi Co	0	7	0	\spr\item\equip\cap\obj-ma-cap01-1.spr	28	2	2	Dai cua cac tieu Sa Di thuong deo. 		50	1	0	30	25	25	31	5	5																36	1	32	30	33	0			38	0									
+Tang Gioi Co	0	7	0	\spr\item\equip\cap\obj-ma-cap01-1.spr	28	2	2	Dai cua cac tieu Sa Di thuong deo. 		125	2	0	30	50	50	31	7	7																36	7	32	50	33	0			38	0									
+Phat An Gioi Co	0	7	0	\spr\item\equip\cap\obj-ma-cap01-1.spr	28	2	2	Dai tren do co an cua Phat mon. 		250	3	0	30	75	75	31	9	9																36	13	32	70	33	0			38	0									
+Tang Gia Gioi Co	0	7	0	\spr\item\equip\cap\obj-ma-cap01-1.spr	28	2	2	Dai cua cac tieu Sa Di thuong deo. 		400	4	0	30	100	100	31	11	11																36	19	32	90	33	0			38	0									
+Khon Loc Mao	0	7	0	\spr\item\equip\cap\obj-ma-cap02-1.spr	28	2	2	Mu doi bang bong thuong hang. 		600	5	0	30	125	125	31	13	13																36	26	32	110	33	0			38	0									
+Lam Lien Mao	0	7	0	\spr\item\equip\cap\obj-ma-cap02-2.spr	28	2	2	Loai mao lam tu nhung loai to dieu thuong hang. 		900	6	0	30	150	150	31	15	15																36	33	32	130	33	0			38	0									
+Phu Dung Mao	0	7	0	\spr\item\equip\cap\obj-ma-cap02-3.spr	28	2	2	Cac Tang Lu trung dang thuong deo, lam bang thu lua thuong dang. 		1250	7	0	30	175	175	31	17	17																36	40	32	150	33	0			38	0									
+Tham Luan Mao	0	7	0	\spr\item\equip\cap\obj-ma-cap03-1.spr	28	2	2	Cac Tang Lu trung dang thuong deo, lam bang thu lua thuong dang. 		1600	8	0	30	200	200	31	19	19																36	46	32	170	33	0			38	0									
+Niem Ninh Mao	0	7	0	\spr\item\equip\cap\obj-ma-cap03-2.spr	28	2	2	Cac Tang Lu thuong dang thuong deo. 		2000	9	0	30	225	225	31	21	21																36	53	32	190	33	0			38	0									
+Ty Lo Mao	0	7	0	\spr\item\equip\cap\obj-ma-cap03-3.spr	28	2	2	Cac Tang Lu thuong dang thuong deo, tren co an Phat, Duong Tang thuong deo no 		2500	10	0	30	250	250	31	23	23																36	60	32	210	33	0			38	0									
+Moc Tram	0	7	1	\spr\item\equip\cap\obj-ma-cap04-1.spr	29	2	2	Loai Tram Cac Dao si thuong dung. 		50	1	0	30	20	20	31	8	8																36	1	32	20	33	0			38	0	37	4							
+Hoang Duong Moc Tram	0	7	1	\spr\item\equip\cap\obj-ma-cap04-1.spr	29	2	2	Loai tram duoc tinh che tu cay Hoang Duong. 		100	2	0	30	30	30	31	10	10																36	7	32	30	33	0			38	0	37	4							
+Can Khon Ket	0	7	1	\spr\item\equip\cap\obj-ma-cap04-2.spr	28	2	2	Loai dai Cac Dao si thuong deo. 		200	3	0	30	45	45	31	12	12																36	13	32	40	33	0			38	0	37	4							
+Thai Cuc Quan	0	7	1	\spr\item\equip\cap\obj-ma-cap04-3.spr	28	2	2	Loai mu Cac Dao si thuong deo. 		350	4	0	30	60	60	31	14	14																36	19	32	50	33	0			38	0	37	4							
+Bat Quai Can	0	7	1	\spr\item\equip\cap\obj-ma-cap05-1.spr	28	2	2	Loai khan Dao si thuong quan, lam bang lua thuong dang. 		500	5	0	30	75	75	31	16	16																36	26	32	60	33	0			38	0	37	4							
+Can Kham Can	0	7	1	\spr\item\equip\cap\obj-ma-cap05-2.spr	28	2	2	Loai khan Dao si thuong quan, lam bang lua thuong dang.. 		750	6	0	30	90	90	31	18	18																36	33	32	70	33	0			38	0	37	4
+Ngu Nhac Quan	0	7	1	\spr\item\equip\cap\obj-ma-cap05-3.spr	28	2	2	Loai mu Dao si thuong quan.. 		1000	7	0	30	105	105	31	20	20																36	40	32	80	33	0			38	0	37	4
+Thuong Thanh Quan	0	7	1	\spr\item\equip\cap\obj-ma-cap06-1.spr	28	2	2	Chi co nhung dao si nao da tu luyen den mot trinh do nhat dinh thi moi co the doi. 		1250	8	0	30	120	120	31	22	22																36	46	32	90	33	0			38	0	37	4
+Tinh Quan	0	7	1	\spr\item\equip\cap\obj-ma-cap06-2.spr	28	2	2	Loai mu co khac ten cua vi dao si, thuong thay o vung Giang Nam. 		1600	9	0	30	135	135	31	24	24																36	53	32	100	33	0			38	0	37	4
+Ngu Lao Quan	0	7	1	\spr\item\equip\cap\obj-ma-cap06-3.spr	28	2	2	La mot trong nhung loai mu thuong dang. 		2000	10	0	30	150	150	31	26	26																36	60	32	110	33	0			38	0	37	4
+Truc Lap	0	7	2	\spr\item\equip\cap\obj-ma-cap07-1.spr	28	2	2	Loai mu thuong thay o vung Giang Nam. 		50	1	0	30	40	40	31	8	8																36	1	32	30	33	20			38	0		
+Ngu Lap	0	7	2	\spr\item\equip\cap\obj-ma-cap07-1.spr	28	2	2	loai mu ngu gia thuong doi. 		150	2	0	30	68	68	31	10	10																36	7	32	50	33	30			38	0		
+Tham Lo Thao Mao	0	7	2	\spr\item\equip\cap\obj-ma-cap07-2.spr	28	2	2	Loai mu duoc tinh che tu nhung loai co quy hiem. 		300	3	0	30	96	96	31	13	13																36	13	32	70	33	40			38	0		
+Chu Tao thao Mao	0	7	2	\spr\item\equip\cap\obj-ma-cap07-3.spr	28	2	2	Loai mu duoc tinh che tu nhung loai co quy hiem. o. 		500	4	0	30	124	124	31	15	15																36	19	32	90	33	50			38	0		
+Huyen Sa Dien Trao	0	7	2	\spr\item\equip\cap\obj-ma-cap08-1.spr	28	2	2	Loai ao sat thu thuong mac. 		800	5	0	30	152	152	31	17	17																36	26	32	110	33	60			38	0		
+Thanh Sat Dien Trao	0	7	2	\spr\item\equip\cap\obj-ma-cap08-2.spr	28	2	2	Loai ao sat thu cao cap thuong mac. 		1200	6	0	30	170	170	31	20	20																36	33	32	130	33	70			38	0		
+Nhan Bi Dien Trao	0	7	2	\spr\item\equip\cap\obj-ma-cap08-3.spr	28	2	2	Nghe noi sau khi giet nguoi thi lot da lam ao, oan khi cuon cuon. 		1750	7	0	30	192	192	31	22	22																36	40	32	150	33	80			38	0		
+Ngu Doc Phat Ket	0	7	2	\spr\item\equip\cap\obj-ma-cap09-1.spr	28	2	2	Loai Doc duoc che tu nam loai ran doc. 		2400	8	0	30	220	220	31	25	25																36	46	32	170	33	90			38	0		
+Bach Doc Phat Ket	0	7	2	\spr\item\equip\cap\obj-ma-cap09-2.spr	28	2	2	Loai Doc duoc che tu 100 loai hoa co doc. 		3200	9	0	30	248	248	31	27	27																36	53	32	190	33	100			38	0		
+Tu La Phat Ket	0	7	2	\spr\item\equip\cap\obj-ma-cap09-3.spr	28	2	2	La mot di vat tren the gian, sat khi toa ra ngun ngut. 		4000	10	0	30	276	276	31	30	30																36	60	32	210	33	110			38	0		
+Nho Can	0	7	3	\spr\item\equip\cap\obj-ma-cap10-1.spr	28	2	2	Loai khan cac tu tai thuong quan, di dau cung thay. 		60	1	0	30	40	40	31	8	8																36	1	32	30	33	30			38	0		
+Tien Kien Quan	0	7	3	\spr\item\equip\cap\obj-ma-cap10-1.spr	28	2	2	Loai khan cac tu tai thuong doi. 		160	2	0	30	70	70	31	10	10																36	7	32	45	33	45			38	0
+Viet My Quan	0	7	3	\spr\item\equip\cap\obj-ma-cap10-2.spr	28	2	2	Loai khan mu cac van nhan thuong doi. 		375	3	0	30	100	100	31	13	13																36	13	32	60	33	60			38	0
+Phi Yen Quan	0	7	3	\spr\item\equip\cap\obj-ma-cap10-3.spr	28	2	2	Loai mu rat dep, danh si ua dung. 		600	4	0	30	130	130	31	15	15																36	19	32	75	33	75			38	0
+Dieu Thien Quan	0	7	3	\spr\item\equip\cap\obj-ma-cap11-1.spr	28	2	2	Loai mu rat dep, danh si ua dung. 		900	5	0	30	160	160	31	17	17																36	26	32	90	33	90			38	0
+Lang Ta Quan	0	7	3	\spr\item\equip\cap\obj-ma-cap11-2.spr	28	2	2	Tinh che bang thep, doi vao tinh luc tang len rat nhanh. 		1250	6	0	30	190	190	31	20	20																36	33	32	105	33	105			38	0
+Anh Lac Quan	0	7	3	\spr\item\equip\cap\obj-ma-cap11-3.spr	28	2	2	Loai mu rat dep, duoc kham bang co Anh Lac, cac van nhan Nho si thuong thich doi		1850	7	0	30	220	220	31	22	22																36	40	32	120	33	120			38	0
+Tu Kim Phat Quan	0	7	3	\spr\item\equip\cap\obj-ma-cap12-1.spr	28	2	2	Dung nhung loai bach kim va bao thach quy hiem che thanh, cu ky cao quy. 		2500	8	0	30	250	250	31	25	25																36	46	32	135	33	135			38	0
+That Bao Phat Quan	0	7	3	\spr\item\equip\cap\obj-ma-cap12-2.spr	28	2	2	La loai mu cao quy, thuong do Hoang Thuong ban tang. 		3000	9	0	30	280	280	31	27	27																36	53	32	150	33	150			38	0
+Thong Thien Phat Quan	0	7	3	\spr\item\equip\cap\obj-ma-cap12-3.spr	28	2	2	La loai mu cao quy, chi co Hoang Thuong moi duoc doi		3750	10	0	30	310	310	31	30	30																36	60	32	165	33	165			38	0
+Dong Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap13-1.spr	29	2	2	Loai khoi lam bang tinh dong thuong dang. 		185	1	0	30	45	45	31	10	10																36	1	32	35	33	0			38	0
+Ban Dien Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap13-1.spr	29	2	2	Loai khoi che mot nua mat phia truoc, co the chong ten. 		305	2	0	30	75	75	31	13	13																36	7	32	60	33	0			38	0
+Song Dien Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap13-2.spr	29	2	2	Loai khoi che kin dau, chi chua hai lo mat de nhin. 		560	3	0	30	105	105	31	16	16																36	13	32	85	33	0			38	0
+Thiet Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap13-3.spr	29	2	2	Loai khoi lam bang tinh thep thuong dang. 		900	4	0	30	135	135	31	19	19																36	19	32	110	33	0			38	0
+Tinh Dong Dau Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap14-1.spr	29	2	2	Loai khoi lam bang tinh dong thuong dang. 		1350	5	0	30	165	165	31	22	22																36	26	32	135	33	0			38	0
+Cang Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap14-2.spr	29	2	2	Loai khoi bang thep nguyen chat. 		1850	6	0	30	195	195	31	25	25																36	33	32	160	33	0			38	0
+Ngan Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap14-3.spr	29	2	2	Loai khoi bang bac nguyen chat. 		2550	7	0	30	225	225	31	28	28																36	40	32	185	33	0			38	0
+Tinh Cang Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap15-1.spr	29	2	2	Loai khoi bang thep nguyen chat.. 		3250	8	0	30	255	255	31	31	31																36	46	32	210	33	0			38	0
+Kim Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap15-2.spr	31	2	2	Loai khoi giap bang vang, kha nang phong ngu rat cao. 		4050	9	0	30	285	285	31	34	34																36	53	32	235	33	0			38	0
+Yem Nhat Khoi	0	7	4	\spr\item\equip\cap\obj-ma-cap15-3.spr	31	2	2	Loai khoi giap bang vang, kha nang phong ngu rat cao. 		5000	10	0	30	315	315	31	37	37																36	60	32	260	33	0			38	0
+Pha Bo Can	0	7	5	\spr\item\equip\cap\obj-ma-cap16-1.spr	28	2	2	Loai khan nhung nguoi an may thuong quan tren dau, rat rach nat. 		30	1	0	30	25	25	31	8	8																36	1	32	30	33	20			38	0
+Bat Phuong Can	0	7	5	\spr\item\equip\cap\obj-ma-cap16-1.spr	28	2	2	Loai khan nhung nguoi an may thuong quan tren dau, hinh nhu cung khong co cong dung gi. 		80	2	0	30	50	50	31	10	10																36	7	32	45	33	25			38	0
+Tieu Dieu Can	0	7	5	\spr\item\equip\cap\obj-ma-cap16-2.spr	28	2	2	Loai khan nhung nguoi an may thuong quan tren dau. 		185	3	0	30	75	75	31	13	13																36	13	32	60	33	30			38	0
+Lo Thien Can	0	7	5	\spr\item\equip\cap\obj-ma-cap16-3.spr	28	2	2	Loai khan nhung nguoi an may thuong quan tren dau, rat thong dung		300	4	0	30	100	100	31	15	15																36	19	32	75	33	35			38	0
+Bach Thuc Hoan	0	7	5	\spr\item\equip\cap\obj-ma-cap17-1.spr	28	2	2	Vong deo tren co, tuong trung cho dang cap Cai Bang. 		450	5	0	30	125	125	31	17	17																36	26	32	90	33	40			38	0
+Luu Ly Hoan	0	7	5	\spr\item\equip\cap\obj-ma-cap17-2.spr	28	2	2	Loai vong deo co kham nhieu ngoc Luu Ly. 		600	6	0	30	150	150	31	20	20																36	33	32	105	33	45			38	0
+Song Tang Luu Ly Hoan	0	7	5	\spr\item\equip\cap\obj-ma-cap17-3.spr	28	2	2	Loai vong deo co kham nhieu ngoc Luu Ly, co hai lop. 		900	7	0	30	175	175	31	22	22																36	40	32	120	33	50			38	0
+Tin Nhoa Hoan	0	7	5	\spr\item\equip\cap\obj-ma-cap18-1.spr	28	2	2	Loai vong deo the hien tinh than cua Cai Bang. 		1250	8	0	30	200	200	31	25	25																36	46	32	135	33	55			38	0
+Tinh Nhoa Hoan	0	7	5	\spr\item\equip\cap\obj-ma-cap18-2.spr	28	2	2	Loai vong deo the hien tinh than cua Cai Bang. 		1500	9	0	30	225	225	31	27	27																36	53	32	150	33	60			38	0
+Trich Tinh Hoan	0	7	5	\spr\item\equip\cap\obj-ma-cap18-3.spr	28	2	2	Loai vong deo co kham nhieu ngoc Luu Ly, bao vat cua Cai Bang. 		1850	10	0	30	250	250	31	30	30																36	60	32	165	33	65			38	0
+Bo Can	0	7	6	\spr\item\equip\cap\obj-ma-cap19-1.spr	28	2	2	Loai khan thuong doi cua nhung nguoi binh dan. 		60	1	0	30	20	20	31	8	8																36	1	32	0	33	20			38	0
+Binh Dinh Can	0	7	6	\spr\item\equip\cap\obj-ma-cap19-1.spr	28	2	2	Loai khan thuong doi cua nhung nguoi binh dan nhung dang cap cao hon mot chut so voi Bo Can. 		160	2	0	30	40	40	31	10	10																36	7	32	0	33	25			38	0
+Bo Nhung Can	0	7	6	\spr\item\equip\cap\obj-ma-cap19-1.spr	28	2	2	Loai khan cua nhung nguoi binh dan, tuong doi am. 		375	3	0	30	60	60	31	13	13																36	13	32	0	33	30			38	0
+Nhan Vu Can	0	7	6	\spr\item\equip\cap\obj-ma-cap19-1.spr	28	2	2	Nghe noi dung long chim nhan det thanh, thuc te chi la lam tu nhung long chim binh thuong ma thoi. 		600	4	0	30	80	80	31	15	15																36	19	32	0	33	35			38	0
+Y To Phat Dai	0	7	6	\spr\item\equip\cap\obj-ma-cap20-1.spr	28	2	2	Dung loai to tinh pham det thanh, kieu dang rat dep. 		900	5	0	30	100	100	31	17	17																36	26	32	0	33	40			38	0
+Kim To Quan	0	7	6	\spr\item\equip\cap\obj-ma-cap20-2.spr	28	2	2	Duoc lam bang to, tinh bao ve rat tot.		1250	6	0	30	120	120	31	20	20																36	33	32	0	33	45			38	0
+Chu Khoi Quan	0	7	6	\spr\item\equip\cap\obj-ma-cap20-3.spr	28	2	2	Loai mu det bang to thuong pham, kieu dang rat dep. 		1850	7	0	30	140	140	31	22	22																36	40	32	0	33	50			38	0
+Doanh Giac Mao	0	7	6	\spr\item\equip\cap\obj-ma-cap21-1.spr	28	2	2	Loai mu det bang to thuong pham co diem them nhieu hat ngoc nho, gia rat dat. 		2500	8	0	30	160	160	31	25	25																36	46	32	0	33	55			38	0
+Tam To Mao	0	7	6	\spr\item\equip\cap\obj-ma-cap21-2.spr	28	2	2	Loai mu det bang to thuong pham, phong cach quy phai. 		3000	9	0	30	180	180	31	27	27																36	53	32	0	33	60			38	0
+O Tam Mao	0	7	6	\spr\item\equip\cap\obj-ma-cap21-3.spr	28	2	2	Loai mu det bang to O Tam thuong pham, phong cach quy phai. 		3750	10	0	30	200	200	31	30	30																36	60	32	0	33	65			38	0
+Thich Ni Mao	0	7	7	\spr\item\equip\cap\obj-fm-cap01-1.spr	28	2	2	Loai mu cac ni co thuong doi. 		50	1	0	30	25	25	31	5	5																36	1	32	30					38	1
+Thich Ni Mao	0	7	7	\spr\item\equip\cap\obj-fm-cap01-1.spr	28	2	2	Loai mu cac ni co thuong doi. 		125	2	0	30	50	50	31	7	7																36	7	32	50					38	1
+Thich Ni Mao	0	7	7	\spr\item\equip\cap\obj-fm-cap01-1.spr	28	2	2	Loai mu cac ni co thuong doi. 		250	3	0	30	75	75	31	9	9																36	13	32	70					38	1
+Thich Ni Mao	0	7	7	\spr\item\equip\cap\obj-fm-cap01-1.spr	28	2	2	Loai mu cac ni co thuong doi. 		400	4	0	30	100	100	31	11	11																36	19	32	90					38	1
+Thanh Mao	0	7	7	\spr\item\equip\cap\obj-fm-cap02-1.spr	28	2	2	Loai mu mau xanh cua Phat gia. 		600	5	0	30	125	125	31	13	13																36	26	32	110					38	1
+Thanh Anh Mao	0	7	7	\spr\item\equip\cap\obj-fm-cap02-2.spr	28	2	2	Loai mu mau xanh cua Phat gia, co tua ru xuong. 		900	6	0	30	150	150	31	15	15																36	33	32	130					38	1
+Thien Thanh Mao	0	7	7	\spr\item\equip\cap\obj-fm-cap02-3.spr	28	2	2	Loai mu mau xanh cua Phat gia, thanh thoat cao quy. 		1250	7	0	30	175	175	31	17	17																36	40	32	150					38	1
+Xich Anh Phat Quan	0	7	7	\spr\item\equip\cap\obj-fm-cap03-1.spr	28	2	2	Loai mu cao cap cua Phat gia, dung trong nhung luc nghiem trang. 		1600	8	0	30	200	200	31	19	19																36	46	32	170					38	1
+Vo Tuong Phap Quan	0	7	7	\spr\item\equip\cap\obj-fm-cap03-2.spr	28	2	2	Loai mu cao cap cua Phat gia, dung trong nhung luc nghiem trang. 		2000	9	0	30	225	225	31	21	21																36	53	32	190					38	1
+Quan Am Phat Quan	0	7	7	\spr\item\equip\cap\obj-fm-cap03-3.spr	28	2	2	Loai mu cao cap cua Phat gia. 		2500	10	0	30	250	250	31	23	23																36	60	32	210					38	1
+Ngan Thoa	0	7	8	\spr\item\equip\cap\obj-fm-cap04-1.spr	30	2	2	Loai tram cai toc bang bac. 		50	1	0	30	20	20	31	8	8																36	1	32	0	33	20			38	1
+Ngan Liem Thoa	0	7	8	\spr\item\equip\cap\obj-fm-cap04-1.spr	30	2	2	Loai tram cai toc bang bac. 		100	2	0	30	40	40	31	10	10																36	7	32	0	33	25			38	1
+Ngan Liem Thoa	0	7	8	\spr\item\equip\cap\obj-fm-cap04-2.spr	30	2	2	Loai tram cai toc bang bac. 		200	3	0	30	60	60	31	13	13																36	13	32	0	33	30			38	1
+Ngan Hoan Thoa	0	7	8	\spr\item\equip\cap\obj-fm-cap04-3.spr	30	2	2	Loai tram cai toc bang bac. 		350	4	0	30	80	80	31	15	15																36	19	32	0	33	35			38	1
+Kim Thoa	0	7	8	\spr\item\equip\cap\obj-fm-cap05-1.spr	30	2	2	Loai tram cai toc bang bac. 		500	5	0	30	100	100	31	17	17																36	26	32	0	33	40			38	1
+Kim Hoan Thoa	0	7	8	\spr\item\equip\cap\obj-fm-cap05-2.spr	30	2	2	Loai tram cai toc bang bac, dang hoi tron. 		750	6	0	30	120	120	31	20	20																36	33	32	0	33	45			38	1
+Kim Bo Dao	0	7	8	\spr\item\equip\cap\obj-fm-cap05-3.spr	30	2	2	Loai tram cai toc bang vang. 		1000	7	0	30	140	140	31	22	22																36	40	32	0	33	50			38	1
+Phi Thuy Thoa	0	7	8	\spr\item\equip\cap\obj-fm-cap06-1.spr	30	2	2	Loai tram cai toc bang lua, co diem vang. 		1250	8	0	30	160	160	31	25	25																36	46	32	0	33	55			38	1
+Thai Cuc Quan	0	7	8	\spr\item\equip\cap\obj-fm-cap06-2.spr	30	2	2	La Mot loai mu cua cac dao si thuong doi, co the tru yeu diet quai. 		1600	9	0	30	180	180	31	27	27																36	53	32	0	33	60			38	1
+Am Duong Vo Cuc Quan	0	7	8	\spr\item\equip\cap\obj-fm-cap06-3.spr	30	2	2	Bao vat cua cac dao gia. 		2000	10	0	30	200	200	31	30	30																36	60	32	0	33	65			38	1
+Bi Tru	0	7	9	\spr\item\equip\cap\obj-fm-cap07-1.spr	28	2	2	Loai mu bao ho duoc tinh che tu nhung loai da thu, co kha nang tan cong va phong ngu rat tot. 		50	1	0	30	25	25	31	8	8																36	1	32	30	33	20			38	1
+Dong Tru	0	7	9	\spr\item\equip\cap\obj-fm-cap07-1.spr	28	2	2	Loai giap tru bang dong, cac si binh thuong mac. 		150	2	0	30	50	50	31	10	10																36	7	32	45	33	25			38	1
+Tinh Dong Tru	0	7	9	\spr\item\equip\cap\obj-fm-cap07-2.spr	28	2	2	Loai khoi duoc tinh che bang dong. 		300	3	0	30	75	75	31	13	13																36	13	32	60	33	30			38	1
+Xich Don Bi Mao	0	7	9	\spr\item\equip\cap\obj-fm-cap07-3.spr	28	2	2	Loai mu bao ho duoc lam tu da su tu bien, tinh phong ngu tat cao. 		500	4	0	30	100	100	31	15	15																36	19	32	75	33	35			38	1
+Thu Cot Tram	0	7	9	\spr\item\equip\cap\obj-fm-cap08-1.spr	30	2	2	Loai Tram lam bang xuong thu. 		800	5	0	30	125	125	31	17	17																36	26	32	90	33	40			38	1
+Tu Cot Tram	0	7	9	\spr\item\equip\cap\obj-fm-cap08-2.spr	30	2	2	Loai Tram lam bang xuong thu. 		1200	6	0	30	150	150	31	20	20																36	33	32	105	33	45			38	1
+Huyen Cot Tram	0	7	9	\spr\item\equip\cap\obj-fm-cap08-3.spr	30	2	2	Loai Tram lam bang xuong thu, rat quy hiem. 		1750	7	0	30	175	175	31	22	22																36	40	32	120	33	50			38	1
+Ho Bi Dien Trao	0	7	9	\spr\item\equip\cap\obj-fm-cap09-1.spr	28	2	2	Loai mu phong ho thuong dang bang da Ho. 		2400	8	0	30	200	200	31	25	25																36	46	32	135	33	55			38	1
+Dieu Bi Dien Trao	0	7	9	\spr\item\equip\cap\obj-fm-cap09-2.spr	28	2	2	Loai mu phong ho thuong dang bang da chon. 		3200	9	0	30	225	225	31	27	27																36	53	32	150	33	60			38	1
+Huyen Te Dien Trao	0	7	9	\spr\item\equip\cap\obj-fm-cap09-3.spr	28	2	2	Loai mu phong ho thuong dang bang da te giac, cuc ky quy hiem. 		4000	10	0	30	250	250	31	30	30																36	60	32	165	33	65			38	1
+Tho Thiet Dau Hoan	0	7	10	\spr\item\equip\cap\obj-fm-cap10-1.spr	28	2	2	Loai mu bao ho tinh che tu thep, kha nang phong ngu rat cao. 		60	1	0	30	25	25	31	8	8																36	1	32	30	33	20			38	1
+Te Thiet Dau Hoan	0	7	10	\spr\item\equip\cap\obj-fm-cap10-1.spr	28	2	2	Loai mu bao ho tinh che tu thep, kha nang phong ngu rat cao. 		160	2	0	30	50	50	31	10	10																36	7	32	45	33	25			38	1
+Hoang Dong Dau Hoan	0	7	10	\spr\item\equip\cap\obj-fm-cap10-2.spr	28	2	2	Loai mu bao ho tinh che tu dong, kha nang phong ngu rat cao		375	3	0	30	75	75	31	13	13																36	13	32	60	33	30			38	1
+Luc Ngoc Dau Hoan	0	7	10	\spr\item\equip\cap\obj-fm-cap10-3.spr	28	2	2	Loai mu bao ho tinh che tu thep co kham ngoc. 		600	4	0	30	100	100	31	15	15																36	19	32	75	33	35			38	1
+Ke Vi Thoa	0	7	10	\spr\item\equip\cap\obj-fm-cap11-1.spr	30	2	2	Loai thoa duoc lam tu duoi chim, rat nu tinh. 		900	5	0	30	125	125	31	17	17																36	26	32	90	33	40			38	1
+Anh Vu Thoa	0	7	10	\spr\item\equip\cap\obj-fm-cap11-2.spr	30	2	2	Loai tram thoa lam tu long chim anh Vu, rat dep. 		1250	6	0	30	150	150	31	20	20																36	33	32	105	33	45			38	1
+Ban Xa Thoa	0	7	10	\spr\item\equip\cap\obj-fm-cap11-3.spr	30	2	2	Loai tram thoa duoc mai tu bao thach, tron lan voi da ran, cuc ky cao quy. 		1850	7	0	30	175	175	31	22	22																36	40	32	120	33	50			38	1
+Chu Sa Dau Hoan	0	7	10	\spr\item\equip\cap\obj-fm-cap12-1.spr	28	2	2	Loai mu bao ho tinh che tu thep, co kham rat nhieu loai da quy 		2500	8	0	30	200	200	31	25	25																36	46	32	135	33	55			38	1
+Minh Chau Dau Hoan	0	7	10	\spr\item\equip\cap\obj-fm-cap12-2.spr	28	2	2	Loai mu bao ho tinh che tu vang, co kham rat nhieu hat Da Minh Chau. 		3000	9	0	30	225	225	31	27	27																36	53	32	150	33	60			38	1
+Long Huyet Dau Hoan	0	7	10	\spr\item\equip\cap\obj-fm-cap12-3.spr	28	2	2	Loai mu bao ho tinhche tu vang cuc ky quy hiem. 		3750	10	0	30	250	250	31	30	30																36	60	32	165	33	65			38	1
+Vien Mao	0	7	11	\spr\item\equip\cap\obj-fm-cap13-1.spr	28	2	2	Mot loai mu thong thuong. 		185	1	0	30	20	20	31	8	8																36	1	32	0	33	20			38	1
+Duong Mao	0	7	11	\spr\item\equip\cap\obj-fm-cap13-1.spr	28	2	2	Mot loai mu thong thuong. 		305	2	0	30	40	40	31	10	10																36	7	32	0	33	25			38	1
+Can Quan Mao	0	7	11	\spr\item\equip\cap\obj-fm-cap13-2.spr	28	2	2	Loai mu thong thuong, ai cung co the doi. 		560	3	0	30	60	60	31	13	13																36	13	32	0	33	30			38	1
+Ty Giac Mao	0	7	11	\spr\item\equip\cap\obj-fm-cap13-3.spr	28	2	2	Mot loai mu tuong doi cao cap. 		900	4	0	30	80	80	31	15	15																36	19	32	0	33	35			38	1
+Thanh Phung Quan	0	7	11	\spr\item\equip\cap\obj-fm-cap14-1.spr	28	2	2	Mot loai khan ma cac nu tuong rat thich quan. 		1350	5	0	30	100	100	31	17	17																36	26	32	0	33	40			38	1
+Kim Phung Quan	0	7	11	\spr\item\equip\cap\obj-fm-cap14-2.spr	28	2	2	Mot loai khan duoc det tu Kim To. 		1850	6	0	30	120	120	31	20	20																36	33	32	0	33	45			38	1
+Song Phung Trieu Thien Quan	0	7	11	\spr\item\equip\cap\obj-fm-cap14-3.spr	28	2	2	Loai mu bao ho tinh che tu vang, trum kin ca dau. 		2550	7	0	30	140	140	31	22	22																36	40	32	0	33	50			38	1
+Phi Thuy Khoi	0	7	11	\spr\item\equip\cap\obj-fm-cap15-1.spr	31	2	2	Loai mu bao ho tinh che tu vang, trum kin ca dau. 		3250	8	0	30	160	160	31	25	25																36	46	32	0	33	55			38	1
+Giai Trai Khoi	0	7	11	\spr\item\equip\cap\obj-fm-cap15-2.spr	31	2	2	Loai mu da duoc yem bua chu, tuong trung cho quyen luc. 		4050	9	0	30	180	180	31	27	27																36	53	32	0	33	60			38	1
+Long Lan Khoi	0	7	11	\spr\item\equip\cap\obj-fm-cap15-3.spr	31	2	2	Khoi phat ra hao quang nhu rong lan uon luon, Vua nhin da biet ngay la mot pham vat cuc ky quy hiem. 		5000	10	0	30	200	200	31	30	30																36	60	32	0	33	65			38	1
+Bo Mao	0	7	12	\spr\item\equip\cap\obj-fm-cap16-1.spr	28	2	2	Loai mu thong thuong. 		30	1	0	30	45	45	31	10	10																36	1	32	35	33	0			38	1
+Vien Dinh Mao	0	7	12	\spr\item\equip\cap\obj-fm-cap16-1.spr	28	2	2	Loai mu bang vai co dinh tron. 		80	2	0	30	75	75	31	13	13																36	7	32	60	33	0			38	1
+Pham Van Mao	0	7	12	\spr\item\equip\cap\obj-fm-cap16-2.spr	28	2	2	Loai ao truyen thong cua Phat gia, tren dau co an Phat. 		185	3	0	30	105	105	31	16	16																36	13	32	85	33	0			38	1
+Thanh Van Khoi	0	7	12	\spr\item\equip\cap\obj-fm-cap16-3.spr	28	2	2	Loai khoi co rat nhieu hoa van. 		300	4	0	30	135	135	31	19	19																36	19	32	110	33	0			38	1
+Hong Anh Thoa	0	7	12	\spr\item\equip\cap\obj-fm-cap17-1.spr	30	2	2	Loai thoa co cac tua nho bang long chim ru xuong, cao quy my le. 		450	5	0	30	165	165	31	22	22																36	26	32	135	33	0			38	1
+Xich Huyet Thoa	0	7	12	\spr\item\equip\cap\obj-fm-cap17-2.spr	30	2	2	Mot loai tram thoa quy hiem, co mau do nhu huyet. 		600	6	0	30	195	195	31	25	25																36	33	32	160	33	0			38	1
+Luu Ly Thoa	0	7	12	\spr\item\equip\cap\obj-fm-cap17-3.spr	30	2	2	Thoa lam tu ngoc Luu Ly, cuc ky quy hiem. 		900	7	0	30	225	225	31	28	28																36	40	32	185	33	0			38	1
+Loc Nhi Thoa	0	7	12	\spr\item\equip\cap\obj-fm-cap18-1.spr	30	2	2	Thoa lam tu gac huou, vua dep vua huu dung. 		1250	8	0	30	255	255	31	31	31																36	46	32	210	33	0			38	1
+Lam Tinh Thoa	0	7	12	\spr\item\equip\cap\obj-fm-cap18-2.spr	30	2	2	Thoa co kham thuy tinh, cuc ky quy hiem. 		1500	9	0	30	285	285	31	34	34																36	53	32	235	33	0			38	1
+Thanh Tinh Thoa	0	7	12	\spr\item\equip\cap\obj-fm-cap18-3.spr	30	2	2	Thoa co kham thuy tinh xanh, anh sang huyen ao, cuc ky quy hiem		1850	10	0	30	315	315	31	37	37																36	60	32	260	33	0			38	1
+Hoang Bo Phat Dai	0	7	13	\spr\item\equip\cap\obj-fm-cap19-1.spr	28	2	2	Mot loai dai that thong thuong. 		60	1	0	30	25	25	31	8	8																36	1	32	30	33	20			38	1
+Hoang Bo Phat Dai	0	7	13	\spr\item\equip\cap\obj-fm-cap19-1.spr	28	2	2	Mot loai dai that thong thuong. 		160	2	0	30	50	50	31	10	10																36	7	32	45	33	25			38	1
+Hoang Bo Phat Dai	0	7	13	\spr\item\equip\cap\obj-fm-cap19-1.spr	28	2	2	Mot loai dai that thong thuong. 		375	3	0	30	75	75	31	13	13																36	13	32	60	33	30			38	1
+Hoang Bo Phat Dai	0	7	13	\spr\item\equip\cap\obj-fm-cap19-1.spr	28	2	2	Mot loai dai that thong thuong. 		600	4	0	30	100	100	31	15	15																36	19	32	75	33	35			38	1
+Hoang Dong Phat Xoa	0	7	13	\spr\item\equip\cap\obj-fm-cap20-1.spr	30	2	2	Loai tram cai bang dong, gia tri tam thuong. 		900	5	0	30	125	125	31	17	17																36	26	32	90	33	40			38	1
+Hong Ma Nao Phat Xoa	0	7	13	\spr\item\equip\cap\obj-fm-cap20-2.spr	30	2	2	Loai tram cai bang Ma Nao pha lan nhieu loai bao thach. 		1250	6	0	30	150	150	31	20	20																36	33	32	105	33	45			38	1
+Thanh Luu Ly Phat Xoa	0	7	13	\spr\item\equip\cap\obj-fm-cap20-3.spr	30	2	2	Loai tram cai bang Luu Ly pha lan nhieu loai bao thach. 		1850	7	0	30	175	175	31	22	22																36	40	32	120	33	50			38	1
+Huy Thuy Khoi	0	7	13	\spr\item\equip\cap\obj-fm-cap21-1.spr	29	2	2	Loai khoi giap chi danh rieng cho cac tuong linh chi huy. 		2500	8	0	30	200	200	31	25	25																36	46	32	135	33	55			38	1
+Phung Nhan Khoi	0	7	13	\spr\item\equip\cap\obj-fm-cap21-2.spr	29	2	2	Loai khoi giap co hinh dang nhu dau chim phung. 		3000	9	0	30	225	225	31	27	27																36	53	32	150	33	60			38	1
+Kim Phung Trien Si	0	7	13	\spr\item\equip\cap\obj-fm-cap21-3.spr	29	2	2	Loai khoi giap co hinh dang nhu dau chim phung, chi danh cho tuong linh. 		3750	10	0	30	250	250	31	30	30																36	60	32	165	33	65			38	1
+Thanh Dong Thu Trac	0	8	0	\spr\item\equip\bangle\obj-bangle01.spr	35	1	2	Loai vong duoc tinh che tu Dong, kha nang phong ngu rat tot. 		50	1	0	30	13	13	31	20	20																36	1	32	0	33	0			38	1									
+Luyen Dong Thu Trac	0	8	0	\spr\item\equip\bangle\obj-bangle02.spr	35	1	2	Loai vong duoc tinh che tu Dong, kha nang phong ngu rat tot. 		150	2	0	30	22	22	31	20	20																36	8	32	20	33	0			38	1									
+Tan Thiet Ho Uyen	0	8	0	\spr\item\equip\bangle\obj-bangle03.spr	35	1	2	Loai ho giap duoc tinh che tu thep gia, phong ngu rat tot		300	3	0	30	33	33	31	20	20																36	14	32	27	33	0			38	1									
+Ngan To Trac	0	8	0	\spr\item\equip\bangle\obj-bangle04.spr	35	1	2	Loai vong bang bac nho, co the dung de trang suc. 		500	4	0	30	45	45	31	20	20																36	20	32	35	33	0			38	1									
+Kim To Trac	0	8	0	\spr\item\equip\bangle\obj-bangle05.spr	35	1	2	Loai vong bangvang nho, co the dung de trang suc. 		900	5	0	30	56	56	31	20	20																36	27	32	42	33	0			38	1									
+Bach Ngoc Trac	0	8	0	\spr\item\equip\bangle\obj-bangle06.spr	35	1	2	Mai tu Bach Ngoc, cuc ky quy hiem. 		1300	6	0	30	67	67	31	20	20																36	33	32	49	33	0			38	1									
+Phi Thuy Ngoc Trac	0	8	0	\spr\item\equip\bangle\obj-bangle07.spr	35	1	2	Mau sac trang nha, lam do trang suc. 		1800	7	0	30	78	78	31	20	20																36	40	32	56	33	0			38	1									
+On Luong Ngoc Trac	0	8	0	\spr\item\equip\bangle\obj-bangle08.spr	35	1	2	Ben trong co Am duong hoa khi, Dong am, Ha mat. 		2450	8	0	30	89	89	31	20	20																36	47	32	64	33	0			38	1									
+Bang Phach Han Ngoc Trac	0	8	0	\spr\item\equip\bangle\obj-bangle09.spr	35	1	2	Mai tu loai Bach Ngoc ngan nam, khi lanh kinh nguoi. 		3200	9	0	30	100	100	31	20	20																36	54	32	72	33	0			38	1									
+Long Phung Huyet Ngoc Trac	0	8	0	\spr\item\equip\bangle\obj-bangle10.spr	35	1	2	La loai vong deo co tiem an suc manh than bi. 		4050	10	0	30	111	111	31	20	20																36	60	32	80	33	0			38	1									
+Nguu Bi Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle11.spr	34	1	2	La loai ho uyen thong thuong bang da trau, dao kiem kho dam thung. 		50	1	0	30	13	13	31	20	20																36	1	32	0	33	0			38	0									
+Lang Bi Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle12.spr	34	1	2	Lam bang da soi, mem deo linh hoat. 		150	2	0	30	22	22	31	20	20																36	8	32	20	33	0			38	0									
+O Dang Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle13.spr	34	1	2	Ket tu loai day may 100 nam, ran chac vo cung. 		300	3	0	30	33	33	31	20	20																36	14	32	30	33	0			38	0									
+Mang Bi Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle14.spr	34	1	2	Lam tu da Mang xa, dep va chac vo cung. 		500	4	0	30	45	45	31	20	20																36	20	32	40	33	0			38	0									
+Ngac Bi Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle15.spr	34	1	2	Lam tu da ca sau, dep va chac vo cung, co the dung lam binh khi. 		900	5	0	30	56	56	31	20	20																36	27	32	50	33	0			38	0									
+Tuong Bi Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle16.spr	34	1	2	Lam tu da voi, vua deo vua chac. 		1300	6	0	30	67	67	31	20	20																36	33	32	60	33	0			38	0
+Sa Bi Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle17.spr	34	1	2	Lam tu da ca map, dao ten kho ma xuyen thung. 		1800	7	0	30	78	78	31	20	20																36	40	32	70	33	0			38	0
+Te Giac Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle18.spr	34	1	2	Lam tu da Te Giac, dao kiem thuong kho ma xuyen thung. 		2450	8	0	30	89	89	31	20	20																36	47	32	80	33	0			38	0
+Long Lan Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle19.spr	34	1	2	Lam tu da Giai Long, co the bao ve cho tUyen canh tay. 		3200	9	0	30	100	100	31	20	20																36	54	32	90	33	0			38	0
+Thien Tam Ho Uyen	0	8	1	\spr\item\equip\bangle\obj-bangle20.spr	34	1	2	Ket bang to Thien Tam, dao thuong bat nhap, khong so lua. 		4050	10	0	30	111	111	31	20	20																36	60	32	100	33	0			38	0
+Huan Y Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist01.spr	35	1	2	"Loai huong lieu duoc tinh che tu co Huan Y, dan gian thuong dung. "		50	1	0																						36	1	38	1															
+Mat Li Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist02.spr	35	1	2	"Loai huong lieu duoc tinh che tu hoa Lai, dung rat pho bien. "		200	2	0																						36	7	38	1															
+Nhu Huong Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist03.spr	35	1	2	"Loai huong lieu duoc tinh che tu cay Nhu huong, phu gia thuong dung. "		450	3	0																						36	14	38	1															
+Lan Hoa Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist04.spr	35	1	2	"Loai huong lieu duoc tinh che tu hoa Lan, mui vi thanh nha. "		800	4	0																						36	20	38	1															
+Hop Hoan Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist05.spr	35	1	2	"Loai huong lieu cao cap duoc tinh che tu nhieu loai duoc thao, dung trong nhung dip trong dai. "		1250	5	0																						36	27	38	1															
+Tu To Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist06.spr	35	1	2	"Loai huong lieu duoc tinh che tu hoa Tu Phuong, quan gia thich dung. "		1800	6	0																						36	34	38	1															
+Tram Dan Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist07.spr	35	1	2	"Loai huong lieu duoc dac che tu cay Tram Dan, Hoang gia thich dung. "		2450	7	0																						36	40	38	1															
+Tien Xa Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist08.spr	35	1	2	"Loai huong lieu duoc dac che tu cac loai Xa huong, Hoang gia thich dung. "		3200	8	0																						36	47	38	1															
+Gia Nam Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist09.spr	35	1	2	"Loai huong lieu chi co trong nhung to kien dac hiem, quy pham trong hang quy pham. "		4050	9	0																						36	54	38	1															
+Long Tien Huong Nang	0	9	0	\spr\item\equip\waist\obj-waist10.spr	35	1	2	"Long Tien (nuoc mieng cua Rong) , loai huong lieu cuc quy, bao vat cua the gian. "		5000	10	0																						36	60	38	1															
+Du Dien Ngoc Boi 	0	9	1	\spr\item\equip\waist\obj-waist11.spr	35	1	2	"Goi la Ngoc boi, thuc chat chi la mot loai da dep. "		50	1	0																						36	1	38	0															
+Kinh Bach Ngoc Boi	0	9	1	\spr\item\equip\waist\obj-waist12.spr	35	1	2	"Loai ngoc boi thong thuong, thu sinh ngheo nhat cung co the deo. "		200	2	0																						36	7	38	0															
+Dao Hoa Ngoc Boi	0	9	1	\spr\item\equip\waist\obj-waist13.spr	35	1	2	"Sac nhu hoa Dao, thich hop voi nhung thieu nu nhu mi. "		450	3	0																						36	14	38	0															
+Mai Hoa  Ngoc Boi	0	9	1	\spr\item\equip\waist\obj-waist14.spr	35	1	2	"Trong ngoc co khac nhung hoa van hoa mai, rat kho tim thay. "		800	4	0																						36	20	38	0															
+Ngu Sac Ngoc Boi	0	9	1	\spr\item\equip\waist\obj-waist15.spr	35	1	2	"Tuy ngu sac khong the hien ro net, nhung cung la mot loai bao ngoc hiem thay. "		1250	5	0																						36	27	38	0															
+Thanh Ngoc Ngoc Boi	0	9	1	\spr\item\equip\waist\obj-waist16.spr	35	1	2	"Duoc mai tu loai Thanh Ngoc Quy hiem, cac van nhan Nho si thuong thich deo. "		1800	6	0																						36	34	38	0
+Bich Ngoc Ngoc Boi	0	9	1	\spr\item\equip\waist\obj-waist17.spr	35	1	2	"Loai Bich Ngoc Ngoc Boi tinh quy, Vuong Ton cong tu khong ai la khong thich. "		2450	7	0																						36	40	38	0
+Mac Ngoc Ngoc Boi	0	9	1	\spr\item\equip\waist\obj-waist18.spr	35	1	2	"Mai tu loai Mac Ngoc quy hiem, mau sac thanh nha, ham chua linh khi. "		3200	8	0																						36	47	38	0
+Hoang Ngoc Ngoc Boi	0	9	1	\spr\item\equip\waist\obj-waist19.spr	35	1	2	"Mai tu loai Hoang Ngoc quy hiem, mau sac thanh nha, ham chua linh khi. "		4050	9	0																						36	54	38	0
+Duong Chi Bach Ngoc	0	9	1	\spr\item\equip\waist\obj-waist20.spr	35	1	2	"Loai ngoc quy hiem nhat trong cac loai ngoc, chi Hoang de moi co. "		5000	10	0																						36	60	38	0

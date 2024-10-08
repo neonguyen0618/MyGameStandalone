@@ -1,0 +1,125 @@
+名称	道具种类	具体类别	详细类别	动画文件名	对应物件索引	宽度	高度	说明文字	五行属性	价格	等级	是否叠放	基础属性1类型	基础属性1最小值	基础属性1最大值	基础属性2类型	基础属性2最小值	基础属性2最大值	基础属性3类型	基础属性3最小值	基础属性3最大值	基础属性4类型	基础属性4最小值	基础属性4最大值	基础属性5类型	基础属性5最小值	基础属性5最大值	基础属性6类型	基础属性6最小值	基础属性6最大值	基础属性7类型	基础属性7最小值	基础属性7最大值	需求属性1类型	需求属性1数值	需求属性2类型	需求属性2数值	需求属性3类型	需求属性3数值	需求属性4类型	需求属性4数值	需求属性5类型	需求属性5数值	需求属性6类型	需求属性6数值
+Liet Hoang Ma	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Liet ma, danh the nao cung chay khong nhanh."		5000	1	0	111	10%	10%	93	50	50	85	10	10	150	-10	-10										36	20										
+Liet Hoang Ma	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Liet ma, danh the nao cung chay khong nhanh."		5000	2	0	111	10%	10%	93	50	50	85	10	10	150	-10	-10										36	25										
+Hoang Ma	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Loai ngua long mau hoi xanh tia, hanh trinh rat kem."		10000	3	0	111	20%	20%	93	100	100	85	20	20	150	-20	-20										36	30										
+Hoang Ma	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Loai ngua long mau hoi xanh tia, hanh trinh rat kem."		10000	4	0	111	20%	20%	93	100	100	85	20	20	150	-20	-20										36	35										
+Hoang Phieu	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Loai ngua long vang tuong doi quy, ngay di tram dam"		20000	5	0	111	30%	30%	93	200	200	85	50	50	150	-50	-50										36	40										
+Hoang Phieu	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Loai ngua long vang tuong doi quy, ngay di tram dam"		20000	6	0	111	30%	30%	93	200	200	85	50	50	150	-50	-50										36	45										
+Dai Uyen Hoang Ma	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Loai Tuan ma hiem thay, nghin vang kho mua"		50000	7	0	111	40%	40%	93	500	500	85	100	100	150	-100	-100										36	50										
+Dai Uyen Hoang Ma	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Loai Tuan ma hiem thay, nghin vang kho mua"		50000	8	0	111	40%	40%	93	500	500	85	100	100	150	-100	-100										36	55										
+Phi Hoang	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong tam con danh ma cua Chu Muc Vuong, ngay di nghin dam"		100000	9	0	111	50%	50%	93	1000	1000	85	200	200	150	-200	-200										36	60										
+Phi Hoang	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong tam con danh ma cua Chu Muc Vuong, ngay di nghin dam"		100000	10	0	111	50%	50%	93	1000	1000	85	200	200	150	-200	-200										36	72										
+Liet Thanh Ma	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Loai ngua ha dang, long mau xanh nhat"		5000	1	0	111	10%	10%	93	50	50	85	5	5	150	-15	-15										36	20										
+Liet Thanh Ma	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Loai ngua ha dang, long mau xanh nhat"		5000	2	0	111	10%	10%	93	50	50	85	5	5	150	-15	-15										36	25										
+Thanh Thong	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Mot loai ngua long trang xam thong thuong,hanh trinh rat kem."		10000	3	0	111	20%	20%	93	100	100	85	10	10	150	-30	-30										36	30										
+Thanh Thong	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Mot loai ngua long trang xam thong thuong,hanh trinh rat kem."		10000	4	0	111	20%	20%	93	100	100	85	10	10	150	-30	-30										36	35										
+Tu Luu	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Loai ngua quan doi thuong dung, di xa rat tot."		20000	5	0	111	30%	30%	93	200	200	85	20	20	150	-80	-80										36	40										
+Tu Luu	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Loai ngua quan doi thuong dung, di xa rat tot."		20000	6	0	111	30%	30%	93	200	200	85	20	20	150	-80	-80										36	45
+Dai Uyen Thanh Ma	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Mot loai ngua quy, long trang xam, mat nhu ngoc "		50000	7	0	111	40%	40%	93	500	500	85	50	50	150	-160	-160										36	50
+Dai Uyen Thanh Ma	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Mot loai ngua quy, long trang xam, mat nhu ngoc "		50000	8	0	111	40%	40%	93	500	500	85	50	50	150	-160	-160										36	55
+Hoa Luu	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Mau do ruc nhu lua, mot trong tam con danh ma cua Chu Muc Vuong."		100000	9	0	111	50%	50%	93	1000	1000	85	100	100	150	-320	-320										36	60
+Hoa Luu	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	"Mau do ruc nhu lua, mot trong tam con danh ma cua Chu Muc Vuong."		100000	10	0	111	50%	50%	93	1000	1000	85	100	100	150	-320	-320										36	72
+Liet Bach Ma	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Mot loai ngua thuong long trang, khong dang gia."		5000	1	0	111	20%	20%	93	50	50	85	5	5	150	-10	-10										36	20
+Liet Bach Ma	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Mot loai ngua thuong long trang, khong dang gia."		5000	2	0	111	20%	20%	93	50	50	85	5	5	150	-10	-10										36	25
+Bach Ma	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Mot loai ngua thuong long trang, o dau cung thay."		10000	3	0	111	30%	30%	93	100	100	85	10	10	150	-20	-20										36	30
+Bach Ma	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Mot loai ngua thuong long trang, o dau cung thay."		10000	4	0	111	30%	30%	93	100	100	85	10	10	150	-20	-20										36	35
+Ngoc Hoa Thong	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Truyen thuyet noi day la mot loai Thien Ma, thuc te chi la Dai Uyen Ma."		20000	5	0	111	40%	40%	93	200	200	85	20	20	150	-50	-50										36	40
+Ngoc Hoa Thong	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Truyen thuyet noi day la mot loai Thien Ma, thuc te chi la Dai Uyen Ma."		20000	6	0	111	40%	40%	93	200	200	85	20	20	150	-50	-50										36	45
+Dai Uyen Bach Ma	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Mot trong nhung loai Dai Uyen Danh ma,mau trang nhu tuyet, hanh trinh cuc nhanh."		50000	7	0	111	50%	50%	93	500	500	85	50	50	150	-100	-100										36	50
+Dai Uyen Bach Ma	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Mot trong nhung loai Dai Uyen Danh ma,mau trang nhu tuyet, hanh trinh cuc nhanh."		50000	8	0	111	50%	50%	93	500	500	85	50	50	150	-100	-100										36	55
+Tuc Suong	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Loai Thien Ly Ma thuan tuy, long trang nhu tuyet, the gian hiem thay."		100000	9	0	111	60%	60%	93	1000	1000	85	100	100	150	-200	-200										36	60
+Tuc Suong	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	"Loai Thien Ly Ma thuan tuy, long trang nhu tuyet, the gian hiem thay."		100000	10	0	111	60%	60%	93	1000	1000	85	100	100	150	-200	-200										36	72
+Liet Hac Ma	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"Mot loai ngua thuong long den,gia tri khong cao."		5000	1	0	111	10%	10%	93	50	50	85	5	5	150	-10	-10										36	20
+Liet Hac Ma	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"Mot loai ngua thuong long den,gia tri khong cao."		5000	2	0	111	10%	10%	93	50	50	85	5	5	150	-10	-10										36	25
+Hac Ma	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"Loai ngua thuong thay, ai cung co the mua duoc."		10000	3	0	111	20%	20%	93	100	100	85	10	10	150	-20	-20										36	30
+Hac Ma	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"Loai ngua thuong thay, ai cung co the mua duoc."		10000	4	0	111	20%	20%	93	100	100	85	10	10	150	-20	-20										36	35
+Hac Ky	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"Loai ngua chuyen dung trong quan doi, cac chien binh rat thich coi."		20000	5	0	111	30%	30%	93	200	200	85	20	20	150	-50	-50										36	40
+Hac Ky	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"Loai ngua chuyen dung trong quan doi, cac chien binh rat thich coi."		20000	6	0	111	30%	30%	93	200	200	85	20	20	150	-50	-50										36	45
+Dai Uyen Hac Ma	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"Mot trong nhung loai Dai Uyen Danh ma, the luc va hanh trinh kho loai nao sanh kip."		50000	7	0	111	40%	40%	93	500	500	85	50	50	150	-100	-100										36	50
+Dai Uyen Hac Ma	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"Mot trong nhung loai Dai Uyen Danh ma, the luc va hanh trinh kho loai nao sanh kip."		50000	8	0	111	40%	40%	93	500	500	85	50	50	150	-100	-100										36	55
+O Chuy	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"So Ba Vuong tung coi, la loai ""Thien Ly Danh Ma""."		100000	9	0	111	50%	50%	93	1000	1000	85	100	100	150	-200	-200										36	60
+O Chuy	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	"So Ba Vuong tung coi, la loai ""Thien Ly Danh Ma""."		100000	10	0	111	50%	50%	93	1000	1000	85	100	100	150	-200	-200										36	72
+Liet Hong Ma	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	"Ngua long xam tam thuong, rat kho ban."		5000	1	0	111	10%	10%	93	50	50	85	10	10	150	-10	-10										36	20
+Liet Hong Ma	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	"Ngua long xam tam thuong, rat kho ban."		5000	2	0	111	10%	10%	93	50	50	85	10	10	150	-10	-10										36	25
+Hong Ma	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot loai ngua thuong long xam, chi dung de di gan."		10000	3	0	111	20%	20%	93	100	100	85	20	20	150	-20	-20										36	30
+Hong Ma	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot loai ngua thuong long xam, chi dung de di gan."		10000	4	0	111	20%	20%	93	100	100	85	20	20	150	-20	-20										36	35
+Hong Ly	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Loai ngua trung dang nhung cuoc trinh cung co the sanh vao hang danh cau		20000	5	0	111	30%	30%	93	200	200	85	40	40	150	-50	-50										36	40
+Hong Ly	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Loai ngua trung dang nhung cuoc trinh cung co the sanh vao hang danh cau		20000	6	0	111	30%	30%	93	200	200	85	40	40	150	-50	-50										36	45
+Dai Uyen Han Huyet Ma	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	"Loai Dai Uyen danh ma cuc quy hiem,nghin vang kho mua."		50000	7	0	111	40%	40%	93	500	500	85	100	100	150	-100	-100										36	50
+Dai Uyen Han Huyet Ma	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	"Loai Dai Uyen danh ma cuc quy hiem,nghin vang kho mua."		50000	8	0	111	40%	40%	93	500	500	85	100	100	150	-100	-100										36	55
+Xich Ky	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	"Cung chinh la Ky Ky,mot trong tam con danh ma cua Chu Muc Vuong."		100000	9	0	111	50%	50%	93	1000	1000	85	200	200	150	-200	-200										36	60
+Xich Ky	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	"Cung chinh la Ky Ky,mot trong tam con danh ma cua Chu Muc Vuong."		100000	10	0	111	50%	50%	93	1000	1000	85	200	200	150	-200	-200										36	72
+O Van Dap Tuyet	0	10	5	\spr\item\equip\horse\horse010.spr	40	2	3	"Tuyet the danh ma, chi nhung bac vuong gia moi co the mua."		500000	1	0	111	80%	80%	93	1000	1000	85	200	200	150	200	200										36	80
+Xich Tho	0	10	5	\spr\item\equip\horse\horse011.spr	40	2	3	"Cung duoc xep vao hang ""Thien ha de nhat ma""."		500000	2	0	111	80%	80%	93	1000	1000	85	500	500	150	200	200										36	80
+Tuyet Anh	0	10	5	\spr\item\equip\horse\horse005.spr	40	2	3	"Tuyet the danh ma, sung man ba khi, Tao Thao da tung coi."		500000	3	0	111	80%	80%	93	1000	1000	85	200	200	150	500	500										36	80
+Dich Lo	0	10	5	\spr\item\equip\horse\horse008.spr	40	2	3	"Tuyet the danh ma, truy phong hoan vu, ngay di nghin dam."		500000	4	0	111	80%	80%	93	1000	1000	85	300	300	150	300	300										36	80
+Chieu Da Ngoc Su Tu	0	10	5	\spr\item\equip\horse\horse012.spr	40	2	3	"La loai ""Than cau"" co suc manh phi thuong, cuoi may dap gio."		500000	5	0	111	100%	100%	93	1000	1000	85	200	200	150	200	200										36	80
+O Van Dap Tuyet	0	10	5	\spr\item\equip\horse\horse010.spr	40	2	3	"Tuyet the danh ma, chi nhung bac vuong gia moi co the mua."		500000	6	0	111	80%	80%	93	1000	1000	85	200	200	150	200	200										36	80
+Xich Tho	0	10	5	\spr\item\equip\horse\horse011.spr	40	2	3	"Cung duoc xep vao hang ""Thien ha de nhat ma""."		500000	7	0	111	80%	80%	93	1000	1000	85	500	500	150	200	200										36	80
+Tuyet Anh	0	10	5	\spr\item\equip\horse\horse005.spr	40	2	3	"Tuyet the danh ma, sung man ba khi, Tao Thao da tung coi."		500000	8	0	111	80%	80%	93	1000	1000	85	200	200	150	500	500										36	80
+Dich Lo	0	10	5	\spr\item\equip\horse\horse008.spr	40	2	3	"Tuyet the danh ma, truy phong hoan vu, ngay di nghin dam."		500000	9	0	111	80%	80%	93	1000	1000	85	300	300	150	300	300										36	80
+Chieu Da Ngoc Su Tu	0	10	5	\spr\item\equip\horse\horse012.spr	40	2	3	"La loai ""Than cau"" co suc manh phi thuong, cuoi may dap gio."		500000	10	0	111	100%	100%	93	1000	1000	85	200	200	150	200	200										36	80
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	1	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	2	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	3	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	4	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	5	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	6	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	7	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	8	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	9	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Bon Tieu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	10	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	100
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	1	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	2	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	3	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	4	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	5	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	6	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	7	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	8	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	9	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Phien Vu	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mot trong tam con danh cau cua Chu Muc Vuong		500000	10	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500	114	10	10							36	120
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	1	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	2	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	3	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	4	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	5	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	6	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	7	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	8	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	9	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Xich Long Cau	0	10	8	\spr\item\equip\horse\horse008.spr	40	2	3	Mot trong nhung than ma di may ve gio		500000	10	0	111	100%	100%	93	1200	1200	85	1000	1000	150	800	800	114	15	15							36	140
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	1	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	2	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	3	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	4	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	5	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	6	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	7	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	8	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	9	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Du Huy	0	10	9	\spr\item\equip\horse\horse002.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, mau sac sac so."		500000	10	0	111	100%	100%	93	1200	1200	85	1200	1200	150	1000	1000	114	18	18							36	160
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	1	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	2	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	3	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	4	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	5	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	6	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	7	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	8	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	9	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Sieu Quang	0	10	10	\spr\item\equip\horse\horse003.spr	40	2	3	"Mot trong bat tuan cua Chu Muc Vuong, thoat an thoat hien."		500000	10	0	111	100%	100%	93	1000	1000	85	500	500	150	500	500										36	10
+Bach Ho	0	10	11	\spr\item\equip\horse\icon-bachho.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	1	0	111	165%	165%	93	1000	1000	85	500	500	150	500	500	114	20	20							36	10
+Bach Ho Moi	0	10	11	\spr\item\equip\horse\icon-bachhomoi.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	2	0	111	160%	160%	93	1000	1000	85	500	500	150	500	500	114	18	18							36	10
+Bach Loc Moi	0	10	11	\spr\item\equip\horse\icon-bachlocnew.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	3	0	111	160%	160%	93	1000	1000	85	500	500	150	500	500	114	18	18							36	10
+Van Loc	0	10	11	\spr\item\equip\horse\horse005.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	4	0	111	155%	155%	93	1000	1000	85	500	500	150	500	500	114	16	16							36	10
+Ky Lan Ma	0	10	11	\spr\item\equip\horse\horse006.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	5	0	111	155%	155%	93	1000	1000	85	500	500	150	500	500	114	16	16							36	10
+Ngua Hoang Kim	0	10	11	\spr\item\equip\horse\horse003.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	6	0	111	155%	155%	93	1000	1000	85	500	500	150	500	500	114	16	16							36	10
+Gau Kiem The	0	10	11	\spr\item\equip\horse\icon-gaukt.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	7	0	111	160%	160%	93	1000	1000	85	500	500	150	500	500	114	18	18							36	10
+Hac Long Ma	0	10	11	\spr\item\equip\horse\icon-longma.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	8	0	111	160%	160%	93	1000	1000	85	500	500	150	500	500	114	18	18							36	10
+Long Ma	0	10	11	\spr\item\equip\horse\icon-longma.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	9	0	111	160%	160%	93	1000	1000	85	500	500	150	500	500	114	18	18							36	10
+Phi Vu	0	10	11	\spr\item\equip\horse\icon-phivu.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	10	0	111	160%	160%	93	1000	1000	85	500	500	150	500	500	114	18	18							36	10
+Ho Den	0	10	12	\spr\item\equip\horse\icon-hoden.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	1	0	111	165%	165%	93	1000	1000	85	500	500	150	500	500	114	20	20							36	10
+Ho Vang	0	10	12	\spr\item\equip\horse\icon-hovang.spr	40	2	3	Mot trong ba Than Thu chi gianh cho cac bac Anh Hung.	5	2500000	2	0	111	165%	165%	93	1000	1000	85	500	500	150	500	500	114	20	20							36	10
+Han Huyet Long Cau	0	10	12	\spr\item\equip\horse\horse003.spr	40	2	3	Mot than ma trong gioi vo lam.	5	2500000	3	0	111	165%	165%	93	1000	1000	85	500	500	150	500	500	114	20	20							36	10
+Su Tu Trang	0	10	12	\spr\item\equip\horse\icon-sututrang.spr	40	2	3	Mot than ma trong gioi vo lam.	5	2500000	4	0	111	165%	165%	93	1000	1000	85	500	500	150	500	500	114	20	20							36	10

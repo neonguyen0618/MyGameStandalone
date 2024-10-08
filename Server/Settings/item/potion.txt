@@ -1,0 +1,56 @@
+名称	ItemGenre	DetailType	ParticularType	动画文件名	对应物件索引	宽度	高度	说明文字	五行属性	价格	等级	是否叠放	药品属性1	属性1数值	属性1时间(游戏循环数）	药品属性2	属性2数值	属性2时间	药品属性3	属性3数值	属性3时间	药品属性4	属性4数值	属性4时间	药品属性5	属性5数值	属性5时间
+Kim sang duoc (Tieu)	1	0	0	\spr\item\medecine\obj-potion01.spr	18	1	1	Phuc hoi chut it khi huyet		50	1	0	153	10	100												
+Kim sang duoc (Trung)	1	0	0	\spr\item\medecine\obj-potion01.spr	18	1	1	Phuc hoi khi huyet nhanh		100	2	0	153	25	100												
+Kim sang duoc (Dai)	1	0	0	\spr\item\medecine\obj-potion02.spr	307	1	1	Phuc hoi khi huyet cuc nhanh		250	3	0	153	25	200												
+Hoi Thien Dan	1	0	0	\spr\item\medecine\obj-potion02.spr	307	1	1	Than duoc cai tu hoan sinh		500	4	0	153	50	200												
+Cuu chuyen hoan hon dan	1	0	0	\spr\item\medecine\obj-potion03.spr	310	1	1	Hoi phuc 5000 diem sinh luc		1000	5	0	153	500	100												
+Ngung than dan (Tieu)	1	1	0	\spr\item\medecine\obj-potion06.spr	20	1	1	Phuc hoi chut it noi luc		50	1	0	154	5	200												
+Ngung than dan (Trung)	1	1	0	\spr\item\medecine\obj-potion06.spr	20	1	1	Hoi phuc noi luc tuong doi nhanh		100	2	0	154	10	200												
+Ngung than dan (Dai)	1	1	0	\spr\item\medecine\obj-potion07.spr	309	1	1	Hoi phuc noi luc cuc nhanh		250	3	0	154	20	250												
+Dai Bo Tan	1	1	0	\spr\item\medecine\obj-potion07.spr	309	1	1	Hoi phuc noi luc nhay mat		500	4	0	154	50	200												
+O Dau Hoan Than Dan	1	1	0	\spr\item\medecine\obj-potion08.spr	312	1	1	Lap tuc hoi phuc 5000 diem noi luc		1000	5	0	154	500	100												
+Thu Tien Mat (Tieu)	1	2	0	\spr\item\medecine\obj-potion11.spr	19	1	1	"Phuc hoi it noi luc, sinh luc"		80	1	0	153	10	100	154	6	100									
+Thu Tien Mat (Trung)	1	2	0	\spr\item\medecine\obj-potion11.spr	19	1	1	Phuc hoi nhanh sinh luc va noi luc		150	2	0	153	25	100	154	6	250									
+Thu Tien Mat (Dai)	1	2	0	\spr\item\medecine\obj-potion12.spr	308	1	1	Phuc hoi cucu nhanh noi luc va sinh luc		375	3	0	153	25	200	154	15	200									
+That Khieu Bo Tam Dan	1	2	0	\spr\item\medecine\obj-potion12.spr	308	1	1	Lap tuc hoi phuc sinh luc va noi luc		750	4	0	153	50	200	154	30	200									
+Ngu hoa ngoc lo hoan	1	2	0	\spr\item\medecine\obj-potion13.spr	311	1	1	Dong thoi hoi phuc 5000 diem sinh luc va noi luc		3000	5	0	153	500	100	154	500	100									
+Tam Hoa Tan	1	3	0	\spr\item\medecine\obj-potion16.spr	19	1	1	Hoi phuc 1000 diem sinh luc。		50	1	0	95	50	200			
+Ke Thoi	1	3	0	\spr\item\questkey\taskobj106.spr	41	1	1	Bo sung khi huyet cho nguoi su dung。		50	2	0	153	500	100			
+Bien Chat Nguyet Binh	1	3	0	\spr\item\special\月饼.spr	329	1	1	Bien Chat lam giam sinh luc va noi luc。		50	3	0	153	-10	100	154	-10	100
+Toan Qua Hoan	1	3	0	\spr\item\medecine\obj-potion17.spr	19	1	1	"Than duoc Nam Hai ,hoi phuc ngay 5000 diem the luc。"		100	4	0	95	200	200			
+Toan Qua Hoan	1	3	0	\spr\item\medecine\obj-potion17.spr	19	1	1	"Than duoc Nam Hai ,hoi phuc ngay 5000 diem the luc。"		100	5	0	95	200	200			
+Thanh Nguu Giai Doc Tan	1	4	0	\spr\item\medecine\obj-potion23.spr	19	1	1	"Giai doc trong nguoi,loai nho。"		10	1	0	109	100	200			
+Hoac Huong Chinh Khi Hoan	1	4	0	\spr\item\medecine\obj-potion24.spr	19	1	1	"Giai doc trong nguoi,loai trung。"		20	2	0	109	200	200			
+Tam Thuan Tan	1	4	0	\spr\item\medecine\obj-potion25.spr	19	1	1	"Giai doc trong nguoi,loai thuong hang。"		50	3	0	109	400	200			
+Nhan Kieu Khu Doc Don	1	4	0	\spr\item\medecine\obj-potion26.spr	19	1	1	Tuyet Nhan Duoc Phong Doc Hieu Qua Vo Cung。		100	4	0	109	800	200			
+Long Duyen Hoa Doc Don	1	4	0	\spr\item\medecine\obj-potion27.spr	19	1	1	Khong Bao Gio Trung Doc。		200	5	0	109	1200	200			
+Truong Menh Hoan	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	"Trong 5 phut,sinh luc tang 500 diem。"		10000	1	0	85	500	1000			
+Gia Bao Hoan	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	"Trong 5 phut ,toc do di chuyen tang 20%。"		10000	2	0	111	20	1000			
+Dai Luc Hoan	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	"Trong 5 phut ,cong kich vat ly tang 100 diem。"		10000	3	0	121	100	1000			
+Cao Thiem Hoan	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5分钟内，闪避率提高500点。		10000	4	0	150	500	1000			
+Cao Trung Hoan	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	Trong 5 phut tang do chinh xac len 500 diem		10000	5	0	166	500	1000			
+Phi Toc Hoan (Ngoai)	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	Trong 5 phut tang toc do danh ngoai cong len 50%		10000	1	0	115	50	1000			
+Bang Phong Hoan	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	Trong 5 phut tang khang bang len 50%		10000	2	0	105	50	1000												
+Loi Phong Hoan	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	Trong 5 phut tang khang loi len 50%		10000	3	0	103	50	1000												
+Hoa Phong Hoan	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	Trong 5 phut tang khang hoa len 50%		10000	4	0	102	50	1000												
+Doc Phong Hoan	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	Trong 5 phut tang khang doc len 50%		10000	5	0	101	50	1000												
+Hong Tao Tong Tu	1	7	0	\spr\item\medecine\zq_icon_001.spr	366	1	1	Phuc hoi moi giay 500 diem sinh luc.		100	1	0	153	500	100												
+Thien Son Hoi Than Don	1	7	0	\spr\item\medecine\obj-potion30.spr	369	1	1	"Thien Son Thanh Duoc,hoi phuc sinh luc noi luc"		2000	2	0	153	3500	100	154	3500	100									
+Hong Tao Tong Tu	1	7	0	\spr\item\medecine\zq_icon_001.spr	366	1	1	Moi giay tang 1500 diem sinh luc		1000	3	0	153	1500	100												
+Hong Tao Tong Tu	1	7	0	\spr\item\medecine\zq_icon_001.spr	366	1	1	Moi giay tang 5000 diem sinh luc		5000	4	0	153	5000	100												
+Hong Tao Tong Tu	1	7	0	\spr\item\medecine\zq_icon_001.spr	366	1	1	Moi giay tang 15000 diem sinh luc		10000	5	0	153	15000	100												
+Dac Hieu Ngu Hoa Ngoc Lo Hoan	1	8	0	\spr\item\medecine\obj-potion13.spr	311	1	1	Lien tuc hoi phuc sinh luc va noi luc。		12000	1	0	153	5000	100	154	5000	100									
+Dac Hieu Cuu Chuyen Hoan Hon Dan	1	8	0	\spr\item\medecine\obj-potion03.spr	310	1	1	"Sinh luc hoi phuc 10000 diem,Truong Sinh Bat Tu。"		8000	2	0	153	5000	100												
+Cuu Chi Hoan	1	8	0	\spr\item\medecine\obj-potion15.spr	19	1	1	Trong 5 phut tang khang tat ca len 50%		50000	3	0	114	50	1000												
+Ngu Hoa Ngoc Lo Hoan	1	8	0	\spr\item\medecine\zq_icon_002.spr	19	1	1	Mot trong nhung loai than dan ma Hoang Duoc Su sang che.		50000	4	0	153	5000	1000	154	5000	1000	114	50	1000	160	10	1000	126	1500	1000
+Phi Toc Hoan (Noi)	1	8	0	\spr\item\medecine\zq_icon_004.spr	19	1	1	Trong 5 phut tang toc do danh noi cong len 50%		10000	5	0	116	50	1000												
+GM Ngoc Lo Hoan	1	9	0	\spr\item\medecine\obj-potion13.spr	311	1	1	Duoc pham cua GM		100000	1	0	153	5000	1000	154	5000	1000									
+GM Ngoc Lo Hoan	1	9	0	\spr\item\medecine\obj-potion13.spr	311	1	1	Duoc pham cua GM		100000	2	0	153	5000	1000	154	5000	1000									
+GM Ngoc Lo Hoan	1	9	0	\spr\item\medecine\obj-potion13.spr	311	1	1	Duoc pham cua GM		100000	3	0	153	5000	1000	154	5000	1000
+GM Ngoc Lo Hoan	1	9	0	\spr\item\medecine\obj-potion13.spr	311	1	1	Duoc pham cua GM		100000	4	0	153	5000	1000	154	5000	1000
+GM Ngoc Lo Hoan	1	9	0	\spr\item\medecine\obj-potion13.spr	311	1	1	Duoc pham cua GM		100000	5	0	153	5000	1000	154	5000	1000
+GM Toan Qua Hoan	1	10	0	\spr\item\medecine\obj-potion17.spr	19	1	1	Duoc pham cua GM		100000	1	0	95	5000	1000			
+GM Toan Qua Hoan	1	10	0	\spr\item\medecine\obj-potion17.spr	19	1	1	Duoc pham cua GM		100000	2	0	95	5000	1000			
+GM Toan Qua Hoan	1	10	0	\spr\item\medecine\obj-potion17.spr	19	1	1	Duoc pham cua GM		100000	3	0	95	5000	1000			
+GM Toan Qua Hoan	1	10	0	\spr\item\medecine\obj-potion17.spr	19	1	1	Duoc pham cua GM		100000	4	0	95	5000	1000			
+GM Toan Qua Hoan	1	10	0	\spr\item\medecine\obj-potion17.spr	19	1	1	Duoc pham cua GM		100000	5	0	95	5000	1000			

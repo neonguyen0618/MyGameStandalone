@@ -1,0 +1,126 @@
+马匹编号	马匹部件编号	说明
+1	0	"De nhat hanh thi mot huu trang bi dich tinh huong, tai thu xu vo y nghia."
+2	10	Pho thong hoang ma
+3	10	Pho thong hoang ma
+4	10	Pho thong hoang ma
+5	10	Pho thong hoang ma
+6	10	Pho thong hoang ma
+7	10	Pho thong hoang ma
+8	10	Pho thong hoang ma
+9	10	Pho thong hoang ma
+10	10	Pho thong hoang ma
+11	10	Pho thong hoang ma
+12	6	Pho thong thanh ma
+13	6	Pho thong thanh ma
+14	6	Pho thong thanh ma
+15	6	Pho thong thanh ma
+16	6	Pho thong thanh ma
+17	6	Pho thong thanh ma
+18	6	Pho thong thanh ma
+19	6	Pho thong thanh ma
+20	6	Pho thong thanh ma
+21	6	Pho thong thanh ma
+22	9	Pho thong bach ma
+23	9	Pho thong bach ma
+24	9	Pho thong bach ma
+25	9	Pho thong bach ma
+26	9	Pho thong bach ma
+27	9	Pho thong bach ma
+28	9	Pho thong bach ma
+29	9	Pho thong bach ma
+30	9	Pho thong bach ma
+31	9	Pho thong bach ma
+32	5	Pho thong hac ma
+33	5	Pho thong hac ma
+34	5	Pho thong hac ma
+35	5	Pho thong hac ma
+36	5	Pho thong hac ma
+37	5	Pho thong hac ma
+38	5	Pho thong hac ma
+39	5	Pho thong hac ma
+40	5	Pho thong hac ma
+41	5	Pho thong hac ma
+42	8	Pho thong hong ma
+43	8	Pho thong hong ma
+44	8	Pho thong hong ma
+45	8	Pho thong hong ma
+46	8	Pho thong hong ma
+47	8	Pho thong hong ma
+48	8	Pho thong hong ma
+49	8	Pho thong hong ma
+50	8	Pho thong hong ma
+51	8	Pho thong hong ma
+52	7	"O van dap tuyet, dinh cap hac"
+53	2	"Xich tho, dinh cap hong"
+54	11	"Tuyet anh, dinh cap thanh"
+55	4	"Dich lo, dinh cap hoang"
+56	3	"Chieu da ngoc su tu, dinh cap bach"
+57	7	"O van dap tuyet, dinh cap hac"
+58	2	"Xich tho, dinh cap hong"
+59	11	"Tuyet anh, dinh cap thanh"
+60	4	"Dich lo, dinh cap hoang"
+61	3	"Chieu da ngoc su tu, dinh cap bach"
+62	12	"Bon tieu, dinh cap uu hac"
+63	12	"Bon tieu, dinh cap uu hac"
+64	12	"Bon tieu, dinh cap uu hac"
+65	12	"Bon tieu, dinh cap uu hac"
+66	12	"Bon tieu, dinh cap uu hac"
+67	12	"Bon tieu, dinh cap uu hac"
+68	12	"Bon tieu, dinh cap uu hac"
+69	12	"Bon tieu, dinh cap uu hac"
+70	12	"Bon tieu, dinh cap uu hac"
+71	12	"Bon tieu, dinh cap uu hac"
+72	13	"Phien vu, dinh cap tuyet bach"
+73	13	"Phien vu, dinh cap tuyet bach"
+74	13	"Phien vu, dinh cap tuyet bach"
+75	13	"Phien vu, dinh cap tuyet bach"
+76	13	"Phien vu, dinh cap tuyet bach"
+77	13	"Phien vu, dinh cap tuyet bach"
+78	13	"Phien vu, dinh cap tuyet bach"
+79	13	"Phien vu, dinh cap tuyet bach"
+80	13	"Phien vu, dinh cap tuyet bach"
+81	13	"Phien vu, dinh cap tuyet bach"
+82	15	"Xich long cau, dinh cap huyet hong"
+83	15	"Xich long cau, dinh cap huyet hong"
+84	15	"Xich long cau, dinh cap huyet hong"
+85	15	"Xich long cau, dinh cap huyet hong"
+86	15	"Xich long cau, dinh cap huyet hong"
+87	15	"Xich long cau, dinh cap huyet hong"
+88	15	"Xich long cau, dinh cap huyet hong"
+89	15	"Xich long cau, dinh cap huyet hong"
+90	15	"Xich long cau, dinh cap huyet hong"
+91	15	"Xich long cau, dinh cap huyet hong"
+92	15	"Du huy, dinh cap huyet hong"
+93	15	"Du huy, dinh cap huyet hong"
+94	15	"Du huy, dinh cap huyet hong"
+95	15	"Du huy, dinh cap huyet hong"
+96	15	"Du huy, dinh cap huyet hong"
+97	15	"Du huy, dinh cap huyet hong"
+98	15	"Du huy, dinh cap huyet hong"
+99	15	"Du huy, dinh cap huyet hong"
+100	15	"Du huy, dinh cap huyet hong"
+101	15	"Du huy, dinh cap huyet hong"
+102	19	"Sieu quang, dinh cap tong hong"
+103	19	"Sieu quang, dinh cap tong hong"
+104	19	"Sieu quang, dinh cap tong hong"
+105	19	"Sieu quang, dinh cap tong hong"
+106	19	"Sieu quang, dinh cap tong hong"
+107	19	"Sieu quang, dinh cap tong hong"
+108	19	"Sieu quang, dinh cap tong hong"
+109	19	"Sieu quang, dinh cap tong hong"
+110	19	"Sieu quang, dinh cap tong hong"
+111	19	"Sieu quang, dinh cap tong hong"
+112	20	Bach Ho
+113	21	Bach Ho Moi
+114	22	Bach Loc
+115	23	Van Loc Loc
+116	24	Ky Lan Ma
+117	25	Ngua Hoang Kim
+118	26	Gau Kiem The
+119	27	Hac Long Ma
+120	28	Hac Long
+121	29	Phi vu
+122	30	Ho Den
+123	31	Ho Vang
+124	32	Han Huyet Long Cau
+125	33	Han Huyet Long Cau

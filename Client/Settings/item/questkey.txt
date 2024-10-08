@@ -1,0 +1,263 @@
+名称	道具种类	具体类别	动画文件名	对应物件索引	宽度	高度	说明文字
+Vo Lam Mat Tich	4	0	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Ky tai lieu vu lam trung dai da so vu cong dich bi tich, doi vu lam nhan si huu ngan dai bang tro. <enter> huu kien diem kich su dung"
+Tay Tuy Kinh	4	1	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Phat gia kinh dien, dung pham van soan ta nhi thanh, nhu qua kha di doc dong, tuong tong trung hoach ich phi thien. <enter> huu kien diem kich su dung"
+Ban Nhuoc Tam Kinh	4	2	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Phat gia bao dien, tung kinh sam hoi kha thanh tru phu kinh nghiem. <enter> huu kien diem kich su dung"
+Thiet La Han	4	3	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Nhat ca hoi dong dich thiet la han, toan nghien kha di hoach dac thuc chien kinh nghiem. <enter> huu kien diem kich su dung"
+Duong Quy	4	4	\spr\item\questkey\taskobj094.spr	41	1	1	Nhat chung trung duoc tai.
+Hop Hoan	4	5	\spr\item\questkey\taskobj121.spr	41	1	1	Nhat chung trung duoc tai.
+Huyen Tham	4	6	\spr\item\questkey\taskobj122.spr	41	1	1	Nhat chung trung duoc tai.
+Phong Ky	4	7	\spr\item\questkey\taskobj123.spr	41	1	1	Nhat chung trung duoc tai.
+Chu Sa	4	8	\spr\item\questkey\taskobj124.spr	41	1	1	Nhat chung trung duoc tai.
+Ha Thu O	4	9	\spr\item\questkey\taskobj131.spr	41	1	1	"Nhat chung duoc tai, nang cu bo can than, ich tinh huyet, o tu phat, cuong can cot."
+Linh Chi	4	10	\spr\item\questkey\taskobj103.spr	41	1	1	"Nhat chung tran hi duoc tai, nang cu ich tam khi, tang tri tue, cuu thuc khinh than bat lao, cu huu khoi tu hoi sinh dich cong hieu."
+Manh Tang Bao Do 1	4	11	\spr\item\task\treasure1.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 2	4	12	\spr\item\task\treasure2.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 3	4	13	\spr\item\task\treasure3.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 4	4	14	\spr\item\task\treasure4.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 5	4	15	\spr\item\task\treasure5.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 6	4	16	\spr\item\task\treasure6.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 7	4	17	\spr\item\task\treasure7.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 8	4	18	\spr\item\task\treasure8.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 9	4	19	\spr\item\task\treasure9.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 10	4	20	\spr\item\task\treasure10.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 11	4	21	\spr\item\task\treasure11.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Manh Tang Bao Do 12	4	22	\spr\item\task\treasure12.spr	412	1	1	"An van lo khan, gia khoi toai phien ung cai thi nhat phuc than bi lo tuyen do dich nhat bo phan"
+Huyen Tinh Cap 1	4	23	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 1 cap than bi vat pham.
+Huyen Tinh Cap 2	4	24	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 2 cap than bi vat pham.
+Huyen Tinh Cap 3	4	25	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 3 cap than bi vat pham.
+Huyen Tinh Cap 4	4	26	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 4 cap than bi vat pham.
+Huyen Tinh Cap 5	4	27	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 5 cap than bi vat pham.
+Huyen Tinh Cap 6	4	28	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 6 cap than bi vat pham.
+Huyen Tinh Cap 7	4	29	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 7 cap than bi vat pham.
+Huyen Tinh Cap 8	4	30	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 8 cap than bi vat pham.
+Huyen Tinh Cap 9	4	31	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 9 cap than bi vat pham.
+Huyen Tinh Cap 10	4	32	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hoang kim <color> dich 10 cap than bi vat pham.
+Lenh Bai Phong Lang Do	4	33	\spr\item\questkey\006.spr	385	1	1	Thua thuyen do qua phong lang do dich tin vat.
+Tam Tam Tuong Anh Phu	4	34	\spr\item\obj_item_heart.spr	346	1	1	Tam tam tuong anh phu
+Hoi Thanh Phu (Vo Han Su Dung)	4	35	\spr\item\questkey\thodiaphumauxanh.spr	38	1	1	"Suc dia dai phap, nhuong nhi thuan gian hoi dao thanh tran. ( kha vo han thu su dung )"
+Sat Thu Lenh	4	36	\spr\item\questkey\satthulenh.spr	507	1	2	Sat thu lenh
+Sat Thu Gian	4	37	\spr\item\questkey\satthugian.spr	507	1	2	Sat thu gian
+Khieu Chien Lenh	4	38	\spr\item\vietnam\tiaozhanling.spr	385	1	1	Tin vat cong thanh chien.
+Kim Nguyen Bao	4	39	\spr\item\questkey\obj_item_cardg.spr	340	1	1	"Dai khoi kim nguyen bao, tuong duong vu 50 nguyen diem tap nhat truong."
+Cong Thanh Lenh	4	40	\spr\item\questkey\congthanhlenh.spr	385	1	1	Bang hoi cong thanh lenh
+Dong Kinh	4	41	\spr\item\questkey\taskobj089.spr	41	1	1	Nhat khoi hoan chinh dich dong kinh.
+Luong Ngan Khoang	4	42	\spr\item\questkey\taskobj105.spr	41	1	1	Nhat chung quang thach.
+Xich Dong Khoang	4	43	\spr\item\questkey\taskobj108.spr	41	1	1	Nhat chung quang thach.
+Tu Thiet Khoang	4	44	\spr\item\questkey\taskobj125.spr	41	1	1	Nhat chung quang thach.
+Cap Huyet Hong	4	45	\spr\item\questkey\taskobj053.spr	41	1	1	Nhat chung huyet hong sac dich bao thach.
+Bang Tinh Lam	4	46	\spr\item\questkey\taskobj054.spr	41	1	1	Nhat chung lan sac dich bao thach.
+To Mau Luc	4	47	\spr\item\questkey\taskobj055.spr	41	1	1	Nhat ca luc sac dich bao thach.
+Van Mong Tu	4	48	\spr\item\questkey\taskobj056.spr	41	1	1	Nhat chung tu sac dich bao thach.
+Truong Menh Hoan	4	49	\spr\item\medecine\obj-potion15.spr	19	1	1	Sinh luc gia tang them 500 diem trong vong 5 phut
+Gia Bao Hoan	4	50	\spr\item\medecine\obj-potion15.spr	19	1	1	Toc do di chuyen tang 20% trong vong 5 phut
+Dai Luc Hoan	4	51	\spr\item\medecine\obj-potion15.spr	19	1	1	Cong kich vat ly tang 100 diem trong vong 5 phut
+Cao Thiem Hoan	4	52	\spr\item\medecine\obj-potion15.spr	19	1	1	"5 phan chung noi, thiem ti suat de cao 500 diem."
+Cao Trung Hoan	4	53	\spr\item\medecine\obj-potion15.spr	19	1	1	"5 phan chung noi, menh trung suat de cao 500 diem."
+Phi Toc Hoan	4	54	\spr\item\medecine\obj-potion15.spr	19	1	1	Toc do xuat chieu tang 50 trong vong 5 phut
+Bang Phong Hoan	4	55	\spr\item\medecine\obj-potion15.spr	19	1	1	Khang bang tang 50% trong vong 5 phut
+Loi Phong Hoan	4	56	\spr\item\medecine\obj-potion15.spr	19	1	1	Khang loi tang 50% trong vong 5 phut
+Hao Phong Hoan	4	57	\spr\item\medecine\obj-potion15.spr	19	1	1	Khang hoa tang 50% trong vong 5 phut
+Doc Phong Hoan	4	58	\spr\item\medecine\obj-potion15.spr	19	1	1	Khang doc tang 50% trong vong 5 phut
+Cong Van Dich Quan	4	59	\spr\item\questkey\taskobj075.spr	41	1	1	Vat pham nhiem vu - cong van dich quan
+Thu Vuong Bi	4	60	\spr\item\questkey\taskobj143.spr	41	1	1	Nguyen lieu che tao do hoang kim
+Hong Tinh	4	61	\spr\item\questkey\taskobj085.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> gioi chi <color> dich than bi vat pham.
+Hong Dang Quang	4	62	\spr\item\questkey\taskobj108.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hang lien <color> dich than bi dong quang.
+Kien Tinh Thach	4	63	\spr\item\questkey\taskobj025.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> ngoc phoi <color> dich than bi thach dau.
+Kim Te	4	64	\spr\item\questkey\golden_stone.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> yeu dai <color> dich than bi kim khoi.
+Bi Ngan	4	65	\spr\item\script\item_miyinkuang.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> yeu dai <color> dich than bi ngan khoi.
+Lang Phong Doan	4	66	\spr\item\questkey\taskobj068.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> hai tu <color> dich than bi tru doan.
+Xa Huong	4	67	\spr\item\questkey\taskobj100.spr	41	1	1	Kha di buc tru nhan kinh vuong mang xa dich vat pham.
+Chuc Cam	4	68	\spr\item\questkey\taskobj089.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> dau khoi <color> dich than bi chuc cam.
+Nam Minh	4	69	\spr\item\questkey\taskobj098.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> dau khoi <color> dich than bi vat pham.
+Bang Tam Ti	4	70	\spr\item\questkey\bingcanwujisi.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> y phuc <color> dich than bi tam ti.
+Vo Cuc Ti	4	71	\spr\item\questkey\taskobj007.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> y phuc <color> dich than bi cap ti.
+Mong Ling Thao	4	72	\spr\item\questkey\taskobj100.spr	41	1	1	Nguyen lieu che tao do hoang kim
+Khong Tuoc Nguyen Thach	4	73	\spr\item\script\item_kongqueshi.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> vu khi <color> dich than bi thach dau.
+Huyen Thiet Khoang	4	74	\spr\item\script\item_xuantiekuang.spr	41	1	1	Truyen thuyet trung kha di hop thanh <color=fire> vu khi <color> dich than bi quang thach.
+Hue Tuyen Tuu	4	75	\spr\item\questkey\taskobj098.spr	21	1	1	Giang nam danh tuu
+Kim Lang Xuan	4	76	\spr\item\questkey\taskobj098.spr	21	1	1	Giang nam danh tuu
+Quynh Hoa Lo	4	77	\spr\item\questkey\taskobj098.spr	21	1	1	Giang nam danh tuu
+Bach Hoa Nhuong	4	78	\spr\item\questkey\taskobj098.spr	21	1	1	Giang nam danh tuu
+Song Cau Dai Khuc	4	79	\spr\item\questkey\taskobj098.spr	21	1	1	Giang nam danh tuu
+Tien Thao Lo	4	80	\spr\item\medecine\xiancaolu.spr	370	1	1	"1 tieu thi noi, da quai luyen cap kinh nghiem gia boi. ( trong phuc su dung vo hieu )"
+Thien Son Bao Lo	4	81	\spr\item\medecine\tianshanyulu.spr	370	1	1	"1 tieu thi noi, hanh van tang gia 10 diem. ( trong phuc su dung vo hieu )"
+Bach Qua Lo	4	82	\spr\item\medecine\baiguolu.spr	370	1	1	"1 tieu thi noi, so huu khang tinh tang gia 15 diem. ( trong phuc su dung vo hieu )"
+Bach Cau Hoan	4	83	\spr\item\medecine\baijuwan.spr	19	1	1	Ly tuyen hau kha hoach dac thuc chien kinh nghiem.
+Chia Khoa Bao Ruong	4	84	\spr\item\questkey\taskobj092-1.spr	41	1	1	"<color=red>Loai chia khoa ri set, mot vat vo gia tri."
+Than Bi Bao Ruong	4	85	\spr\item\script\item_goldenbox.spr	367	2	2	"Nhat ca kim quang thiem thiem dich hap tu, thuong dien dieu khac tru than bi dich hoa van, dung thuoc thi khai khai hau kha di tuy ky dac dao nhat dang vat pham."
+Nhac Vuong Kiem	4	86	\spr\item\questkey\岳王剑.spr	9	2	3	"Nhac phi dich boi kiem, kien lap bang hoi dich tin vat."
+Phuc Duyen Lo (Tieu)	4	87	\spr\item\medecine\fuyuanlu_small.spr	370	1	1	Khi su dung se tang 50 diem phuc duyen
+Phuc Duyen Lo (Trung)	4	88	\spr\item\medecine\fuyuanlu_middle.spr	370	1	1	Khi su dung se tang 100 diem phuc duyen
+Phuc Duyen Lo (Dai)	4	89	\spr\item\medecine\fuyuanlu_big.spr	370	1	1	Khi su dung se tang 150 diem phuc duyen
+Phuc Duyen Lo (Cuc Dai)	4	90	\spr\item\medecine\fuyuanlu_big.spr	370	1	1	"Dac dai binh dich tien lo, hat lieu nang tang gia dai luong phuc duyen"
+Qua Huy Hoang (Thap)	4	91	\spr\item\questkey\huihuangzhiguo.spr	464	1	1	Khi su dung se nhan duoc 500.000 diem kinh nghiem
+Qua Huy Hoang (Trung)	4	92	\spr\item\questkey\huihuangzhiguo.spr	464	1	1	Khi su dung se nhan duoc 2.000.000 diem kinh nghiem
+Qua Huy Hoang (Cao)	4	93	\spr\item\questkey\huihuangzhiguo.spr	464	1	1	Khi su dung se nhan duoc 3.000.000 diem kinh nghiem
+Qua Hoang Kim	4	94	\spr\item\questkey\huangjinzhiguo.spr	464	1	1	Khi su dung se nhan duoc 30.000.000 diem kinh nghiem
+Phao Hoa	4	95	\spr\item\magic\icon_item_baozhu.spr	334	1	1	Tiet nhat hi khanh tat bi dung pham.
+Hoa Hong	4	96	\spr\item\questkey\flower.spr	330	1	1	"Man coi hoa, kha di dan phat nhat trang man coi hoa vu."
+Tinh Hong Bao Thach	4	97	\spr\item\obj_item_red.spr	333	1	1	"Sac trach huyet tinh am phong quang mang, tap vu chi nhan kha ta thu bao cai tao kinh mach."
+Lam Thuy Tinh	4	98	\spr\item\questkey\baoshi_zhuanxu.spr	517	1	1	Uan tang kha di cai bien su vat ngu hanh chi khi dich thuy tinh.
+Tu Thuy Tinh	4	99	\spr\item\questkey\baoshi_xingtian.spr	519	1	1	Uan tang kha di de thang su vat dang cap nang luc dich thuy tinh.
+Luc Thuy Tinh	4	100	\spr\item\questkey\baoshi_nvwa.spr	518	1	1	Uan tang kha di cai bien su vat ma luc chuong ac dich thuy tinh.
+Lenh Bai Phong Hoa (Tieu)	4	101	\spr\item\questkey\taskobj126.spr	385	1	1	Khi su dung se tang 50 diem phong hoa
+Lenh Bai Phong Hoa（Trung）	4	102	\spr\item\questkey\taskobj126.spr	385	1	1	Khi su dung se tang 100 diem phong hoa
+Lenh Bai Phong Hoa（Dai）	4	103	\spr\item\questkey\taskobj126.spr	385	1	1	Khi su dung se tang 150 diem phong hoa
+Thu Cap Thu Linh Tho Phi	4	104	\spr\item\questkey\taskobj079.spr	41	1	1	Vat pham nhiem vu
+Tong Quan Binh Khi	4	105	\spr\item\questkey\taskobj030.spr	41	1	1	Vat pham nhiem vu
+Kim Lien Hoa	4	106	\spr\item\yulanpenjie\jinlianhua.spr	443	1	1	Nguyen lieu lam vong lien hoa
+Moc Lien Hoa	4	107	\spr\item\yulanpenjie\mulianhua.spr	444	1	1	Nguyen lieu lam vong lien hoa
+Thuy Lien Hoa	4	108	\spr\item\yulanpenjie\shuilianhua.spr	445	1	1	Nguyen lieu lam vong lien hoa
+Hoa Lien Hoa	4	109	\spr\item\yulanpenjie\huolianhua.spr	446	1	1	Nguyen lieu lam vong lien hoa
+Tho Lien Hoa	4	110	\spr\item\yulanpenjie\tulianhua.spr	447	1	1	Nguyen lieu lam vong lien hoa
+Vong Hoa Kim Lien	4	111	\spr\event\hoasen\vongkimlienhoa.spr	41	2	1	Khi su dung se nhan duoc 500.000 diem kinh nghiem
+Vong Hoa Moc Lien	4	112	\spr\event\hoasen\vongmoclienhoa.spr	41	2	1	Khi su dung se nhan duoc 500.001 diem kinh nghiem
+Vong Hoa Thuy Lien	4	113	\spr\event\hoasen\vongthuylienhoa.spr	41	2	1	Khi su dung se nhan duoc 500.002 diem kinh nghiem
+Vong Hoa Hoa Lien	4	114	\spr\event\hoasen\vonghoalienhoa.spr	41	2	1	Khi su dung se nhan duoc 500.003 diem kinh nghiem
+Vong Hoa Tho Lien	4	115	\spr\event\hoasen\vongtholienhoa.spr	41	2	1	Khi su dung se nhan duoc 500.004 diem kinh nghiem
+Kim Bang Tinh	4	116	\spr\event\hoingogiangsinh\jin_bingjin.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Moc Bang Tinh	4	117	\spr\event\hoingogiangsinh\mu_bingjin.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Thuy Bang Tinh	4	118	\spr\event\hoingogiangsinh\shui_bingjin.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Hoa Bang Tinh	4	119	\spr\event\hoingogiangsinh\huo_bingjin.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Tho Bang Tinh	4	120	\spr\event\hoingogiangsinh\tu_bingjin.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Ngu Sac Bang Tinh	4	121	\spr\event\hoingogiangsinh\wuse_bingjin.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Ca Rot	4	122	\spr\event\vuicungnguoituyet\carot.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Canh Thong	4	123	\spr\event\vuicungnguoituyet\canhthong.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Cay Thong	4	124	\spr\event\vuicungnguoituyet\caythong.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Non Noel	4	125	\spr\event\vuicungnguoituyet\nonnoeldo.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Bong Tuyet	4	126	\spr\event\vuicungnguoituyet\bongtuyet.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Khan Choang Do	4	127	\spr\event\vuicungnguoituyet\khanchoangdo.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Khan Choang Xanh	4	128	\spr\event\vuicungnguoituyet\khanchoangxanh.spr	41	1	1	Nguyen lieu lam nguoi tuyet
+Nguoi Tuyet	4	129	\spr\event\vuicungnguoituyet\nguoituyet.spr	461	1	1	Nhan doi kinh nghiem cho party trong 1 gio.
+Nguoi Tuyet Choang Khan Do	4	130	\spr\event\vuicungnguoituyet\nguoituyetchoangkhando.spr	461	1	1	Nhan doi kinh nghiem trong 1 gio.
+Nguoi Tuyet Choang Khan Xanh	4	131	\spr\event\vuicungnguoituyet\nguoituyetchoangkhanxanh.spr	461	1	1	Nhan doi kinh nghiem trong 30 phut.
+Nguoi Tuyet Dac Biet	4	132	\spr\event\vuicungnguoituyet\nguoituyetdacbiet.spr	461	1	1	Doi qua tai NPC Ong Gia Tuyet
+Nguoi Tuyet Choang Khan Do Dac Biet	4	133	\spr\event\vuicungnguoituyet\nguoituyetchoangkhandodacbiet.spr	461	1	1	Doi qua tai NPC Ong Gia Tuyet
+Nguoi Tuyet Choang Khan Xanh Dac Biet	4	134	\spr\event\vuicungnguoituyet\nguoituyetchoangkhanxanhdacbiet.spr	461	1	1	Doi qua tai NPC Ong Gia Tuyet
+Ga Loi Nuong	4	135	\spr\event\vuicungnguoituyet\galoinuong.spr	460	1	1	Khi su dung se nhan duoc 1.000.000 diem kinh nghiem
+Bot Tinh	4	136	\spr\ffantasy\eventtet\banhgato\mianfen.spr	41	1	1	Nguyen lieu lam <color=yellow>Banh Gato<color>。
+Duong Tinh	4	137	\spr\ffantasy\eventtet\banhgato\shatang.spr	41	1	1	Nguyen lieu lam <color=yellow>Banh Gato<color>。
+Sua Tuoi	4	138	\spr\ffantasy\eventtet\banhgato\mailk.spr	520	1	1	Nguyen lieu lam <color=yellow>Banh Gato<color>。
+Trung Ga	4	139	\spr\ffantasy\eventtet\banhgato\yadan.spr	41	1	1	Nguyen lieu lam <color=yellow>Banh Gato<color>。
+Mang Cau	4	140	\spr\ffantasy\eventtet\yn_manqiuguo.spr	434	1	1	Mot trong ngu qua ngay tet
+Xoai	4	141	\spr\ffantasy\eventtet\yn_mangguo.spr	437	1	1	Mot trong ngu qua ngay tet
+Dua Xiem	4	142	\spr\ffantasy\eventtet\yn_yezi.spr	435	1	1	Mot trong ngu qua ngay tet
+Sung	4	143	\spr\ffantasy\eventtet\yn_chengqunguo.spr	438	1	1	Mot trong ngu qua ngay tet
+Du Du	4	144	\spr\ffantasy\eventtet\yn_mugua.spr	436	1	1	Mot trong ngu qua ngay tet
+Hop Qua Giang Sinh	4	145	\spr\item\questkey\hopquagiangsinh.spr	344	1	1	Hop qua giang sinh
+Hop Van Du	4	146	\spr\item\questkey\hopqua\hopvandu.spr	377	1	1	Hop Van Du
+Hop Tien Vu	4	147	\spr\item\questkey\hopqua\hoptienvu.spr	377	1	1	Hop Tien Vu
+Tui Qua May Man	4	148	\spr\item\obj_item_jixiang.spr	347	1	1	Tui Qua May Man
+Tui Mung Xuan Hong	4	149	\spr\ffantasy\eventtet\tuidaihy\chuntiandalibao.spr	41	1	1	"Danh quai rot ra, ben trong co chua cac vat pham danh cho ngay le tet。"
+Tui Mung Xuan Do	4	150	\spr\ffantasy\eventtet\tuidaihy\xiatiandalibao.spr	41	1	1	"Danh quai rot ra, ben trong co chua cac vat pham danh cho ngay le tet。"
+Nguyen Lieu Mung Xuan	4	151	\spr\event\tanxuandaohoi\nguyenlieumungxuan.spr	516	1	1	"Danh quai rot ra, ben trong co chua cac vat pham danh cho ngay le tet。"
+Banh Bi Do	4	152	\spr\event\vuicungnguoituyet\banhbido.spr	41	1	1	"Trung thu nguyet binh, su dung hau kha hoach dac y ngoai kinh hi."
+Banh Gato Thuong	4	153	\spr\event\banhkem\banhkemthuong.spr	459	1	1	Sau khi su dung se nhan duoc <color=red>20.000.000 diem kinh nghiem<color> va vat pham ngau nhien.
+Banh Gato Thuong Hang	4	154	\spr\event\banhkem\banhkemthuonghang.spr	459	1	1	Sau khi su dung se nhan duoc <color=red>30.000.000 diem kinh nghiem<color> va vat pham ngau nhien.
+Banh Tet Nhan Dau	4	155	\spr\ffantasy\eventtet\banhchung\yn_chunbing_nan.spr	439	1	1	"<color=yellow>Banh Tet Nhan Dau<color> ngay tet, an vao se noi luc va sinh luc se tang 50% trong 10 phut"
+Banh Tet Thap Cam	4	156	\spr\ffantasy\eventtet\banhchung\yn_chunbing_nan.spr	439	1	1	"<color=yellow>Banh Tet Thap Cam<color> ngay tet, an vao se duoc <color=red>500.000 diem kinh nghiem<color>。"
+Banh Chung Thap Cam	4	157	\spr\ffantasy\eventtet\banhchung\yn_chunbing_bei.spr	366	1	1	"<color=yellow>Banh Chung Thap Cam<color> ngay tet, an vao se nhan duoc ngau nhien <color=red>10.000 den 20.000 diem kinh nghiem<color>。"
+Banh Chung Cao Cap	4	158	\spr\ffantasy\eventtet\banhchung\yn_chunbing_bei.spr	366	1	1	"<color=yellow>Banh Chung Cao Cap<color> ngay tet, an vao se duoc <color=red>40.000.000 diem kinh nghiem<color>。"
+Banh Chung Thuong Hang	4	159	\spr\ffantasy\eventtet\banhchung\yn_chunbing_bei.spr	366	1	1	"<color=yellow>Banh Chung Thuong Hang<color> ngay tet, an vao se duoc <color=red>3.000.000 diem kinh nghiem<color>。"
+Banh Chung Thuong	4	160	\spr\event\tanxuandaohoi\banhchungthuong.spr	366	1	1	"<color=yellow>Banh Chung Thuong<color> ngay tet, an vao se duoc <color=red>150.000.000 diem kinh nghiem<color>。"
+Banh Chung Hao Hang	4	161	\spr\event\tanxuandaohoi\banhchunghaohang.spr	366	1	1	"<color=yellow>Banh Chung Hao Hang<color> ngay tet, an vao se duoc <color=red>150.000.000 diem kinh nghiem<color>。"
+Banh Chung Thuong Hang	4	162	\spr\event\tanxuandaohoi\banhchungthuonghang.spr	366	1	1	"<color=yellow>Banh Chung Thuong Hang<color> ngay tet, an vao se duoc <color=red>150.000.000 diem kinh nghiem<color>。"
+Banh Trung Thu Thuong	4	163	\spr\event\lunglinhanhdenlong\banhtrungthuthuong.spr	468	1	1	Khi su dung se nhan duoc <color=red>10.000<color> diem kinh nghiem
+Banh Trung Thu Dau Xanh	4	164	\spr\event\lunglinhanhdenlong\banhtrungthudauxanh.spr	468	1	1	Khi su dung se nhan duoc <color=red>20.000<color> diem kinh nghiem
+Banh Trung Thu Nhan Trung	4	165	\spr\event\lunglinhanhdenlong\banhtrungthunhantrung.spr	468	1	1	Khi su dung se nhan duoc <color=red>50.000<color> diem kinh nghiem
+Banh Trung Thu Dac Biet	4	166	\spr\event\lunglinhanhdenlong\banhtrungthudacbiet.spr	468	1	1	Khi su dung se nhan duoc <color=red>100.000<color> diem kinh nghiem
+Banh Trung Thu Hat Sen	4	167	\spr\event\lunglinhanhdenlong\banhtrungthuhatsen.spr	468	1	1	Khi su dung se nhan duoc <color=red>200.000<color> diem kinh nghiem
+Banh Trung Thu Con Heo	4	168	\spr\event\lunglinhanhdenlong\banhtrungthuconheo.spr	468	2	1	Khi su dung se nhan duoc <color=red>1.000.000<color> diem kinh nghiem
+Banh Trung Thu Vong Nguyet	4	169	\spr\item\questkey\banh\banhtrungthuvongnguyet.spr	463	1	1	Khi su dung se nhan duoc <color=red>500.000<color> diem kinh nghiem
+Banh Trung Thu Kien Nguyet	4	170	\spr\item\questkey\banh\banhtrungthukiennguyet.spr	347	1	1	Khi su dung se nhan duoc <color=red>1.000.000<color> diem kinh nghiem
+Banh Trung Thu Thuong Nguyet	4	171	\spr\item\questkey\banh\banhtrungthuthuongnguyet.spr	347	1	1	Khi su dung se nhan duoc <color=red>3.000.000<color> diem kinh nghiem
+Long Den Keo Quan	4	172	\spr\event\lunglinhanhdenlong\longdenkeoquan.spr	456	1	1	Toi NPC <color=yellow>Le Quan<color> o cac thanh thi va thon lang de doi banh trung thu.
+Long Den Buom Buom	4	173	\spr\event\lunglinhanhdenlong\longdenbuombuom.spr	451	1	1	Toi NPC <color=yellow>Le Quan<color> o cac thanh thi va thon lang de doi banh trung thu.
+Long Den Ngoi Sao	4	174	\spr\event\lunglinhanhdenlong\longdenngoisao.spr	452	1	1	Toi NPC <color=yellow>Le Quan<color> o cac thanh thi va thon lang de doi banh trung thu.
+Long Den Ong	4	175	\spr\event\lunglinhanhdenlong\longdenong.spr	453	1	1	Toi NPC <color=yellow>Le Quan<color> o cac thanh thi va thon lang de doi banh trung thu.
+Long Den Tron	4	176	\spr\event\lunglinhanhdenlong\longdentron.spr	454	1	1	Toi NPC <color=yellow>Le Quan<color> o cac thanh thi va thon lang de doi banh trung thu.
+Long Den Ca Chep	4	177	\spr\event\lunglinhanhdenlong\longdencachep.spr	455	1	1	Toi NPC <color=yellow>Le Quan<color> o cac thanh thi va thon lang de doi banh trung thu.
+Giay Kieng Vang	4	178	\spr\event\lunglinhanhdenlong\giaykienvang.spr	41	1	1	Nguyen lieu lam den long
+Giay Kieng Luc	4	179	\spr\event\lunglinhanhdenlong\giaykienluc.spr	41	1	1	Nguyen lieu lam den long
+Giay Kieng Lam	4	180	\spr\event\lunglinhanhdenlong\giaykienlam.spr	41	1	1	Nguyen lieu lam den long
+Giay Kieng Cam	4	181	\spr\event\lunglinhanhdenlong\giaykiencam.spr	41	1	1	Nguyen lieu lam den long
+Giay Kieng Do	4	182	\spr\event\lunglinhanhdenlong\giaykiendo.spr	41	1	1	Nguyen lieu lam den long
+Tre	4	183	\spr\event\lunglinhanhdenlong\thanhtre.spr	41	1	1	Nguyen Lieu Lam Long Den
+Day Coi	4	184	\spr\event\lunglinhanhdenlong\daycoi.spr	41	1	1	Nguyen Lieu Lam Long Den
+Gao Nep	4	185	\spr\event\tanxuandaohoi\gaonep.spr	363	1	1	<color=yellow>Gao Nep<color> nguyen lieu khong the thieu dung de goi banh tet。
+Thit Heo	4	186	\spr\event\tanxuandaohoi\thitheo.spr	364	1	1	Nguyen lieu lam banh chung
+La Dong	4	187	\spr\event\tanxuandaohoi\ladong.spr	362	1	1	Nguyen lieu lam banh chung
+Dau Xanh	4	188	\spr\event\tanxuandaohoi\dauxanh.spr	41	1	1	Nguyen lieu lam banh chung
+Phuc	4	189	\spr\event\tanxuandaohoi\phuc.spr	41	2	1	Thu thap du ba chu PHUC - LOC - THO de nhan phan thuong
+Loc	4	190	\spr\event\tanxuandaohoi\loc.spr	41	2	1	Thu thap du ba chu PHUC - LOC - THO de nhan phan thuong
+Tho	4	191	\spr\event\tanxuandaohoi\tho.spr	41	2	1	Thu thap du ba chu PHUC - LOC - THO de nhan phan thuong
+Nen Bat Tran Phuc Nguyet	4	192	\spr\item\questkey\nen\nenbattranphucnguyet.spr	462	1	1	Nen Trang
+Nen Do	4	193	\spr\item\questkey\nen\nendoto.spr	462	1	1	Nen Do
+Nen Vui Ve	4	194	\spr\item\questkey\nen\nenvuive.spr	347	1	1	Nen Vui Ve
+Nen Binh An	4	195	\spr\item\questkey\nen\nenbinhan.spr	347	1	1	Nen Binh An
+Nen May Man	4	196	\spr\item\questkey\nen\nenmayman.spr	361	1	1	Nen May Man
+Nen Hanh Phuc	4	197	\spr\item\questkey\nen\nenhanhphuc.spr	362	1	1	Nen Hanh Phuc
+Nen Tien Vu	4	198	\spr\item\questkey\nen\nentienvu.spr	360	1	1	Nen Tien Vu
+Nen Van Du	4	199	\spr\item\questkey\nen\nenvandu.spr	380	1	1	Nen Van Du
+Nen Thuong Nguyet	4	200	\spr\item\questkey\nen\nenthuongnguyet.spr	462	1	1	Nen Thuong Nguyet
+Minh Nguyet Tuu	4	201	\spr\item\questkey\ruou\minhnguyettuu.spr	21	1	1	Khi su dung chung voi banh trunh thu kien nguyet va thuong nguyet thi co the nhan them 1.5 ty diem kinh nghiem!
+Ngu Sac Long Chau (Kim)	4	202	\spr\item\questkey\ngusaclongchau\ngusaclongchaukim.spr	341	1	1	Ngu Sac Long Chau (Kim)
+Ngu Sac Long Chau (Moc)	4	203	\spr\item\questkey\ngusaclongchau\ngusaclongchaumoc.spr	341	1	1	Ngu Sac Long Chau (Moc)
+Ngu Sac Long Chau (Thuy)	4	204	\spr\item\questkey\ngusaclongchau\ngusaclongchauthuy.spr	341	1	1	Ngu Sac Long Chau (Thuy)
+Ngu Sac Long Chau (Hoa)	4	205	\spr\item\questkey\ngusaclongchau\ngusaclongchauhoa.spr	341	1	1	Ngu Sac Long Chau (Hoa)
+Ngu Sac Long Chau (Tho)	4	206	\spr\item\questkey\ngusaclongchau\ngusaclongchautho.spr	341	1	1	Ngu Sac Long Chau (Tho)
+Ngu Sac Phung Vu (Kim)	4	207	\spr\item\questkey\ngusacphungvu\ngusacphungvukim.spr	341	1	1	Ngu Sac Phung Vu (Kim)
+Ngu Sac Phung Vu (Moc)	4	208	\spr\item\questkey\ngusacphungvu\ngusacphungvumoc.spr	341	1	1	Ngu Sac Phung Vu (Moc)
+Ngu Sac Phung Vu (Thuy)	4	209	\spr\item\questkey\ngusacphungvu\ngusacphungvuthuy.spr	341	1	1	Ngu Sac Phung Vu (Thuy)
+Ngu Sac Phung Vu (Hoa)	4	210	\spr\item\questkey\ngusacphungvu\ngusacphungvuhoa.spr	341	1	1	Ngu Sac Phung Vu (Hoa)
+Ngu Sac Phung Vu (Tho)	4	211	\spr\item\questkey\ngusacphungvu\ngusacphungvutho.spr	341	1	1	Ngu Sac Phung Vu (Tho)
+Banh Ky Nang	4	212	\spr\item\questkey\banh\banhkynang.spr	341	1	1	Khi su dung se tang 1 diem ky nang
+Banh Tiem Nang	4	213	\spr\item\questkey\banh\banhtiemnang.spr	341	1	1	Khi su dung se tang 5 diem tiem nang
+Bi Kip Mon Phai	4	214	\spr\item\questkey\obj_item_lection.spr	341	1	1	Bi kiep vo cong cac phai
+Bi Kip Ky Nang 120	4	215	\spr\item\questkey\obj_item_lection.spr	341	1	1	Bi kiep vo cong 120 cac phai
+Duong Mon Mat Tich	4	216	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Ky tai lieu duong mon vu cong dich bi tich, doi duong mon de tu huu ngan dai bang tro."
+Bao Vu le Hoa	4	217	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Ky tai lieu duong mon bao vu le hoa dich bi mat, duong mon de tu nhan thu kha di ung huu bao vu le hoa gia hang nang luc."
+Loan Hoan Kich	4	218	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Duong mon ham tinh thuat trung loan hoan kich thien, hoc tap kha di hoach dac loan hoan kich ham tinh ky xao."
+Thai Cuc Quyen	4	219	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Vu duong thai cuc quyen phap dich bi luc, tu te toan nghien kha di tap dac < thien dia vo cuc >."
+Thai Cuc Kiem	4	220	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Ky thuat vu duong tuyet ky thai cuc kiem phap dich cao tham chieu so, hoc tap kha di hoach dac < nhan kiem hop nhat > chieu thuc."
+Van Long Kich	4	221	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Ky luc lieu thien nhan mau phap dich cao cap chieu thuc, hoc tap kha hoach dac < van long kich > chieu thuc."
+Luu Tinh Dao Phap	4	222	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Thien nhan dao phap trung cao cap chieu thuc dich van tu ky luc, hoc tap kha hoach dac < thien ngoai luu tinh > chieu thuc."
+Thien Vuong Chuy Phap	4	223	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Thu trung van hoi lieu thien vuong chuy phap dich cac chung tinh yeu dong tac, tu te nghien tap kha di hoc dich < truy phong quyet > chieu thuc."
+Thien Vuong Thuong Phap	4	224	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Thien vuong thuong phap de tam quyen, ky luc lieu < truy tinh truc nguyet > chieu thuc."
+Thien Vuong Dao Phap	4	225	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Tuong te mieu thuat lieu thien vuong dao phap dich cac ca tinh yeu chieu thuc, nghien tap kha di hoach dac < pha thien tram >."
+Thuy Yen Dao Phap	4	226	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Giang thuat thuy yen dao phap dich vu cong bi tich, kha di tong trung hoc dac < bang tung vo anh > chieu thuc."
+Thuy Yen Song Dao	4	227	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Giang thuat thuy yen song dao dich vu cong bi tich, kha di tong trung hoc dac < bang tam tien tu > chieu thuc."
+Diet Kiem Mat Tich	4	228	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Nga mi diet kiem bi tich, ky trung ky tai lieu diet kiem trung dich tuyet dieu chieu thuc < tam nga te tuyet >."
+Nga Mi Phat Quang Chuong Mat Tich	4	229	\spr\item\questkey\obj_item_lection.spr	341	1	1	Giang thuat nga mi chuong phap trung cao cap chieu thuc < phong suong toai anh > dich thu tich.
+Nhiep Hon Nguyet Anh	4	230	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Duong mon phi dao thuat, hoc tap kha hoach dac < nhiep hon nguyet anh > ky nang."
+Cuu Cung Phi Tinh	4	231	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Duong mon phi phieu thuat, hoc tap kha hoach dac < cuu cung phi tinh > ky nang."
+Ngu Doc Chuong Phap	4	232	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Ngu doc chuong phap, hoc tap kha hoach dac < am phong thuc cot > ky nang."
+Ngu Doc Dao Phap	4	233	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Ngu doc dao phap, hoc tap kha hoach dac < huyen am tram > ky nang."
+Ngu Doc Nhiep Tam Thuat	4	234	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Ngu doc phu tro tam phap, hoc tap kha hoach dac < doan can hu cot > ky nang."
+Ngu Phong Thuat	4	235	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Con lon dao phap, hoc tap hau kha hoach dac < ngao tuyet khieu phong > ky nang."
+Ngu Loi Thuat	4	236	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Con lon kiem phap, hoc tap hau kha hoach dac < loi dong cuu thien > ky nang."
+Ngu Tam Thuat	4	237	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Con lon tam phap, hoc tap hau kha hoach dac < tuy tien thac cot > ky nang."
+Cai Bang Chuong Phap	4	238	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Cai bang chuong phap, hoc tap hau kha hoach dac < phi long tai thien > ky nang."
+Cai Bang Con Phap	4	239	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Cai bang con phap, hoc tap hau kha hoach dac < thien ha vo cau > ky nang."
+Thieu Lam Quyen Phap	4	240	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Thieu lam quyen phap, hoc tap hau kha hoach dac < dat ma do giang > ky nang."
+Thieu Lam Con Phap	4	241	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Thieu lam con phap, hoc tap hau kha hoach dac < hoanh tao thien quan > ky nang."
+Thieu Lam Dao Phap	4	242	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Thieu lam dao phap, hoc tap hau kha hoach dac < vo tuong tram > ky nang."
+Pho Do Mat Tich	4	243	\spr\item\questkey\obj_item_lection.spr	341	1	1	"Pho do bi tich, ky tai lieu < pho do chung sinh > dich chieu thuc."
+Hoang Kim Vu Khi Hop Thanh Do Pho	4	244	\spr\item\script\item_huangjintupu.spr	508	1	1	"<color=yellow>8 cap hoac 8 cap di thuong huyen tinh <enter> tay tuy kinh <enter> vu lam bi tich <enter> hong dong quang <enter> tu thuy tinh, luc thuy tinh, lam thuy tinh <color>"
+Hoang Kim Trang Bi Hop Thanh Do Pho	4	245	\spr\item\script\item_huangjintupu.spr	508	1	1	"<color=yellow>8 cap hoac 8 cap di thuong huyen tinh <enter> tay tuy kinh <enter> vu lam bi tich <enter> hong dong quang <enter> tu thuy tinh, luc thuy tinh, lam thuy tinh <color>"
+Tien Dong	4	246	\spr\item\tongqian.spr	373	1	1	Loai tien rat gia tri voi cac thuong gia.
+Cong Trang Lenh	4	247	\spr\item\questkey\006.spr	385	1	1	Cong Trang Lenh Bai
+Thien Son Tuyet Lien	4	248	\spr\item\script\tianshanxuelian.spr	445	1	1	Hoa Son Tuyet Lien sau khi su dung tang duoc 300 trieu diem kinh nghiem.
+Chuyen Sinh Kiep	4	249	\spr\item\script\tisheng.spr	413	1	1	Mang theo trong nguoi khi muon Chuyen Sinh nhan vat.
+Yem Nhat Kiem	4	250	\spr\item\questkey\taskobj114.spr	9	1	2	"Mot trong <color=green>Luc Tieu Kiem Chi Bao<color>, khi thu thap du 6 thanh tat co su kien."
+Doan Thuy Kiem	4	251	\spr\item\questkey\taskobj115.spr	9	1	2	"Mot trong <color=green>Luc Tieu Kiem Chi Bao<color>, khi thu thap du 6 thanh tat co su kien."
+Chuyen Phach Kiem	4	252	\spr\item\questkey\taskobj116.spr	9	1	2	"Mot trong <color=green>Luc Tieu Kiem Chi Bao<color>, khi thu thap du 6 thanh tat co su kien."
+Khu Ta Kiem	4	253	\spr\item\questkey\taskobj117.spr	9	1	2	"Mot trong <color=green>Luc Tieu Kiem Chi Bao<color>, khi thu thap du 6 thanh tat co su kien."
+Diet Hon Kiem	4	254	\spr\item\questkey\taskobj118.spr	9	1	2	"Mot trong <color=green>Luc Tieu Kiem Chi Bao<color>, khi thu thap du 6 thanh tat co su kien."
+Vu Vuong Kiem	4	255	\spr\item\questkey\taskobj050.spr	9	1	1	"Mot trong <color=green>Luc Tieu Kiem Chi Bao<color>, khi thu thap du 6 thanh tat co su kien."
+Qua Phao Dai	4	256	\spr\item\questkey\phao\quaphaodai.spr	462	1	2	Huu kien diem kich kha tang gia chien dau kinh nghiem
+Qua Phao Trung	4	257	\spr\item\questkey\phao\quaphaotrung.spr	462	1	2	Ban dien dong kinh
+Qua Phao Tieu	4	258	\spr\item\questkey\phao\quaphaotieu.spr	462	1	1	Ban dien dong kinh
+Phong Phao Dai	4	259	\spr\item\questkey\phao\phongphaodai.spr	463	1	2	Ban dien dong kinh
+Phong Phao Trung	4	260	\spr\item\questkey\phao\phongphaotrung.spr	463	1	2	"Nhap bang than phan chung minh, kha huong bang hoi bang chu tac yeu"
+Phong Phao Tieu	4	261	\spr\item\questkey\phao\phongphaotieu.spr	463	1	1	"Nhap bang than phan chung minh, kha huong bang hoi bang chu tac yeu"

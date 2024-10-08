@@ -1,0 +1,17 @@
+TASK	SCRIPT
+1	\script\missions\擂台赛\擂台赛报名计时.lua
+2	\script\missions\擂台赛\擂台赛消息触发器.lua
+3	\script\missions\擂台赛\擂台赛总时间触发器.lua
+4	\script\missions\宋金战场pk战\宋金战场消息触发器.lua
+5	\script\missions\宋金战场pk战\赛程总时间触发器.lua
+6	\script\class\ontime_notify.lua
+7	\script\class\flower\flower1.lua
+8	\script\class\flower\flower2.lua
+9	\script\class\flower\flowerhead.lua
+10	\script\class\ontime_marriage.lua
+11	\script\missions\pktimer1.lua
+12	\script\Global\jiaoben\boss2
+13	\script\missions\闯关\闯关消息触发器.lua
+14	\script\missions\闯关\闯关总时间触发器.lua
+15	\script\missions\攻城战\攻城战场消息触发器.lua
+16	\script\missions\攻城战\攻城战总时间触发器.lua
